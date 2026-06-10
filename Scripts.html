@@ -55,6 +55,15 @@
   .copybtn { display: inline-flex; align-items: center; gap: 7px; margin: 18px 0 4px; padding: 9px 16px; background: var(--navy); color: #fff; border: none; border-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer; }
   .copybtn:hover { background: var(--navy2); }
   .copybtn.copied { background: var(--teal); }
+  .copybtn.alt { background: #fff; color: var(--navy); border: 1px solid var(--navy); margin-left: 8px; }
+  .copybtn.alt:hover { background: var(--bg); }
+  .caps { margin-top: 18px; }
+  .cap-row { display: flex; gap: 10px; align-items: flex-start; padding: 11px 0; border-bottom: 1px solid var(--line); }
+  .cap-row:last-child { border-bottom: none; }
+  .cap-txt { flex: 1; font-size: 14.5px; }
+  .minicopy { flex: none; padding: 6px 12px; background: #fff; border: 1px solid var(--line); border-radius: 7px; font-size: 12px; font-weight: 600; cursor: pointer; color: var(--navy); white-space: nowrap; }
+  .minicopy:hover { background: var(--bg); }
+  .minicopy.copied { background: var(--teal); color: #fff; border-color: var(--teal); }
   .empty { text-align: center; color: var(--muted); padding: 50px; }
   footer { text-align: center; color: var(--muted); font-size: 13px; margin-top: 40px; }
 </style>
@@ -88,6 +97,11 @@ const SCRIPTS = [
     date: "2026-06-10",
     cta: "Schedule a call",
     images: [ { file: "low-appraisal-card.png", label: "Option B — story-hook card (1080×1920)" } ],
+    captions: [
+      "Your appraisal came in low. Here's what to do before you panic. 👇",
+      "A low appraisal doesn't mean a dead deal — it means you need the right team. Schedule a call, link in bio.",
+      "We had a $535k deal appraise $60k under. The seller wouldn't budge. Here's what your options actually are."
+    ],
     body: `
       <h2>Hook</h2>
       <p>If your appraisal comes in lower than your contract price, your deal is not automatically dead. But you need to know your options — fast.</p>
@@ -110,23 +124,31 @@ const SCRIPTS = [
       <h2>End Result</h2>
       <p>The buyers who get through a low appraisal without losing their minds are the ones who had the right agent and lender in their corner before it happened — not after. So if you want someone who's going to walk you through exactly what to do when something like this comes up, schedule a call with me. Link is in my bio.</p>
       <div class="block"><strong>Image option (chosen):</strong> Option B — story-hook card. Built: low-appraisal-card.png</div>
-      <div class="block"><strong>Captions:</strong><br>
-        1. Your appraisal came in low. Here's what to do before you panic. 👇<br>
-        2. A low appraisal doesn't mean a dead deal — it means you need the right team. Schedule a call, link in bio.<br>
-        3. We had a $535k deal appraise $60k under. The seller wouldn't budge. Here's what your options actually are.</div>
     `
   }
 ];
 
+function flash(btn, label){
+  const old = btn.innerHTML; btn.innerHTML = label || '✓ Copied'; btn.classList.add('copied');
+  setTimeout(()=>{ btn.innerHTML = old; btn.classList.remove('copied'); }, 1600);
+}
+function doCopy(btn, text, label){
+  navigator.clipboard.writeText(text).then(()=> flash(btn, label))
+    .catch(()=> alert('Copy failed — select the text manually.'));
+}
 function copyScript(e, n){
   e.stopPropagation();
   const nodes = document.querySelectorAll(`#card-${n} .body p, #card-${n} .body li`);
   const text = Array.from(nodes).map(el => el.textContent.trim()).filter(Boolean).join('\n\n');
-  const btn = e.currentTarget;
-  navigator.clipboard.writeText(text).then(()=>{
-    const old = btn.innerHTML; btn.innerHTML = '✓ Copied'; btn.classList.add('copied');
-    setTimeout(()=>{ btn.innerHTML = old; btn.classList.remove('copied'); }, 1800);
-  }).catch(()=>{ alert('Copy failed — select the text manually.'); });
+  doCopy(e.currentTarget, text);
+}
+function copyTitle(e, n){
+  e.stopPropagation();
+  doCopy(e.currentTarget, SCRIPTS.find(s=>s.n===n).title);
+}
+function copyCaption(e, n, i){
+  e.stopPropagation();
+  doCopy(e.currentTarget, SCRIPTS.find(s=>s.n===n).captions[i], '✓');
 }
 
 let filter = "all";
@@ -145,6 +167,7 @@ function render(){
     const tcls = s.type==="Talking Head" ? "b-talk":"b-reenact";
     const scls = "s-"+s.status.toLowerCase();
     const assets = (s.images && s.images.length) ? `<div class="assets"><h2>Image assets</h2><div class="asset-grid">${s.images.map(im=>`<div class="asset"><a href="${im.file}" target="_blank"><img src="${im.file}" alt="${im.label}"></a><div class="cap">${im.label}<br><a href="${im.file}" target="_blank">open full size ↗</a></div></div>`).join('')}</div></div>` : '';
+    const caps = (s.captions && s.captions.length) ? `<div class="caps"><h2>Captions</h2>${s.captions.map((c,i)=>`<div class="cap-row"><span class="cap-txt">${c}</span><button class="minicopy" onclick="copyCaption(event,${s.n},${i})">📋 Copy</button></div>`).join('')}</div>` : '';
     return `<div class="card" id="card-${s.n}">
       <div class="row" onclick="document.getElementById('card-${s.n}').classList.toggle('open')">
         <div class="num">${s.n}</div>
@@ -156,7 +179,7 @@ function render(){
         <span class="status ${scls}">${s.status}</span>
         <span class="chev">▸</span>
       </div>
-      <div class="body"><button class="copybtn" onclick="copyScript(event, ${s.n})"><span class="ti">📋</span> Copy for teleprompter</button>${s.body}${assets}</div>
+      <div class="body"><button class="copybtn" onclick="copyScript(event, ${s.n})">📋 Copy for teleprompter</button><button class="copybtn alt" onclick="copyTitle(event, ${s.n})">📋 Copy title</button>${s.body}${caps}${assets}</div>
     </div>`;
   }).join('');
 }
