@@ -52,6 +52,9 @@
   .asset img { width: 150px; border-radius: 10px; border: 1px solid var(--line); display: block; background: #fff; }
   .asset .cap { font-size: 12px; color: var(--muted); margin-top: 5px; text-align: center; word-break: break-all; }
   .asset a { font-size: 12px; color: var(--blue); text-decoration: none; }
+  .copybtn { display: inline-flex; align-items: center; gap: 7px; margin: 18px 0 4px; padding: 9px 16px; background: var(--navy); color: #fff; border: none; border-radius: 8px; font-size: 14px; font-weight: 600; cursor: pointer; }
+  .copybtn:hover { background: var(--navy2); }
+  .copybtn.copied { background: var(--teal); }
   .empty { text-align: center; color: var(--muted); padding: 50px; }
   footer { text-align: center; color: var(--muted); font-size: 13px; margin-top: 40px; }
 </style>
@@ -115,6 +118,17 @@ const SCRIPTS = [
   }
 ];
 
+function copyScript(e, n){
+  e.stopPropagation();
+  const nodes = document.querySelectorAll(`#card-${n} .body p, #card-${n} .body li`);
+  const text = Array.from(nodes).map(el => el.textContent.trim()).filter(Boolean).join('\n\n');
+  const btn = e.currentTarget;
+  navigator.clipboard.writeText(text).then(()=>{
+    const old = btn.innerHTML; btn.innerHTML = '✓ Copied'; btn.classList.add('copied');
+    setTimeout(()=>{ btn.innerHTML = old; btn.classList.remove('copied'); }, 1800);
+  }).catch(()=>{ alert('Copy failed — select the text manually.'); });
+}
+
 let filter = "all";
 function setFilter(el){ document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active')); el.classList.add('active'); filter = el.dataset.f; render(); }
 
@@ -142,7 +156,7 @@ function render(){
         <span class="status ${scls}">${s.status}</span>
         <span class="chev">▸</span>
       </div>
-      <div class="body">${s.body}${assets}</div>
+      <div class="body"><button class="copybtn" onclick="copyScript(event, ${s.n})"><span class="ti">📋</span> Copy for teleprompter</button>${s.body}${assets}</div>
     </div>`;
   }).join('');
 }
