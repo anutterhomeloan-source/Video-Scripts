@@ -180,6 +180,14 @@ This is Jordan's filming library — she films from this PC, scanning the index,
 How images are generated: build the graphic as a standalone HTML file sized to 1080×1920, then render to PNG with Edge headless:
 `& "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --headless --disable-gpu --hide-scrollbars --window-size=1080,1920 --screenshot="out.png" "card.html"`
 
+**Auto-push to GitHub (do this every time the library changes).** The library folder is a git repo connected to `https://github.com/anutterhomeloan-source/Video-Scripts` and published via GitHub Pages at `https://anutterhomeloan-source.github.io/Video-Scripts/Scripts.html`. After saving/updating any script, image, index, or dashboard — and after a status change — commit and push automatically so the live dashboard stays current. Run:
+```
+git -C "C:\Users\jnutter\Documents\Video Scripts" add -A
+git -C "C:\Users\jnutter\Documents\Video Scripts" commit -m "Add/update: <script title or change>"
+git -C "C:\Users\jnutter\Documents\Video Scripts" push
+```
+Always keep the `skill/SKILL.md` backup copy in the library in sync with this file when the skill itself changes, then push. The GitHub Pages site rebuilds ~1 min after each push.
+
 **Update the HTML dashboard.** The library also has `Scripts.html` — a browser dashboard Jordan films from (search, filter by type/status, click to expand each full script). It holds the script data in a `const SCRIPTS = [...]` array near the bottom. When a script is approved, add a new object to that array (newest first): `{ n, title, type, status, date, cta, image, body }` where `body` is the full script as HTML (use `<h2>` for PEACE section labels, `<p>` for lines, `<div class="visual">` for VISUAL lines, `<ul>/<li>` for option lists, `<div class="block">` for image options and captions). When status changes (Filmed/Posted), update the `status` field there too. Keep `_INDEX.md`, the per-script `.md` file, and `Scripts.html` in sync.
 
 ---
