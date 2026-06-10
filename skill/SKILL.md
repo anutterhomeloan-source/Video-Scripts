@@ -188,7 +188,12 @@ git -C "C:\Users\jnutter\Documents\Video Scripts" push
 ```
 Always keep the `skill/SKILL.md` backup copy in the library in sync with this file when the skill itself changes, then push. The GitHub Pages site rebuilds ~1 min after each push.
 
-**Update the HTML dashboard.** The library also has `Scripts.html` — a browser dashboard Jordan films from (search, filter by type/status, click to expand each full script). It holds the script data in a `const SCRIPTS = [...]` array near the bottom. When a script is approved, add a new object to that array (newest first): `{ n, title, type, status, date, cta, image, body }` where `body` is the full script as HTML (use `<h2>` for PEACE section labels, `<p>` for lines, `<div class="visual">` for VISUAL lines, `<ul>/<li>` for option lists, `<div class="block">` for image options and captions). When status changes (Filmed/Posted), update the `status` field there too. Keep `_INDEX.md`, the per-script `.md` file, and `Scripts.html` in sync.
+**Update the HTML dashboard.** The library also has `Scripts.html` — a browser dashboard Jordan films from (search, filter by type/status, click to expand each full script). It holds the script data in a `const SCRIPTS = [...]` array near the bottom. When a script is approved, add a new object to that array (newest first): `{ n, title, type, status, date, cta, images, captions, body }` where:
+- `body` = the full script as HTML (use `<h2>` for PEACE section labels, `<p>` for spoken lines, `<div class="visual">` for VISUAL lines, `<ul>/<li>` for option lists, `<div class="block">` for the image-option note). Do NOT put captions in the body.
+- `captions` = an array of caption strings, e.g. `["caption one", "caption two"]`. The dashboard renders each with its own one-click copy button.
+- `images` = array of `{ file, label }` (see image-assets note above).
+
+The dashboard auto-provides per-script buttons: "Copy for teleprompter" (spoken `<p>`/`<li>` lines only — no headings/visuals/captions), "Copy title", and a copy button per caption. These come from the template — preserve them when regenerating. When status changes (Filmed/Posted), update the `status` field there too. Keep `_INDEX.md`, the per-script `.md` file, and `Scripts.html` in sync.
 
 ---
 
