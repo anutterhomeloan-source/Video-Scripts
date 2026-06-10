@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jordan's Video Scripts</title>
+<style>
+  :root {
+    --navy: #042C53; --navy2: #0C447C; --blue: #378ADD; --bluelt: #85B7EB;
+    --red: #E24B4A; --teal: #1D9E75; --amber: #BA7517;
+    --bg: #f5f6f8; --card: #ffffff; --line: #e2e5ea; --ink: #1a2230; --muted: #6b7480;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: var(--bg); color: var(--ink); line-height: 1.6; padding: 32px 20px 80px; }
+  .wrap { max-width: 920px; margin: 0 auto; }
+  header { margin-bottom: 28px; }
+  h1 { font-size: 28px; font-weight: 700; color: var(--navy); }
+  .sub { color: var(--muted); font-size: 15px; margin-top: 4px; }
+  .toolbar { display: flex; gap: 10px; flex-wrap: wrap; margin: 22px 0 18px; align-items: center; }
+  .toolbar input { flex: 1; min-width: 200px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 8px; font-size: 15px; }
+  .chip { padding: 7px 14px; border: 1px solid var(--line); background: var(--card); border-radius: 999px; font-size: 13px; cursor: pointer; user-select: none; }
+  .chip.active { background: var(--navy); color: #fff; border-color: var(--navy); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 14px; overflow: hidden; }
+  .row { display: flex; align-items: center; gap: 14px; padding: 16px 20px; cursor: pointer; }
+  .row:hover { background: #fafbfc; }
+  .num { width: 28px; height: 28px; flex: none; border-radius: 50%; background: var(--navy); color: #fff; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 600; }
+  .meta { flex: 1; min-width: 0; }
+  .title { font-weight: 600; font-size: 16px; }
+  .submeta { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .badge { font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; white-space: nowrap; }
+  .b-talk { background: #E6F1FB; color: var(--navy2); }
+  .b-reenact { background: #FBEAF0; color: #993556; }
+  .status { font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; white-space: nowrap; }
+  .s-scripted { background: #FAEEDA; color: var(--amber); }
+  .s-filmed { background: #E1F5EE; color: var(--teal); }
+  .s-posted { background: #EAF3DE; color: #3B6D11; }
+  .chev { color: var(--muted); font-size: 18px; transition: transform .15s; }
+  .card.open .chev { transform: rotate(90deg); }
+  .body { display: none; padding: 4px 24px 26px; border-top: 1px solid var(--line); }
+  .card.open .body { display: block; }
+  .body h2 { font-size: 13px; letter-spacing: 1px; text-transform: uppercase; color: var(--blue); margin: 20px 0 6px; }
+  .body p { margin: 0 0 10px; font-size: 15.5px; }
+  .body .visual { background: #FAEEDA; border-left: 3px solid var(--amber); padding: 8px 12px; font-size: 14px; margin: 8px 0; border-radius: 0 6px 6px 0; }
+  .body ul { margin: 4px 0 12px 22px; font-size: 15.5px; }
+  .body li { margin-bottom: 6px; }
+  .block { background: #f7f8fa; border: 1px solid var(--line); border-radius: 8px; padding: 12px 16px; margin-top: 14px; font-size: 14.5px; }
+  .block strong { color: var(--navy); }
+  .assets { margin-top: 16px; }
+  .assets h2 { margin-top: 0; }
+  .asset-grid { display: flex; gap: 14px; flex-wrap: wrap; }
+  .asset { width: 150px; }
+  .asset img { width: 150px; border-radius: 10px; border: 1px solid var(--line); display: block; background: #fff; }
+  .asset .cap { font-size: 12px; color: var(--muted); margin-top: 5px; text-align: center; word-break: break-all; }
+  .asset a { font-size: 12px; color: var(--blue); text-decoration: none; }
+  .empty { text-align: center; color: var(--muted); padding: 50px; }
+  footer { text-align: center; color: var(--muted); font-size: 13px; margin-top: 40px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🎬 Jordan's Video Scripts</h1>
+    <div class="sub">Your filming library. Click any script to expand. Search or filter to find one fast.</div>
+  </header>
+
+  <div class="toolbar">
+    <input id="search" type="text" placeholder="Search titles, topics, captions…" oninput="render()">
+    <span class="chip active" data-f="all" onclick="setFilter(this)">All</span>
+    <span class="chip" data-f="Talking Head" onclick="setFilter(this)">Talking Head</span>
+    <span class="chip" data-f="Reenactment" onclick="setFilter(this)">Reenactment</span>
+    <span class="chip" data-f="Scripted" onclick="setFilter(this)">Ready to film</span>
+  </div>
+
+  <div id="list"></div>
+  <footer>Filming from this PC · scripts live in Documents\Video Scripts</footer>
+</div>
+
+<script>
+const SCRIPTS = [
+  {
+    n: 1,
+    title: "Low Appraisal — What To Do When It Happens",
+    type: "Talking Head",
+    status: "Scripted",
+    date: "2026-06-10",
+    cta: "Schedule a call",
+    images: [ { file: "low-appraisal-card.png", label: "Option B — story-hook card (1080×1920)" } ],
+    body: `
+      <h2>Hook</h2>
+      <p>If your appraisal comes in lower than your contract price, your deal is not automatically dead. But you need to know your options — fast.</p>
+      <h2>Branding</h2>
+      <p>If you don't know who I am, my name is Jordan Nutter and I help mortgages make sense.</p>
+      <h2>Problem + Empathy</h2>
+      <p>So here's the thing most buyers don't realize. Your lender — aka me — bases the value of the home on the appraisal, not the contract price. So if the appraisal comes in lower, there's a gap. And when buyers see that number, they panic. Which makes sense — nobody tells you this is even a possibility.</p>
+      <p>We actually had a deal under contract at $535,000 that appraised $60,000 under. That's a big gap. And the seller wouldn't budge, so the deal had to be cancelled. But what I want you to know is — we had options before we got to that point.</p>
+      <div class="visual">VISUAL: Story-hook card — "$535,000 contract / $60,000 under appraisal / Here's what happened." (low-appraisal-card.png)</div>
+      <h2>Answer + Change</h2>
+      <p>When a low appraisal happens, here's what you can actually do:</p>
+      <div class="visual">VISUAL: Simple 4-option list overlay — "When the appraisal comes in low…"</div>
+      <ul>
+        <li><strong>Option one</strong> — renegotiate the price with the seller. Sometimes they'll come down, especially if they want the deal to close.</li>
+        <li><strong>Option two</strong> — bring extra cash to cover the gap. If you love the home and you have it, this might be worth it.</li>
+        <li><strong>Option three</strong> — request a value reconsideration. If there are better comps your appraiser missed, your lender can push back on that number.</li>
+        <li><strong>Option four</strong> — walk away. And honestly? Sometimes that's the right financial decision.</li>
+      </ul>
+      <div class="visual">VISUAL: Highlight "value reconsideration" — "Most buyers don't know this exists"</div>
+      <h2>End Result</h2>
+      <p>The buyers who get through a low appraisal without losing their minds are the ones who had the right agent and lender in their corner before it happened — not after. So if you want someone who's going to walk you through exactly what to do when something like this comes up, schedule a call with me. Link is in my bio.</p>
+      <div class="block"><strong>Image option (chosen):</strong> Option B — story-hook card. Built: low-appraisal-card.png</div>
+      <div class="block"><strong>Captions:</strong><br>
+        1. Your appraisal came in low. Here's what to do before you panic. 👇<br>
+        2. A low appraisal doesn't mean a dead deal — it means you need the right team. Schedule a call, link in bio.<br>
+        3. We had a $535k deal appraise $60k under. The seller wouldn't budge. Here's what your options actually are.</div>
+    `
+  }
+];
+
+let filter = "all";
+function setFilter(el){ document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active')); el.classList.add('active'); filter = el.dataset.f; render(); }
+
+function render(){
+  const q = document.getElementById('search').value.toLowerCase();
+  const list = document.getElementById('list');
+  const items = SCRIPTS.filter(s=>{
+    if(filter!=="all" && s.type!==filter && s.status!==filter) return false;
+    if(q && !(s.title+s.body+s.cta).toLowerCase().includes(q)) return false;
+    return true;
+  });
+  if(!items.length){ list.innerHTML = '<div class="empty">No scripts match.</div>'; return; }
+  list.innerHTML = items.map(s=>{
+    const tcls = s.type==="Talking Head" ? "b-talk":"b-reenact";
+    const scls = "s-"+s.status.toLowerCase();
+    const assets = (s.images && s.images.length) ? `<div class="assets"><h2>Image assets</h2><div class="asset-grid">${s.images.map(im=>`<div class="asset"><a href="${im.file}" target="_blank"><img src="${im.file}" alt="${im.label}"></a><div class="cap">${im.label}<br><a href="${im.file}" target="_blank">open full size ↗</a></div></div>`).join('')}</div></div>` : '';
+    return `<div class="card" id="card-${s.n}">
+      <div class="row" onclick="document.getElementById('card-${s.n}').classList.toggle('open')">
+        <div class="num">${s.n}</div>
+        <div class="meta">
+          <div class="title">${s.title}</div>
+          <div class="submeta">${s.date} · CTA: ${s.cta}</div>
+        </div>
+        <span class="badge ${tcls}">${s.type}</span>
+        <span class="status ${scls}">${s.status}</span>
+        <span class="chev">▸</span>
+      </div>
+      <div class="body">${s.body}${assets}</div>
+    </div>`;
+  }).join('');
+}
+render();
+</script>
+</body>
+</html>

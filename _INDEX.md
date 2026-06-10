@@ -1,0 +1,14 @@
+# 🎬 Video Scripts — Master Index
+
+Your filming library. Every approved script lives here as its own file.
+Scan this table when you're ready to film, then open the script you want.
+
+**Status key:** `Scripted` = written & approved, ready to film · `Filmed` = recorded · `Posted` = published
+
+| # | Title | Type | Status | Date Approved | CTA | File |
+|---|-------|------|--------|---------------|-----|------|
+| 1 | Low Appraisal — What To Do | Talking Head | Scripted | 2026-06-10 | Schedule a call | [open](2026-06-10-low-appraisal.md) |
+
+---
+
+*New approved scripts get added to the top of the table and saved as their own dated file in this folder.*
