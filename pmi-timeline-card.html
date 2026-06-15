@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --navy:#042C53; --navy2:#0C447C; --blue:#378ADD; --bluelt:#85B7EB;
+    --red:#E24B4A; --teal:#1D9E75; --ink:#10243f;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:110px 90px;
+  }
+  .kicker{font-size:34px;letter-spacing:3px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:18px;text-align:center;}
+  .headline{font-size:80px;line-height:1.08;font-weight:800;text-align:center;margin-bottom:24px;}
+  .headline .hl{color:#FFD166;}
+  .conv{font-size:34px;color:#cfe0f2;font-weight:600;margin-bottom:80px;text-align:center;}
+  .timeline{width:100%;display:flex;flex-direction:column;gap:0;}
+  .step{display:flex;align-items:flex-start;gap:40px;}
+  .railwrap{display:flex;flex-direction:column;align-items:center;}
+  .dot{width:54px;height:54px;border-radius:50%;flex:none;display:flex;align-items:center;justify-content:center;font-size:30px;font-weight:800;color:#fff;}
+  .dot.one{background:var(--blue);}
+  .dot.two{background:var(--teal);}
+  .rail{width:8px;height:150px;background:linear-gradient(var(--blue),var(--teal));border-radius:4px;}
+  .content{padding-bottom:60px;}
+  .pct{font-size:72px;font-weight:800;line-height:1;}
+  .one .pct{color:var(--bluelt);}
+  .two .pct{color:#7FE3C0;}
+  .desc{font-size:42px;font-weight:600;color:#fff;margin-top:8px;line-height:1.25;}
+  .desc b{color:#FFD166;}
+  .footnote{margin-top:40px;font-size:38px;text-align:center;color:#dce8f6;font-weight:600;line-height:1.4;}
+</style>
+</head>
+<body>
+  <div class="kicker">The truth about PMI</div>
+  <div class="headline">PMI is <span class="hl">not</span> forever.</div>
+  <div class="conv">Conventional loans</div>
+
+  <div class="timeline">
+    <div class="step">
+      <div class="railwrap"><div class="dot one">1</div><div class="rail"></div></div>
+      <div class="content one">
+        <div class="pct">20% equity</div>
+        <div class="desc">You can <b>request</b> to remove it.</div>
+      </div>
+    </div>
+    <div class="step">
+      <div class="railwrap"><div class="dot two">2</div></div>
+      <div class="content two">
+        <div class="pct">22% equity</div>
+        <div class="desc">It drops off <b>automatically.</b></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footnote">You build equity by paying down<br>— and as your home appreciates.</div>
+</body>
+</html>
