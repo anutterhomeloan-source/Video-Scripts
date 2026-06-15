@@ -15,7 +15,7 @@ Jordan Nutter is a loan officer with NFM Lending who makes short-form videos (Ti
 
 Generate 13 script ideas (not full scripts yet):
 
-- **Mix:** 9 Talking Head (3 POVs, 3 PSAs, 3 news articles with source link) + 4 Reenactment (each 2–3 parts)
+- **Mix:** 9 Talking Head (3 POVs, 3 PSAs, 3 news articles — real & live-sourced, see "News Article Videos") + 4 Reenactment (each 2–3 parts)
 - For each idea include:
   - **Video type** (Talking Head or Reenactment)
   - **Hook line** (1 sentence)
@@ -100,6 +100,24 @@ Then roll into the normal **Answer → Change → End Result**, and **echo the p
 **Example (rates):** "Waiting for rates to drop is the smart, responsible move. …And it's the most expensive misconception in home buying right now. Because every time I watch someone wait for the perfect rate, I watch the house they loved get more expensive. I'm not talking about overpaying for something you can't afford — I'm talking about the home that was right there, now costing $30,000 more."
 
 When generating ideas ("run scripts") or writing a POV script, offer the Misconception Flip hook as an option. Override: **"flip hook"** = use it; **"straight hook"** = use the standard Problem/Empathy hook.
+
+---
+
+## News Article Videos
+
+News-type Talking Heads MUST be built on a **real, live-sourced article** — never a made-up or remembered headline. The whole point is reacting to a genuine story.
+
+**How to source (do this when pitching news ideas):**
+1. **Use live web search** to pull current stories — don't rely on memory; numbers and headlines go stale fast.
+2. **Favor recognizable national outlets** so the on-screen citation is credible: **ABC, Fox, CBS, NBC, CNBC, AP, Reuters**, plus primary sources (Freddie Mac, NAR, FHFA, HUD) for data. Aggregator/blog links are a last resort.
+3. **Verify the link resolves** (fetch it) before putting it in front of Jordan. Cite outlet + date + working URL.
+4. Rate/price numbers move daily — if it's a rate story, film it the **same day** the figure is pulled, and grab the freshest number right before filming.
+
+**Story types Jordan wants (national + human-interest, not just rates):** anything talkable from across the country — e.g. states trying to eliminate property taxes, a famous person buying the most expensive home (and whether they financed it), what income is now considered "middle class," loan-limit/program changes, affordability/inventory shifts, viral money takes.
+
+**The non-negotiable: always tie the national story back to a mortgage lesson.** The headline is the scroll-stopper; the value (and the reason it's *her* video) is the mortgage angle — e.g. property taxes → what's hiding in your monthly escrow; billionaire mortgage → why financing is a tool, not a burden; middle-class income → what that actually qualifies you to buy. The Misconception Flip hook works especially well on news.
+
+**In the pitch, every news idea must show:** the real story (1–2 lines), the **source(s) with live links**, the mortgage tie-in, the hook, PEACE beats, CTA, and a visual.
 
 ---
 
