@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --navy:#042C53; --navy2:#0C447C; --blue:#378ADD; --bluelt:#85B7EB;
+    --red:#E24B4A; --teal:#1D9E75; --ink:#10243f;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:90px 80px;
+  }
+  .kicker{font-size:34px;letter-spacing:3px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:18px;}
+  .headline{font-size:78px;line-height:1.08;font-weight:800;text-align:center;margin-bottom:70px;}
+  .headline .hl{color:#FFD166;}
+  .cards{width:100%;display:flex;flex-direction:column;gap:46px;}
+  .panel{border-radius:28px;padding:48px 52px;}
+  .panel.ad{background:rgba(255,255,255,.07);border:2px solid rgba(133,183,235,.5);}
+  .panel.you{background:#fff;color:var(--ink);box-shadow:0 24px 60px rgba(0,0,0,.35);border:3px solid var(--teal);}
+  .label{font-size:38px;font-weight:700;letter-spacing:1px;text-transform:uppercase;margin-bottom:8px;}
+  .panel.ad .label{color:var(--bluelt);}
+  .panel.you .label{color:var(--teal);}
+  .rate{font-size:120px;font-weight:800;line-height:1;margin-bottom:26px;}
+  .panel.ad .rate{color:#fff;}
+  .panel.you .rate{color:var(--navy);}
+  .specs{display:flex;flex-wrap:wrap;gap:14px 18px;}
+  .pill{font-size:34px;font-weight:600;padding:14px 26px;border-radius:999px;}
+  .panel.ad .pill{background:rgba(255,255,255,.12);color:#eaf2fb;}
+  .panel.you .pill{background:#EAF3FB;color:var(--navy2);}
+  .vs{align-self:center;font-size:40px;font-weight:800;color:var(--bluelt);letter-spacing:4px;margin:-12px 0;}
+  .footnote{margin-top:64px;font-size:40px;text-align:center;color:#dce8f6;font-weight:600;max-width:860px;line-height:1.35;}
+  .footnote b{color:#FFD166;}
+</style>
+</head>
+<body>
+  <div class="kicker">Why your quote came back higher</div>
+  <div class="headline">That rate online isn't <span class="hl">yours.</span></div>
+
+  <div class="cards">
+    <div class="panel ad">
+      <div class="label">Advertised</div>
+      <div class="rate">5.5%</div>
+      <div class="specs">
+        <span class="pill">780 score</span>
+        <span class="pill">25% down</span>
+        <span class="pill">1 point paid</span>
+      </div>
+    </div>
+
+    <div class="vs">VS</div>
+
+    <div class="panel you">
+      <div class="label">Your real file</div>
+      <div class="rate">Higher</div>
+      <div class="specs">
+        <span class="pill">700 score</span>
+        <span class="pill">5% down</span>
+        <span class="pill">0 points</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="footnote">Credit • down payment • points<br><b>set your rate</b> — not a website.</div>
+</body>
+</html>
