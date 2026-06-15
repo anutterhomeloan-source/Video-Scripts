@@ -77,6 +77,32 @@ Reenactments/skits: follow PEACE beats (Problem/Empathy in borrower's lines; Ans
 
 ---
 
+## Hook Styles
+
+The hook is the highest-leverage line. Default to a strong Problem/Empathy hook, but for Talking Heads — **especially POVs** — offer the **Misconception Flip** hook, which tends to convert better (scroll-stopper + open loop).
+
+### Misconception Flip hook (Talking Head / POV)
+
+A 4-move opener that *replaces* the normal hook and slides into PEACE:
+
+1. **The Bait** — State the myth bluntly, as if it's just true. Say the thing buyers wrongly believe, delivered like a hard truth. (e.g. "Waiting for rates to drop is the smart, responsible move.")
+2. **The Flip** — Snap it: "…That's the biggest / most expensive misconception in [home buying / mortgages]." Creates an open loop.
+3. **The Proof** — Quick personal or borrower evidence that flips it (a story, a number, a before/after).
+4. **The Distinction** — The credibility move: "I'm not talking about ___. I'm talking about ___." Makes it feel nuanced, not preachy.
+
+Then roll into the normal **Answer → Change → End Result**, and **echo the payoff line at the very end** for emphasis.
+
+**Rules:**
+- Talking Heads only (POVs first, PSAs okay). **Never** on reenactments/skits — those open with character dialogue, not a thesis.
+- Jordan does **not** curse. The bait can be provocative but always clean.
+- The branding line still comes right after the hook, same as always.
+
+**Example (rates):** "Waiting for rates to drop is the smart, responsible move. …And it's the most expensive misconception in home buying right now. Because every time I watch someone wait for the perfect rate, I watch the house they loved get more expensive. I'm not talking about overpaying for something you can't afford — I'm talking about the home that was right there, now costing $30,000 more."
+
+When generating ideas ("run scripts") or writing a POV script, offer the Misconception Flip hook as an option. Override: **"flip hook"** = use it; **"straight hook"** = use the standard Problem/Empathy hook.
+
+---
+
 ## Call to Action Options
 
 **Reenactment + Skit:** No CTA unless Jordan asks.
