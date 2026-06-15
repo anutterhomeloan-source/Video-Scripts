@@ -7,6 +7,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 5 | I Found A Better Rate Online | Reenactment | Scripted | 2026-06-15 | None | [open](2026-06-15-better-rate-online.md) |
 | 4 | PMI Isn't Forever | Talking Head | Scripted | 2026-06-15 | Link in bio | [open](2026-06-15-pmi-isnt-forever.md) |
 | 3 | Waiting For Rates To Drop | Talking Head | Scripted | 2026-06-15 | Schedule a call | [open](2026-06-15-waiting-for-rates.md) |
 | 2 | Zillow Says My Rate Should Be 5.5% | Talking Head | Scripted | 2026-06-15 | Link in bio | [open](2026-06-15-zillow-rate.md) |
