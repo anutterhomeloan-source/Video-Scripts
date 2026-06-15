@@ -7,6 +7,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 3 | Waiting For Rates To Drop | Talking Head | Scripted | 2026-06-15 | Schedule a call | [open](2026-06-15-waiting-for-rates.md) |
 | 2 | Zillow Says My Rate Should Be 5.5% | Talking Head | Scripted | 2026-06-15 | Link in bio | [open](2026-06-15-zillow-rate.md) |
 | 1 | Low Appraisal — What To Do | Talking Head | Scripted | 2026-06-10 | Schedule a call | [open](2026-06-10-low-appraisal.md) |
 

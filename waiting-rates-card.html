@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{
+    --navy:#042C53; --navy2:#0C447C; --blue:#378ADD; --bluelt:#85B7EB;
+    --red:#E24B4A; --teal:#1D9E75; --ink:#10243f;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:110px 90px;
+  }
+  .kicker{font-size:36px;letter-spacing:4px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:80px;text-align:center;}
+  .stack{width:100%;display:flex;flex-direction:column;gap:54px;}
+  .line{border-radius:30px;padding:62px 58px;}
+  .can{background:#fff;color:var(--ink);box-shadow:0 24px 60px rgba(0,0,0,.35);border-left:14px solid var(--teal);}
+  .cant{background:rgba(255,255,255,.07);border:2px solid rgba(226,75,74,.6);border-left:14px solid var(--red);}
+  .tag{font-size:40px;font-weight:800;letter-spacing:1px;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;gap:16px;}
+  .can .tag{color:var(--teal);}
+  .cant .tag{color:#F09B9A;}
+  .txt{font-size:74px;line-height:1.12;font-weight:800;}
+  .can .txt{color:var(--navy);}
+  .cant .txt{color:#fff;}
+  .icon{font-size:46px;}
+  .footnote{margin-top:90px;font-size:42px;text-align:center;color:#dce8f6;font-weight:600;line-height:1.4;}
+  .footnote b{color:#FFD166;}
+</style>
+</head>
+<body>
+  <div class="kicker">Before you wait for rates</div>
+
+  <div class="stack">
+    <div class="line can">
+      <div class="tag"><span class="icon">✔</span> You can</div>
+      <div class="txt">refinance a rate.</div>
+    </div>
+    <div class="line cant">
+      <div class="tag"><span class="icon">✕</span> You can't</div>
+      <div class="txt">renegotiate the price you paid.</div>
+    </div>
+  </div>
+
+  <div class="footnote">One's a phone call later.<br><b>The other's locked in forever.</b></div>
+</body>
+</html>
