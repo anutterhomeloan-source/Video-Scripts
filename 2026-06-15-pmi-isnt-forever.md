@@ -8,8 +8,8 @@
 
 ---
 
-## HOOK
-If you're putting off buying a house just to avoid PMI — stop. You might be waiting years for no reason.
+## HOOK (Misconception Flip)
+PMI is just a junk fee the bank invented to punish you for not putting 20% down. …That's the misconception keeping people renting for years longer than they need to. And I'm not talking about FHA mortgage insurance that sticks around — I'm talking about conventional PMI.
 
 ## BRANDING
 If you don't know me — I'm Jordan Nutter, and I help make mortgages make sense.
@@ -20,7 +20,7 @@ PMI has this terrible reputation. People hear it and think it's some penalty you
 **VISUAL:** Text overlay — "PMI ≠ forever (a quick myth-bust)"
 
 ## ANSWER
-So let me clear it up — and just so we're clear, I'm talking about conventional loans here, not FHA. On a conventional loan, PMI is temporary. Once you build up 20% equity in the home, you can request to have it removed. And even if you don't lift a finger, by law it automatically drops off once you hit 22% equity. It is not a 30-year sentence.
+So let me clear it up. On a conventional loan, PMI is temporary. Once you build up 20% equity in the home, you can request to have it removed. And even if you don't lift a finger, by law it automatically drops off once you hit 22% equity. It is not a 30-year sentence.
 
 **VISUAL:** Simple timeline — "20% equity → you can request removal · 22% → drops automatically" (use pmi-timeline-card.png)
 
@@ -33,7 +33,7 @@ Now, how much is it? That depends — your credit score, your down payment, and 
 So when you delay buying for years just to dodge PMI — you're often paying more in rising prices and rent than the PMI ever would've cost you. You could've been in the home, building equity, and watching it fall off on its own.
 
 ## CTA
-If you're not sure what your PMI would actually look like, don't guess off some scary number in your head — fill out the link in my bio and I'll show you your real numbers.
+If you're not sure what your PMI would actually look like, don't guess off some scary number in your head — fill out the link in my bio and I'll show you your real numbers. Because on a conventional loan, PMI was never meant to be forever.
 
 ---
 

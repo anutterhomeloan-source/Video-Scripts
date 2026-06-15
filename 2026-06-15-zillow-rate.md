@@ -8,8 +8,8 @@
 
 ---
 
-## HOOK
-Zillow told you rates are 5.5%… and then your actual quote came back way higher. Let me explain what just happened — because you didn't do anything wrong.
+## HOOK (Misconception Flip)
+If Zillow says rates are 5.5%, then that's the rate you should be getting, right? …That's one of the biggest misconceptions in the mortgage world — and it's exactly why so many people feel like they got lied to.
 
 ## BRANDING
 If you don't know who I am — my name's Jordan Nutter, and I help make mortgages make sense.
@@ -33,7 +33,7 @@ And that advertised rate? It's almost always assuming the best possible borrower
 So instead of trusting a number from a website that's never seen your finances — let's get you a real quote on *your* actual numbers. Takes a few minutes.
 
 ## END RESULT + CTA
-That way there's no sticker shock, no feeling like somebody lied to you — you just know your real rate going in. Fill out the link in my bio and I'll get you a real pre-approval, not a guess.
+That way there's no sticker shock, no feeling like somebody lied to you — you just know your real rate going in. Fill out the link in my bio and I'll get you a real pre-approval, not a guess. Because that rate you saw online? It was never actually yours.
 
 ---
 

@@ -8,8 +8,8 @@
 
 ---
 
-## HOOK
-If you're waiting for rates to drop before you buy a house — I need 60 seconds, because this is probably costing you more than you think.
+## HOOK (Misconception Flip)
+Waiting for rates to drop before you buy is the smart, responsible move. …And it's the most expensive misconception in home buying right now.
 
 ## BRANDING
 If we haven't met — I'm Jordan Nutter, and I help make mortgages make sense.
@@ -33,7 +33,7 @@ So that same couple — they came back six months later. Rates had dipped a litt
 Here's the part most people miss: your rate isn't permanent. If rates drop later, you can refinance — that's a phone call. But the price you pay for the house? That's locked in forever. You don't get to renegotiate it.
 
 ## END RESULT + CTA
-So the buyers who win aren't the ones who timed it perfectly — they're the ones who bought the right house when they found it, and adjusted the rate later. If you're stuck on whether to wait or jump now, don't guess — schedule a call with me and let's actually run your numbers. Link's in my bio.
+So the buyers who win aren't the ones who timed it perfectly — they're the ones who bought the right house when they found it, and adjusted the rate later. If you're stuck on whether to wait or jump now, don't guess — schedule a call with me and let's actually run your numbers. Link's in my bio. Because waiting for the perfect rate is exactly what cost them the house.
 
 ---
 
