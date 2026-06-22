@@ -30,10 +30,16 @@
   .badge { font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; white-space: nowrap; }
   .b-talk { background: #E6F1FB; color: var(--navy2); }
   .b-reenact { background: #FBEAF0; color: #993556; }
-  .status { font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; white-space: nowrap; }
+  .status { font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; white-space: nowrap; cursor: pointer; user-select: none; border: 1px solid transparent; transition: filter .12s, box-shadow .12s; }
+  .status:hover { filter: brightness(.96); box-shadow: 0 0 0 2px rgba(0,0,0,.06); }
+  .status::after { content: " ⟳"; opacity: .55; font-size: 11px; }
   .s-scripted { background: #FAEEDA; color: var(--amber); }
+  .s-drafted { background: #E6F1FB; color: var(--navy2); }
   .s-filmed { background: #E1F5EE; color: var(--teal); }
   .s-posted { background: #EAF3DE; color: #3B6D11; }
+  .statussync { padding: 7px 14px; border: 1px solid var(--navy); background: #fff; color: var(--navy); border-radius: 999px; font-size: 13px; font-weight: 600; cursor: pointer; }
+  .statussync:hover { background: var(--bg); }
+  .statussync.copied { background: var(--teal); color: #fff; border-color: var(--teal); }
   .chev { color: var(--muted); font-size: 18px; transition: transform .15s; }
   .card.open .chev { transform: rotate(90deg); }
   .body { display: none; padding: 4px 24px 26px; border-top: 1px solid var(--line); }
@@ -80,8 +86,12 @@
     <span class="chip active" data-f="all" onclick="setFilter(this)">All</span>
     <span class="chip" data-f="Talking Head" onclick="setFilter(this)">Talking Head</span>
     <span class="chip" data-f="Reenactment" onclick="setFilter(this)">Reenactment</span>
-    <span class="chip" data-f="Scripted" onclick="setFilter(this)">Ready to film</span>
+    <span class="chip" data-f="Scripted" onclick="setFilter(this)">Scripted</span>
+    <span class="chip" data-f="Drafted" onclick="setFilter(this)">Drafted</span>
+    <span class="chip" data-f="Posted" onclick="setFilter(this)">Posted</span>
+    <button class="statussync" onclick="copyStatusUpdates(event)" title="Copy a summary of status changes to paste back for syncing">⤓ Copy status updates</button>
   </div>
+  <div class="sub" style="margin:-8px 0 14px;font-size:13px;">Tap a status badge to advance it: <b>Scripted → Drafted → Posted</b>. Saves on this PC automatically.</div>
 
   <div id="list"></div>
   <footer>Filming from this PC · scripts live in Documents\Video Scripts</footer>
@@ -536,6 +546,28 @@ function copyCaption(e, n, i){
   doCopy(e.currentTarget, SCRIPTS.find(s=>s.n===n).captions[i], '✓');
 }
 
+/* ---- Status workflow (saved on this PC via localStorage) ---- */
+const STATUS_KEY = 'jn_script_status_v1';
+const STAGES = ['Scripted','Drafted','Posted'];
+function loadStatus(){ try { return JSON.parse(localStorage.getItem(STATUS_KEY)) || {}; } catch(e){ return {}; } }
+function saveStatus(o){ try { localStorage.setItem(STATUS_KEY, JSON.stringify(o)); } catch(e){} }
+function normStage(st){ if(st==='Filmed') return 'Drafted'; return STAGES.includes(st) ? st : 'Scripted'; }
+function effStatus(s){ const o = loadStatus(); return normStage(o[s.n] || s.status); }
+function cycleStatus(e, n){
+  e.stopPropagation();
+  const o = loadStatus();
+  const s = SCRIPTS.find(x=>x.n===n);
+  const next = STAGES[(STAGES.indexOf(effStatus(s)) + 1) % STAGES.length];
+  o[n] = next; saveStatus(o); render();
+}
+function copyStatusUpdates(e){
+  const out = [];
+  SCRIPTS.forEach(s=>{ const eff = effStatus(s); if(eff !== normStage(s.status)) out.push(`#${s.n} ${s.title} → ${eff}`); });
+  const text = out.length ? ('Status updates (please sync the library files):\n' + out.join('\n'))
+                          : 'No status changes since the last sync.';
+  doCopy(e.currentTarget, text, '✓ Copied');
+}
+
 let filter = "all";
 function setFilter(el){ document.querySelectorAll('.chip').forEach(c=>c.classList.remove('active')); el.classList.add('active'); filter = el.dataset.f; render(); }
 
@@ -543,14 +575,15 @@ function render(){
   const q = document.getElementById('search').value.toLowerCase();
   const list = document.getElementById('list');
   const items = SCRIPTS.filter(s=>{
-    if(filter!=="all" && s.type!==filter && s.status!==filter) return false;
+    if(filter!=="all" && s.type!==filter && effStatus(s)!==filter) return false;
     if(q && !(s.title+s.body+s.cta).toLowerCase().includes(q)) return false;
     return true;
   });
   if(!items.length){ list.innerHTML = '<div class="empty">No scripts match.</div>'; return; }
   list.innerHTML = items.map(s=>{
     const tcls = s.type==="Talking Head" ? "b-talk":"b-reenact";
-    const scls = "s-"+s.status.toLowerCase();
+    const est = effStatus(s);
+    const scls = "s-"+est.toLowerCase();
     const assets = (s.images && s.images.length) ? `<div class="assets"><h2>Image assets</h2><div class="asset-grid">${s.images.map(im=>`<div class="asset"><a href="${im.file}" target="_blank"><img src="${im.file}" alt="${im.label}"></a><div class="cap">${im.label}<br><a href="${im.file}" target="_blank">open full size ↗</a></div></div>`).join('')}</div></div>` : '';
     const caps = (s.captions && s.captions.length) ? `<div class="caps"><h2>Captions</h2>${s.captions.map((c,i)=>`<div class="cap-row"><span class="cap-txt">${c}</span><button class="minicopy" onclick="copyCaption(event,${s.n},${i})">📋 Copy</button></div>`).join('')}</div>` : '';
     return `<div class="card" id="card-${s.n}">
@@ -561,7 +594,7 @@ function render(){
           <div class="submeta">${s.date} · CTA: ${s.cta}</div>
         </div>
         <span class="badge ${tcls}">${s.type}</span>
-        <span class="status ${scls}">${s.status}</span>
+        <span class="status ${scls}" title="Tap to advance: Scripted → Drafted → Posted" onclick="cycleStatus(event, ${s.n})">${est}</span>
         <span class="chev">▸</span>
       </div>
       <div class="body"><button class="copybtn" onclick="copyScript(event, ${s.n})">📋 Copy for teleprompter</button><button class="copybtn alt" onclick="copyTitle(event, ${s.n})">📋 Copy title</button>${s.body}${caps}${assets}</div>

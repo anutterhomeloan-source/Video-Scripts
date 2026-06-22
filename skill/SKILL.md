@@ -88,7 +88,7 @@ The hook is the highest-leverage line. Default to a strong Problem/Empathy hook,
 A 4-move opener that *replaces* the normal hook and slides into PEACE:
 
 1. **The Bait** — State the myth bluntly, as if it's just true. Say the thing buyers wrongly believe, delivered like a hard truth. (e.g. "Waiting for rates to drop is the smart, responsible move.")
-2. **The Flip** — Snap it: "…That's the biggest / most expensive misconception in [home buying / mortgages]." Creates an open loop.
+2. **The Flip** — Snap it: reverse the bait and open a loop. **Vary the wording every time — do NOT default to "that's the biggest/most expensive misconception."** Rotate fresh phrasings, e.g.: "…and that wrong answer is exactly how people end up house-poor," "…that's the part nobody warns you about until closing," "…that one assumption quietly wrecks people's budgets," "…and that's the half of the payment everybody forgets exists." A puzzle/either-or bait ("two houses, same price — same payment, right?") then a hard "Wrong —" works great too. Never reuse the same Flip line across scripts in the same batch.
 3. **The Proof** — Quick personal or borrower evidence that flips it (a story, a number, a before/after).
 4. **The Distinction** — The credibility move: "I'm not talking about ___. I'm talking about ___." Makes it feel nuanced, not preachy.
 
@@ -219,7 +219,9 @@ This is Jordan's filming library — she films from this PC, scanning the index,
    - The full script with PEACE sections, VISUAL lines, IMAGE OPTION block, and CAPTIONS
 2. **Add a row to `_INDEX.md`** at the top of the table: `# | Title | Type | Status | Date Approved | CTA | [open](filename.md)`. Increment the number.
 
-**Status values:** `Scripted` (written & approved, ready to film) → `Filmed` (recorded) → `Posted` (published). When Jordan says a script is filmed or posted, update its status in both the file's metadata block and the `_INDEX.md` row.
+**Status values:** `Scripted` (written & approved, ready to film) → `Drafted` (filmed & edited, sitting in TikTok/IG drafts) → `Posted` (published). When Jordan says a script is drafted or posted, update its status in the file's metadata block, the `_INDEX.md` row, AND the `Scripts.html` `status` field. (Legacy `Filmed` = treat as `Drafted`.)
+
+**Dashboard status workflow (self-serve):** On `Scripts.html`, each status badge is **clickable** — Jordan taps it to advance `Scripted → Drafted → Posted` (loops back around). Changes save in her browser via `localStorage` (key `jn_script_status_v1`) on the filming PC, so they persist without git. The filter chips include All / Talking Head / Reenactment / Scripted / Drafted / Posted. A **"⤓ Copy status updates"** button copies a one-line summary of any badge changes that differ from the saved files — when Jordan pastes that summary back, sync the affected `.md` metadata + `_INDEX.md` rows + `Scripts.html` `status` fields to match, then push. (After syncing, the page's defaults catch up and those items drop out of the summary automatically.)
 
 **Image assets** (cards, graphics) built for a script are **saved into the library folder** `C:\Users\jnutter\Documents\Video Scripts\` (so the dashboard can display them with a relative path), referenced by filename in the script's `.md` metadata, AND added to the script's `images: [{ file, label }]` array in `Scripts.html`. The dashboard renders these in an "Image assets" section at the bottom of the expanded script, with click-to-open-full-size links. Whenever you generate a graphic for a script, always: (1) save/copy the PNG into the library folder, (2) add it to that script's `images` array. Never leave a generated image only in Downloads.
 
