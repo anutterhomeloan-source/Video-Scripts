@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{ --bluelt:#85B7EB; --gold:#FFD166; --teal:#1D9E75; --cart:#F0884B; }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:100px 90px;
+  }
+  .kicker{font-size:34px;letter-spacing:3px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:28px;text-align:center;}
+  .headline{font-size:78px;line-height:1.08;font-weight:800;text-align:center;margin-bottom:54px;}
+  .headline .hl{color:var(--gold);}
+  .cart{width:100%;background:#fff;color:#10243f;border-radius:30px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.45);}
+  .cartbar{background:#10243f;color:#fff;font-size:40px;font-weight:800;padding:34px 46px;display:flex;align-items:center;gap:18px;}
+  .row{display:flex;align-items:center;gap:34px;padding:48px 46px;}
+  .thumb{width:150px;height:150px;border-radius:22px;background:#eef3f9;display:flex;align-items:center;justify-content:center;font-size:84px;flex:none;}
+  .info{flex:1;}
+  .pname{font-size:50px;font-weight:800;line-height:1.1;}
+  .pmeta{font-size:34px;color:#5a6b80;font-weight:600;margin-top:10px;}
+  .price{font-size:44px;font-weight:800;color:#0C447C;margin-top:14px;}
+  .btnrow{padding:0 46px 52px;}
+  .addbtn{width:100%;background:var(--cart);color:#fff;font-size:46px;font-weight:800;text-align:center;padding:34px;border-radius:18px;}
+  .footnote{margin-top:60px;font-size:46px;text-align:center;color:var(--gold);font-weight:800;line-height:1.35;}
+</style>
+</head>
+<body>
+  <div class="headline">Mortgage &mdash; <span class="hl">add to cart?</span></div>
+  <div class="cart">
+    <div class="cartbar">&#128722; Everything Home &mdash; Cart</div>
+    <div class="row">
+      <div class="thumb">&#127968;</div>
+      <div class="info">
+        <div class="pname">30-Year Fixed Mortgage</div>
+        <div class="pmeta">Sold by: Bed Bath &amp; Beyond</div>
+        <div class="price">Rate: ??? &middot; Fees: ???</div>
+      </div>
+    </div>
+    <div class="btnrow"><div class="addbtn">Add to Cart</div></div>
+  </div>
+  <div class="footnote">Maybe shop this one around first.</div>
+</body>
+</html>
