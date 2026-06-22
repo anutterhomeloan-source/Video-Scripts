@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{ --bluelt:#85B7EB; --gold:#FFD166; --red:#E24B4A; }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:110px 90px;
+  }
+  .kicker{font-size:34px;letter-spacing:3px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:30px;text-align:center;}
+  .card{width:100%;background:#fff;color:#10243f;border-radius:30px;padding:64px 58px;box-shadow:0 30px 70px rgba(0,0,0,.45);}
+  .badge{display:inline-block;background:var(--red);color:#fff;font-size:28px;font-weight:800;letter-spacing:2px;text-transform:uppercase;padding:12px 26px;border-radius:10px;margin-bottom:34px;}
+  .news{font-size:72px;line-height:1.1;font-weight:800;}
+  .news .hl{color:#0C447C;}
+  .src{margin-top:44px;font-size:32px;color:#5a6b80;font-weight:600;border-top:2px solid #e3e8ef;padding-top:26px;}
+  .tie{margin-top:80px;font-size:56px;line-height:1.18;font-weight:800;text-align:center;}
+  .tie .hl{color:var(--gold);}
+</style>
+</head>
+<body>
+  <div class="kicker">In the news</div>
+  <div class="card">
+    <div class="badge">Property taxes</div>
+    <div class="news">Over a dozen states move to <span class="hl">cut or eliminate</span> property taxes</div>
+    <div class="src">Source: Fox Business &middot; Feb 2026</div>
+  </div>
+  <div class="tie">It's hiding in your <span class="hl">monthly payment.</span></div>
+</body>
+</html>

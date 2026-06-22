@@ -4,7 +4,7 @@
 - **Status:** Scripted
 - **Date approved:** 2026-06-22
 - **CTA:** Schedule a call
-- **Image asset:** Option B chosen (tell-your-lender-before checklist) — not yet built
+- **Image asset:** raise-dpa-checklist-card.png (Option B — tell your lender BEFORE checklist)
 
 ---
 

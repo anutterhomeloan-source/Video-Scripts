@@ -4,7 +4,7 @@
 - **Status:** Scripted
 - **Date approved:** 2026-06-22
 - **CTA:** Schedule a call
-- **Image asset:** Option A chosen (headline screenshot + source overlay) — not yet built
+- **Image asset:** property-tax-headline-card.png (Option A — headline + source overlay)
 
 **Real story:** Over a dozen states (FL, TX, ND, GA, IN…) are pushing to ease or eliminate property taxes in 2026.
 **Sources (on-screen citation):** Fox Business, Feb 3 2026 · Kiplinger 2026

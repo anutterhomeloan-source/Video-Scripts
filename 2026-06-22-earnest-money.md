@@ -4,7 +4,7 @@
 - **Status:** Scripted
 - **Date approved:** 2026-06-22
 - **CTA:** Link in bio (get pre-approved)
-- **Image asset:** Option C chosen (contingencies checklist) — not yet built
+- **Image asset:** earnest-contingencies-card.png (Option C — 3 contingencies checklist)
 
 ---
 

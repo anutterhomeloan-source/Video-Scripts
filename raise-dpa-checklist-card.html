@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{ --bluelt:#85B7EB; --red:#E24B4A; --gold:#FFD166; }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:110px 90px;
+  }
+  .kicker{font-size:34px;letter-spacing:3px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:22px;text-align:center;}
+  .headline{font-size:74px;line-height:1.1;font-weight:800;text-align:center;margin-bottom:24px;}
+  .headline .hl{color:var(--gold);}
+  .sub{font-size:36px;color:#cfe0f2;font-weight:600;margin-bottom:66px;text-align:center;}
+  .list{width:100%;display:flex;flex-direction:column;gap:34px;}
+  .item{display:flex;align-items:center;gap:38px;background:rgba(255,255,255,.06);border:2px solid rgba(133,183,235,.35);border-radius:26px;padding:38px 48px;}
+  .ic{width:78px;height:78px;border-radius:50%;flex:none;background:var(--red);display:flex;align-items:center;justify-content:center;font-size:44px;font-weight:900;color:#fff;}
+  .label{font-size:52px;font-weight:700;line-height:1.15;}
+  .footnote{margin-top:70px;font-size:40px;text-align:center;color:var(--gold);font-weight:800;line-height:1.35;}
+</style>
+</head>
+<body>
+  <div class="kicker">Buying a home?</div>
+  <div class="headline">Tell your lender <span class="hl">BEFORE</span></div>
+  <div class="sub">A change in income can cost you a program</div>
+  <div class="list">
+    <div class="item"><div class="ic">&#33;</div><div class="label">A raise</div></div>
+    <div class="item"><div class="ic">&#33;</div><div class="label">A big bonus</div></div>
+    <div class="item"><div class="ic">&#33;</div><div class="label">A new job</div></div>
+    <div class="item"><div class="ic">&#33;</div><div class="label">Going 1099</div></div>
+  </div>
+  <div class="footnote">Call first. We can time it right.</div>
+</body>
+</html>
