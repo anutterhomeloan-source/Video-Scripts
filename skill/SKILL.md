@@ -51,10 +51,12 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
 - **Do NOT add branding line** unless Jordan asks
 - **Do NOT include CTA** unless Jordan asks
 - Script is written as dialogue
+- **LENGTH (hard rule): every reenactment part MUST run a minimum of 60 seconds and a maximum of 90 seconds.** Write each part long enough to land in that window (roughly 150–230 words of dialogue per part, plus pauses). Do not deliver a part estimated under 60 seconds. This applies per part in a multi-part series.
 
 ### Skit
 - Multi-character script involving mortgage world (buyers, agents, title company, appraiser, etc.)
 - Same rules as Reenactment for branding and CTA
+- **Same 60–90 second length rule as Reenactment** (per part)
 
 ---
 
