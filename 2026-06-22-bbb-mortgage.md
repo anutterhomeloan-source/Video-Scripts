@@ -12,8 +12,8 @@
 
 ---
 
-## Hook (Misconception Flip)
-Pretty soon, you'll be able to buy a *house* the same place you buy your *towels.* …And that convenience is exactly what's going to cost people money. Because Bed Bath & Beyond — yes, *that* Bed Bath & Beyond — just bought a mortgage company. And the easiest mortgage to get is almost never the cheapest one.
+## Hook (News reaction)
+Okay, did you guys hear about this? Bed Bath & Beyond — yes, the towels-and-throw-pillows store — is buying a *mortgage company.* No, seriously.
 
 ## Branding
 If you don't know me, I'm Jordan Nutter, and I help make mortgages make sense.
@@ -21,7 +21,7 @@ If you don't know me, I'm Jordan Nutter, and I help make mortgages make sense.
 VISUAL: Headline screenshot — "Bed Bath & Beyond to acquire mortgage company" (HousingWire · Jun 2026)
 
 ## Problem / Setup
-So here's the deal. They're building this thing called "Everything Home" — buy the house, finance it, insure it, furnish it, all in one checkout. And the CEO already said more of these acquisitions are coming. This is where things are headed.
+So they're building this thing called "Everything Home" — buy the house, finance it, insure it, furnish it, all in one checkout. And the CEO already said more deals like this are coming. This is where things are headed. Which sounds super convenient… but here's the thing — the *easiest* mortgage to get is almost never the *cheapest* one.
 
 ## Empathy
 And honestly? I get the appeal. Nobody wakes up *excited* to shop for a mortgage. If you could just toss it in the cart next to the throw pillows — why wouldn't you?
