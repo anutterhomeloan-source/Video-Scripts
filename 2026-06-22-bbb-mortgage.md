@@ -9,38 +9,37 @@
 **Real story:** Bed Bath & Beyond is acquiring Fathom Holdings (brokerage, mortgage, title, insurance) in a ~$53M all-stock deal — part of its "Everything Home" one-stop strategy. Fathom's mortgage arm originated $248.5M in loans in 2025; CEO Marcus Lemonis says more acquisitions are coming.
 **Sources (on-screen citation):** HousingWire, Jun 17 2026 · Retail Dive 2026
 **Film note:** News piece — film in the next day or two so it stays timely.
+**Version note:** v2 (refilm 2026-06-29). v1 read stiff off the teleprompter; rewritten in short lines with a sharper button.
 
 ---
 
 ## Hook (News reaction)
-Okay, did you guys hear about this? Bed Bath & Beyond — yes, the towels-and-throw-pillows store — is buying a *mortgage company.* No, seriously.
+Okay. Did you guys hear about this? Bed Bath & Beyond — yeah, the *towel* store — is buying a mortgage company. I'm not joking.
 
 ## Branding
-If you don't know me, I'm Jordan Nutter, and I help make mortgages make sense.
+If you don't know me, I'm Jordan Nutter. I help make mortgages make sense.
 
 VISUAL: Headline screenshot — "Bed Bath & Beyond to acquire mortgage company" (HousingWire · Jun 2026)
 
-## Problem / Setup
-So they're building this thing called "Everything Home" — buy the house, finance it, insure it, furnish it, all in one checkout. And the CEO already said more deals like this are coming. This is where things are headed. Which sounds super convenient… but here's the thing — the *easiest* mortgage to get is almost never the *cheapest* one.
+## Setup
+So they wanna be a one-stop shop. Buy the house. Furnish it. And now — finance it. All in one place. And honestly? I have thoughts.
 
-## Empathy
-And honestly? I get the appeal. Nobody wakes up *excited* to shop for a mortgage. If you could just toss it in the cart next to the throw pillows — why wouldn't you?
-
-VISUAL: Playful overlay — "🛒 Mortgage… add to cart?"
+## The Take
+Because here's my issue. A mortgage is the biggest purchase of your life. It is not a throw pillow. You don't just toss it in the cart 'cause it's convenient. The *easiest* mortgage and the *cheapest* mortgage — almost never the same thing.
 
 ## Answer
-But here's the thing about a mortgage — it's the single biggest purchase most people ever make, and tiny differences add up to *thousands.* What actually decides what your loan costs isn't the brand on the box. It's three things: your rate, the *fees* — so look at the APR, not just the rate — and whether the person handling it actually knows your situation.
+Three things make it cheap. Your rate. Your fees — look at the APR, not just the rate. And whether the person doing your loan actually knows you.
 
-VISUAL: 3-item card — "What decides your loan's cost: ① Rate ② Fees (APR) ③ Who's guiding you"
+VISUAL: "🛒 add to cart?" overlay (or the 3-item card)
 
 ## Change
-So when one-click home shopping becomes a thing — and it's coming — just do *one* thing: still get a second quote. Compare the *loan,* not just the convenience. Five minutes of comparing can save you more than that whole shopping trip.
+So when you can "add a mortgage to cart" someday — cool. But still get a second quote. Always. Five minutes of comparing can save you thousands.
 
-## End Result
-Buy your towels wherever you want. But your mortgage? That's worth shopping around for — because "convenient" and "cheapest" are almost never the same thing.
+## Button
+Buy your towels at Bed Bath & Beyond. Get a second opinion on your mortgage. *(beat)* Preferably from someone whose other job isn't selling you a comforter.
 
 ## CTA
-Real question — would you actually get a mortgage from Bed Bath & Beyond? Tell me in the comments, I genuinely wanna know. 👇
+Real question — would you actually get a mortgage from Bed Bath & Beyond? Tell me in the comments. I need to know.
 
 ---
 

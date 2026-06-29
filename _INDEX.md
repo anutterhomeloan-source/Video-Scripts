@@ -9,6 +9,10 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 15 | The Average First-Time Buyer Is Now 40 | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-first-time-buyer-40.md) |
+| 14 | You Can't Borrow Your Down Payment | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-borrow-down-payment.md) |
+| 13 | Don't Close Your Oldest Credit Card | Talking Head | Scripted | 2026-06-29 | Schedule a call | [open](2026-06-29-dont-close-oldest-card.md) |
+| 12 | Rent-to-Own Scam | Reenactment | Scripted | 2026-06-29 | None | [open](2026-06-29-rent-to-own-scam.md) |
 | 11 | Bed Bath & Beyond Is Selling Mortgages Now | Talking Head | Scripted | 2026-06-22 | Leave a comment | [open](2026-06-22-bbb-mortgage.md) |
 | 10 | 20% Down to Skip PMI | Reenactment | Posted | 2026-06-22 | None | [open](2026-06-22-pmi-20-percent-down.md) |
 | 9 | Half Your Payment Isn't the Loan | Talking Head | Scripted | 2026-06-22 | Schedule a call | [open](2026-06-22-piti-property-tax.md) |
