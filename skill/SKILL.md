@@ -184,6 +184,7 @@ Caption 3:
 - Natural fillers are good: "um," "let's say," "anything along those lines"
 - Skip non-essential technical details — focus on the 2–3 things people actually care about
 - Collaborative CTA language: "let's figure out" / "feel free to reach out to me"
+- **Teleprompter-friendly delivery (important):** Jordan films by reading off a teleprompter, often without memorizing. Dense paragraphs read stiff and "forced." Write spoken lines as short, punchy, one-breath chunks the way she actually talks — so it sounds natural even read cold. Favor lots of short sentences and line breaks over long compound ones. If a line feels like a mouthful to read aloud, break it up.
 
 **Branding line spoken naturally:** "I help **make** mortgages make sense" (the extra "make" flows better in speech)
 
