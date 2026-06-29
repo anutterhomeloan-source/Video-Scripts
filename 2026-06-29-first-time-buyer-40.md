@@ -8,6 +8,9 @@
 
 **Real story:** NAR's 2025 Profile of Home Buyers and Sellers found the first-time buyer share fell to a record-low 21% and the median first-time buyer age rose to an all-time high of 40. Two-thirds of millennials have nothing saved for a down payment.
 **Sources (on-screen citation):** National Association of Realtors press release, Nov 4 2025 · Fortune, Mar 25 2026
+**Source links (for reference):**
+- NAR press release: https://www.nar.realtor/press-releases/first-time-home-buyer-share-falls-to-historic-low-of-21-median-age-rises-to-40
+- Fortune: https://fortune.com/2026/03/25/zillow-ceo-first-time-homebuyers-affordability-ai-mode/
 **Film note:** Stat is stable (annual report) — fine to film anytime this week.
 
 ---
