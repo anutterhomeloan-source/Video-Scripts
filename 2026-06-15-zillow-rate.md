@@ -1,7 +1,7 @@
 # Zillow Says My Rate Should Be 5.5%
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-06-15
 - **CTA:** Link in bio to get a real pre-approval
 - **Image asset:** zillow-rate-card.png (1080×1920)

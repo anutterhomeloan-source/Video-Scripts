@@ -1,7 +1,7 @@
 # I Found A Better Rate Online
 
 - **Type:** Reenactment (2 parts)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-06-15
 - **CTA:** None
 - **Image asset:** None

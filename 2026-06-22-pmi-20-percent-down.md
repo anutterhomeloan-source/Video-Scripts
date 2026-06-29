@@ -1,7 +1,7 @@
 # 20% Down to Skip PMI
 
 - **Type:** Reenactment (2 parts)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-06-22
 - **CTA:** None
 - **Image asset:** None
