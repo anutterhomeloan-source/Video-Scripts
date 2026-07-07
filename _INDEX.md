@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 17 | Approved for More ≠ Afford More | Reenactment | Scripted | 2026-07-07 | None | [open](2026-07-07-approved-for-more.md) |
 | 16 | The Credit Dispute "Boost" | Reenactment | Scripted | 2026-07-07 | None | [open](2026-07-07-credit-dispute-boost.md) |
 | 15 | The Average First-Time Buyer Is Now 40 | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-first-time-buyer-40.md) |
 | 14 | You Can't Borrow Your Down Payment | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-borrow-down-payment.md) |
