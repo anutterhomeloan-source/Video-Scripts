@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 16 | The Credit Dispute "Boost" | Reenactment | Scripted | 2026-07-07 | None | [open](2026-07-07-credit-dispute-boost.md) |
 | 15 | The Average First-Time Buyer Is Now 40 | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-first-time-buyer-40.md) |
 | 14 | You Can't Borrow Your Down Payment | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-borrow-down-payment.md) |
 | 13 | Don't Close Your Oldest Credit Card | Talking Head | Scripted | 2026-06-29 | Schedule a call | [open](2026-06-29-dont-close-oldest-card.md) |
