@@ -79,6 +79,25 @@ Reenactments/skits: follow PEACE beats (Problem/Empathy in borrower's lines; Ans
 
 ---
 
+## Audience Psychology — The 6 Needs
+
+A retention lens (from Tony Robbins, via a community-growth creator Jordan follows). Every strong post taps **at least one** of six psychological needs. Most of Jordan's scripts already hit several through PEACE + the Flip hook — use this as a check, not extra work.
+
+The six needs, and how they show up in a mortgage video:
+1. **Certainty** — solve one clear problem; share a mistake/lesson; be predictable (consistent topic, formats, branding line). *Jordan already strong here.*
+2. **Uncertainty / Variety** — novelty: the counterintuitive angle, a fresh perspective, info they haven't heard. *The Misconception Flip hook is this.*
+3. **Significance** — speak to a clear target audience AND take a stance/opinion. A real *take* ("here's what I actually think") makes people align and belong.
+4. **Connection** — put some of *Jordan* in it: her own story, why she does this, a mistake she made — not only "I had a client…" People connect with people.
+5. **Growth** — aspirational/transformational: "you can do this," "here's your path," a client win. (Balances the cautionary lane.)
+6. **Contribution** — feels like a service worth sharing (educating people on something that protects them).
+
+**Rules:**
+- **Every script must tap at least one need** (usually automatic via PEACE/Flip). When one's a clear fit, lean into it.
+- **Batch variety (for "run scripts"):** spread the idea set across the needs — do NOT pitch five cautionary/"avoid-this-mistake" videos in a row. Consciously mix in novelty, a strong-stance take, a personal/Connection angle, and an aspirational/Growth piece so the batch doesn't feel samey.
+- **Observed pattern:** Jordan's top performers (scam/too-good-to-be-true reenactments, counterintuitive debt reframes) hit *several* needs at once — Certainty (avoid pain) + Variety (counterintuitive) + Significance (clear stance). Neutral "just explaining" videos that tap fewer needs underperform. Favor angles that stack needs.
+
+---
+
 ## Hook Styles
 
 The hook is the highest-leverage line. Default to a strong Problem/Empathy hook, but for Talking Heads — **especially POVs** — offer the **Misconception Flip** hook, which tends to convert better (scroll-stopper + open loop).
