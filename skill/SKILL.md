@@ -24,12 +24,13 @@ Generate 13 script ideas (not full scripts yet):
   - **1–2 VISUAL moments** (Talking Head only)
   - **Video Caption** (1 sentence)
 - Branding line for Talking Head ideas only. Never for Reenactment/Skit.
+- **Need spread (don't skip):** the 13 must not all be cautionary "avoid-this-mistake" angles. Deliberately include **at least one aspirational/Growth idea** (a client win / "you can do this" / "here's your path in"), **at least one strong-opinion take**, and where natural a **personal/Jordan-story angle**. Tag each idea with the main need it hits so the spread is visible. (See "Audience Psychology — The 6 Needs".)
 
 **Overrides:** "talking head only" / "reenactment only" / "5 ideas" / "15 ideas" / "CTA = comment" / "topic: ___"
 
 ### "script it: #__"
 
-When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA confirmation), then write the full script in chat for approval.
+When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA confirmation), then write the full script in chat for approval. Among those questions, always check for: **(a) a personal/Jordan angle** — does she have her *own* story, experience, or mistake to anchor it, not just a client's (Connection); and **(b) a stance** — does she want a clear opinion/take baked in (Significance). Don't force either, but ask so it's on the table.
 
 ---
 
@@ -95,6 +96,11 @@ The six needs, and how they show up in a mortgage video:
 - **Every script must tap at least one need** (usually automatic via PEACE/Flip). When one's a clear fit, lean into it.
 - **Batch variety (for "run scripts"):** spread the idea set across the needs — do NOT pitch five cautionary/"avoid-this-mistake" videos in a row. Consciously mix in novelty, a strong-stance take, a personal/Connection angle, and an aspirational/Growth piece so the batch doesn't feel samey.
 - **Observed pattern:** Jordan's top performers (scam/too-good-to-be-true reenactments, counterintuitive debt reframes) hit *several* needs at once — Certainty (avoid pain) + Variety (counterintuitive) + Significance (clear stance). Neutral "just explaining" videos that tap fewer needs underperform. Favor angles that stack needs.
+
+**Actively work these three gaps (Jordan's current weak spots):**
+- **Significance — take a stance.** In talking heads (especially POVs and news), offer/include a clear opinion line ("here's what I actually think / here's the hill I'll die on"). Don't stay neutral when a real take fits — her strongest videos have one.
+- **Connection — put Jordan in it.** Look for a personal angle from Jordan herself — her own experience, why she does this work, a mistake she made — not only "I had a client…" People connect with people. Ask for it when scripting (see "script it").
+- **Growth — add aspiration.** Her library skews cautionary; deliberately create hopeful/transformational pieces (client wins, "you're not behind," "here's your path in"). Aim for at least one per idea batch, and pitch standalone aspirational ideas too, not just warnings.
 
 ---
 
