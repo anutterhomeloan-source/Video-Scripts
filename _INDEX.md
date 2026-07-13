@@ -9,6 +9,10 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 21 | Why I Take the Files Nobody Wanted | Talking Head | Scripted | 2026-07-07 | Link in bio | [open](2026-07-07-why-i-do-this.md) |
+| 20 | No Loan Is Too Small | Talking Head | Scripted | 2026-07-07 | Schedule a call | [open](2026-07-07-no-loan-too-small.md) |
+| 19 | Asset Depletion — Rich on Paper, Denied | Talking Head | Scripted | 2026-07-07 | Schedule a call | [open](2026-07-07-asset-depletion.md) |
+| 18 | DSCR — Buy a Rental Without Showing Income | Talking Head | Scripted | 2026-07-07 | Schedule a call | [open](2026-07-07-dscr-investor.md) |
 | 17 | Approved for More ≠ Afford More | Reenactment | Scripted | 2026-07-07 | None | [open](2026-07-07-approved-for-more.md) |
 | 16 | The Credit Dispute "Boost" | Reenactment | Scripted | 2026-07-07 | None | [open](2026-07-07-credit-dispute-boost.md) |
 | 15 | The Average First-Time Buyer Is Now 40 | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-first-time-buyer-40.md) |
