@@ -2,3 +2,6 @@
 _preview.png
 _test.html
 *.tmp
+
+# Private underwriting/product reference library — NEVER push (may contain internal/proprietary guidance)
+reference/

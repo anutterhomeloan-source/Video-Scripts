@@ -231,6 +231,18 @@ Caption 3:
 
 ---
 
+## Reference Library (underwriting / product notes — PRIVATE)
+
+Jordan gets product info, guideline updates, and program/rate changes from her underwriting desk. These are stored in a **private, git-ignored** folder so they never hit the public site:
+`C:\Users\jnutter\Documents\Video Scripts\reference\` — the index is `reference\_REFERENCE.md` (sections: Products / Guideline Updates / Program & Rate Changes / raw files).
+
+- **This folder is git-ignored on purpose** (may contain internal/proprietary overlays). Never commit, push, copy into a script's `.md`/`Scripts.html`, or otherwise expose its contents publicly. It's for *informing* content, not for reposting verbatim.
+- **Check it first** whenever making **program, guideline, or news** content — pull the current product details/guidelines from here so scripts are accurate and up to date. Flag to Jordan if a script contradicts something in the reference library.
+- **Adding to it (two ways):** (1) Jordan drops a file (PDF/screenshot/email/doc) into `reference\` and says "new reference file" → summarize it into the right table with a link to the file; (2) Jordan pastes info in chat → write it straight into the correct section. Convert relative dates to absolute; date every entry.
+- When turning reference info into a public video, keep it general/educational — don't reproduce internal overlay language, lender names Jordan wants withheld, or confidential specifics.
+
+---
+
 ## Script Library (where approved scripts are saved)
 
 All approved scripts live in: `C:\Users\jnutter\Documents\Video Scripts\`
