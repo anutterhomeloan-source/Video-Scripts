@@ -92,5 +92,5 @@
 ---
 
 ## CAPTIONS
-- Caption 1: "Another lender approved me for $150k more!" Cool — did they mention the $1,000 bigger payment? 😅
-- Caption 2: Getting approved for more isn't a flex. Approved ≠ affordable — here's the math they skip. 💸
+- **Part 1:** "Another lender approved me for $150k more!" Cool — did they mention the $1,000 bigger payment? 😅
+- **Part 2:** Getting approved for more isn't a flex. Approved ≠ affordable — here's the math they skip. 💸

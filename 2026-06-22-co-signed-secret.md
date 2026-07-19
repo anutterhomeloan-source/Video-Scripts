@@ -82,4 +82,5 @@
 ---
 
 ## CAPTIONS
-- **Approved:** The application doesn't keep secrets. Neither do your closing documents. #mortgage #homebuying
+- **Part 1:** The credit report revealed a secret car loan — live, on a 3-way call with his wife. 😳
+- **Part 2:** The application doesn't keep secrets. Neither do your closing documents. #mortgage #homebuying

@@ -77,5 +77,5 @@
 ---
 
 ## CAPTIONS
-- Caption (approved): Her buyer backed out 4 days before her own closing. Here's what happened.
-- Caption 2: "Contingent on the sale of my house" — what happens when it falls through.
+- **Part 1:** Her buyer backed out 4 days before her own closing. Here's what happened.
+- **Part 2:** There's almost always more than one way through it. Here's how we saved her closing.

@@ -77,5 +77,5 @@
 ---
 
 ## CAPTIONS
-- Caption (approved): He paid off $18K in debt with a refi. A year later...
-- Caption 2: A cash-out refi doesn't fix debt. It just moves it.
+- **Part 1:** He paid off $18K in credit card debt with a refi. A year later, I asked him one question.
+- **Part 2:** A cash-out refi doesn't fix debt. It just moves it.

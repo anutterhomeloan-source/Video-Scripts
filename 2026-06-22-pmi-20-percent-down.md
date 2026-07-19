@@ -88,5 +88,5 @@
 ---
 
 ## CAPTIONS
-- Caption 1: Draining your whole savings to skip PMI might be the most expensive "smart" move there is. 👇 Part 2.
-- Caption 2: PMI isn't a scam — it's temporary, and it might be the cheapest way to keep your emergency fund. Keep your kidneys. 😅
+- **Part 1:** Draining your whole savings to skip PMI might be the most expensive "smart" move there is. 👇
+- **Part 2:** PMI isn't a scam — it's temporary, and it might be the cheapest way to keep your emergency fund. Keep your kidneys. 😅

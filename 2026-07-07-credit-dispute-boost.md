@@ -94,5 +94,5 @@
 ---
 
 ## CAPTIONS
-- Caption 1: She paid a "credit repair guy" from an ad to boost her score 90 points. 😅 Why it froze her loan (Part 2).
-- Caption 2: Disputing every negative on your credit doesn't fix it — and active disputes can stall your mortgage. 🚩
+- **Part 1:** She paid a "credit repair guy" from an ad to boost her score 90 points. 😅 Here's why it froze her loan.
+- **Part 2:** Disputing every negative on your credit doesn't fix it — active disputes can stall your mortgage. 🚩

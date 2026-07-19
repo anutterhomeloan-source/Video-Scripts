@@ -189,6 +189,7 @@ Include 1–3 caption options at the end of every script in chat:
 - First line = hook (Problem or End Result style), then quick payoff
 - No heavy jargon — use "mortgage English"
 - At least one option with a light CTA
+- **Multi-part reenactments/skits (hard rule): write separate caption options for EACH part, not one shared set for the whole series.** Jordan posts each part as its own video, so each part needs its own caption(s). Prefix each with its part number — `"Part 1 — ..."` / `"Part 2 — ..."` — so it's obvious which caption belongs to which video.
 
 **Format:**
 ```
@@ -261,6 +262,8 @@ This is Jordan's filming library — she films from this PC, scanning the index,
 
 **Dashboard status workflow (self-serve):** On `Scripts.html`, each status badge is **clickable** — Jordan taps it to advance `Scripted → Drafted → Posted` (loops back around). Changes save in her browser via `localStorage` (key `jn_script_status_v1`) on the filming PC, so they persist without git. The filter chips include All / Talking Head / Reenactment / Scripted / Drafted / Posted. A **"⤓ Copy status updates"** button copies a one-line summary of any badge changes that differ from the saved files — when Jordan pastes that summary back, sync the affected `.md` metadata + `_INDEX.md` rows + `Scripts.html` `status` fields to match, then push. (After syncing, the page's defaults catch up and those items drop out of the summary automatically.)
 
+**List ordering:** the list auto-sorts by status — `Scripted` and `Drafted` items stay at the top, `Posted` items sink to the bottom — so Jordan doesn't have to scroll past everything she's already posted to find what's next to film. Within each status group, newest (`n`) stays first. This re-sorts live the moment a badge is tapped, since `render()` re-runs on every status change. Preserve this sort in `render()` if the dashboard is regenerated.
+
 **Image assets** (cards, graphics) built for a script are **saved into the library folder** `C:\Users\jnutter\Documents\Video Scripts\` (so the dashboard can display them with a relative path), referenced by filename in the script's `.md` metadata, AND added to the script's `images: [{ file, label }]` array in `Scripts.html`. The dashboard renders these in an "Image assets" section at the bottom of the expanded script, with click-to-open-full-size links. Whenever you generate a graphic for a script, always: (1) save/copy the PNG into the library folder, (2) add it to that script's `images` array. Never leave a generated image only in Downloads.
 
 How images are generated: build the graphic as a standalone HTML file sized to 1080×1920, then render to PNG with Edge headless:
@@ -276,10 +279,10 @@ Always keep the `skill/SKILL.md` backup copy in the library in sync with this fi
 
 **Update the HTML dashboard.** The library also has `Scripts.html` — a browser dashboard Jordan films from (search, filter by type/status, click to expand each full script). It holds the script data in a `const SCRIPTS = [...]` array near the bottom. When a script is approved, add a new object to that array (newest first): `{ n, title, type, status, date, cta, images, captions, body }` where:
 - `body` = the full script as HTML (use `<h2>` for PEACE section labels, `<p>` for spoken lines, `<div class="visual">` for VISUAL lines, `<ul>/<li>` for option lists, `<div class="block">` for the image-option note). Do NOT put captions in the body.
-- `captions` = an array of caption strings, e.g. `["caption one", "caption two"]`. The dashboard renders each with its own one-click copy button.
+- `captions` = an array of caption strings, e.g. `["caption one", "caption two"]`. The dashboard renders each with its own one-click copy button. **For multi-part reenactments/skits, include at least one caption per part**, prefixed `"Part 1 — ..."` / `"Part 2 — ..."` etc. (see Captions section above).
 - `images` = array of `{ file, label }` (see image-assets note above).
 
-The dashboard auto-provides per-script buttons: "Copy for teleprompter" (spoken `<p>`/`<li>` lines only — no headings/visuals/captions), "Copy title", and a copy button per caption. These come from the template — preserve them when regenerating. When status changes (Filmed/Posted), update the `status` field there too. Keep `_INDEX.md`, the per-script `.md` file, and `Scripts.html` in sync.
+The dashboard auto-provides per-script buttons: "Copy for teleprompter" (spoken `<p>`/`<li>` lines only — automatically skips standalone italic context/staging blurbs like `<p><em>...</em></p>`, plus headings, visuals, and captions), "Copy title", and a copy button per caption. These come from the template — preserve them when regenerating, including the filter in `copyScript()` that excludes standalone-italic `<p>` tags (context blurbs, staging notes) so only actual spoken dialogue gets copied. When status changes (Filmed/Posted), update the `status` field there too. Keep `_INDEX.md`, the per-script `.md` file, and `Scripts.html` in sync.
 
 ---
 

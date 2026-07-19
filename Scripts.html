@@ -144,8 +144,8 @@ const SCRIPTS = [
     cta: "None",
     images: [],
     captions: [
-      "Her buyer backed out 4 days before her own closing. Here's what happened.",
-      "\"Contingent on the sale of my house\" — what happens when it falls through."
+      "Part 1 — Her buyer backed out 4 days before her own closing. Here's what happened.",
+      "Part 2 — There's almost always more than one way through it. Here's how we saved her closing."
     ],
     body: `
       <p><em>Jordan plays both roles: DANIELLE (panicked buyer) and JORDAN (calm, solution-focused LO). Each part runs 60–90 seconds.</em></p>
@@ -185,8 +185,8 @@ const SCRIPTS = [
     cta: "None",
     images: [],
     captions: [
-      "He paid off $18K in debt with a refi. A year later...",
-      "A cash-out refi doesn't fix debt. It just moves it."
+      "Part 1 — He paid off $18K in credit card debt with a refi. A year later, I asked him one question.",
+      "Part 2 — A cash-out refi doesn't fix debt. It just moves it."
     ],
     body: `
       <p><em>Jordan plays both roles: RYAN (borrower, a year out from a cash-out refi) and JORDAN (calm, direct LO). Each part runs 60–90 seconds.</em></p>
@@ -496,8 +496,8 @@ const SCRIPTS = [
     cta: "None",
     images: [],
     captions: [
-      "\"Another lender approved me for $150k more!\" Cool — did they mention the $1,000 bigger payment? 😅",
-      "Getting approved for more isn't a flex. Approved ≠ affordable — here's the math they skip. 💸"
+      "Part 1 — \"Another lender approved me for $150k more!\" Cool — did they mention the $1,000 bigger payment? 😅",
+      "Part 2 — Getting approved for more isn't a flex. Approved ≠ affordable — here's the math they skip. 💸"
     ],
     body: `
       <p><em>Jordan plays all roles: BORROWER (feeling lowballed, then humbled) and JORDAN (calm, dry LO). Grounded tone with real numbers. The "other lender" is referenced, not a character. Each part runs 60–90 seconds. Numbers: Jordan pre-approved ~$350k (≈ $2,900/mo, the borrower's comfort); another lender approved $500k (≈ $3,900/mo — ~$1,000 more per month).</em></p>
@@ -545,8 +545,8 @@ const SCRIPTS = [
     cta: "None",
     images: [],
     captions: [
-      "She paid a \"credit repair guy\" from an ad to boost her score 90 points. 😅 Why it froze her loan (Part 2).",
-      "Disputing every negative on your credit doesn't fix it — and active disputes can stall your mortgage. 🚩"
+      "Part 1 — She paid a \"credit repair guy\" from an ad to boost her score 90 points. 😅 Here's why it froze her loan.",
+      "Part 2 — Disputing every negative on your credit doesn't fix it — active disputes can stall your mortgage. 🚩"
     ],
     body: `
       <p><em>Jordan plays all roles: BORROWER (proud, then deflated) and JORDAN (calm, dry LO). Comedic tone. The "credit repair guy" is referenced, not a character. Each part runs 60–90 seconds. Lesson: disputing derogatory accounts only flags them and temporarily hides them; they must be resolved to close, so the "boost" disappears and active disputes can stall the loan.</em></p>
@@ -695,8 +695,8 @@ const SCRIPTS = [
     cta: "None",
     images: [],
     captions: [
-      "\"No credit check, just Zelle the deposit!\" 🚩 Why I told this buyer to STOP.",
-      "He almost sent $3,000 for keys that didn't exist. Watch before you fall for this. 👀"
+      "Part 1 — \"No credit check, just Zelle the deposit!\" 🚩 Why I told this buyer to STOP.",
+      "Part 2 — He almost sent $3,000 for keys that didn't exist. Here are the red flags he missed. 👀"
     ],
     body: `
       <p><em>Jordan plays all roles: BORROWER (excited, gullible) and JORDAN (calm, suspicious LO). Scam-alert tone. Each part runs 60–90 seconds.</em></p>
@@ -785,8 +785,8 @@ const SCRIPTS = [
     cta: "None",
     images: [],
     captions: [
-      "Draining your whole savings to skip PMI might be the most expensive \"smart\" move there is. 👇 Part 2.",
-      "PMI isn't a scam — it's temporary, and it might be the cheapest way to keep your emergency fund. Keep your kidneys. 😅"
+      "Part 1 — Draining your whole savings to skip PMI might be the most expensive \"smart\" move there is. 👇",
+      "Part 2 — PMI isn't a scam — it's temporary, and it might be the cheapest way to keep your emergency fund. Keep your kidneys. 😅"
     ],
     body: `
       <p><em>Jordan plays all roles: BORROWER (solo first-timer, proud then nervous) and JORDAN (calm, dry LO). Comedic-panic tone. Each part runs 60–90 seconds.</em></p>
@@ -929,7 +929,8 @@ const SCRIPTS = [
     cta: "None",
     images: [],
     captions: [
-      "The application doesn't keep secrets. Neither do your closing documents. #mortgage #homebuying"
+      "Part 1 — The credit report revealed a secret car loan — live, on a 3-way call with his wife. 😳",
+      "Part 2 — The application doesn't keep secrets. Neither do your closing documents. #mortgage #homebuying"
     ],
     body: `
       <p><em>Jordan plays all roles: JORDAN (calm LO), SARAH (wife), MIKE (husband, fumbling). Play the reveal straight — the awkward silence does the work; the comedy lands in Part 2 with Jordan calm and Mike spiraling. Each part runs 60–90 seconds.</em></p>
@@ -1171,7 +1172,11 @@ function doCopy(btn, text, label){
 function copyScript(e, n){
   e.stopPropagation();
   const nodes = document.querySelectorAll(`#card-${n} .body p, #card-${n} .body li`);
-  const text = Array.from(nodes).map(el => el.textContent.trim()).filter(Boolean).join('\n\n');
+  const isOverviewBlurb = el => el.tagName === 'P' && el.children.length === 1
+    && el.children[0].tagName === 'EM' && el.children[0].textContent.trim() === el.textContent.trim();
+  const text = Array.from(nodes)
+    .filter(el => !isOverviewBlurb(el))
+    .map(el => el.textContent.trim()).filter(Boolean).join('\n\n');
   doCopy(e.currentTarget, text);
 }
 function copyTitle(e, n){
@@ -1211,10 +1216,15 @@ function setFilter(el){ document.querySelectorAll('.chip').forEach(c=>c.classLis
 function render(){
   const q = document.getElementById('search').value.toLowerCase();
   const list = document.getElementById('list');
+  const STAGE_ORDER = { 'Scripted': 0, 'Drafted': 1, 'Posted': 2 };
   const items = SCRIPTS.filter(s=>{
     if(filter!=="all" && s.type!==filter && effStatus(s)!==filter) return false;
     if(q && !(s.title+s.body+s.cta).toLowerCase().includes(q)) return false;
     return true;
+  }).sort((a,b)=>{
+    const sa = STAGE_ORDER[effStatus(a)], sb = STAGE_ORDER[effStatus(b)];
+    if(sa !== sb) return sa - sb;
+    return b.n - a.n;
   });
   if(!items.length){ list.innerHTML = '<div class="empty">No scripts match.</div>'; return; }
   list.innerHTML = items.map(s=>{

@@ -92,5 +92,5 @@
 ---
 
 ## CAPTIONS
-- Caption 1: "No credit check, just Zelle the deposit!" 🚩 Why I told this buyer to STOP.
-- Caption 2: He almost sent $3,000 for keys that didn't exist. Watch before you fall for this. 👀
+- **Part 1:** "No credit check, just Zelle the deposit!" 🚩 Why I told this buyer to STOP.
+- **Part 2:** He almost sent $3,000 for keys that didn't exist. Here are the red flags he missed. 👀
