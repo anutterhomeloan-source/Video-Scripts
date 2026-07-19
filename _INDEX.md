@@ -9,6 +9,13 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 28 | You Don't Have to Sell Before You Buy | Talking Head | Scripted | 2026-07-19 | Schedule a call | [open](2026-07-19-knock-buy-before-sell.md) |
+| 27 | Contingent on My House Selling | Reenactment | Scripted | 2026-07-19 | None | [open](2026-07-19-contingent-sale-falls-through.md) |
+| 26 | The Cash-Out Refi Debt Spiral | Reenactment | Scripted | 2026-07-19 | None | [open](2026-07-19-cash-out-refi-spiral.md) |
+| 25 | What "Middle Class" Actually Means Where You Live | Talking Head | Scripted | 2026-07-19 | None | [open](2026-07-19-middle-class-income.md) |
+| 24 | Diddy's Buyer Could've Paid Cash. They Took a Mortgage Instead. | Talking Head | Scripted | 2026-07-19 | Schedule a call | [open](2026-07-19-diddy-mortgage.md) |
+| 23 | Your Property Taxes Are Hiding in Your Mortgage Payment | Talking Head | Scripted | 2026-07-19 | None | [open](2026-07-19-fl-property-tax-2026.md) |
+| 22 | Pre-Qualified Is Not Pre-Approved | Talking Head | Scripted | 2026-07-19 | Link in bio | [open](2026-07-19-prequal-vs-preapproval.md) |
 | 21 | Why I Take the Files Nobody Wanted | Talking Head | Scripted | 2026-07-07 | Link in bio | [open](2026-07-07-why-i-do-this.md) |
 | 20 | No Loan Is Too Small | Talking Head | Scripted | 2026-07-07 | Schedule a call | [open](2026-07-07-no-loan-too-small.md) |
 | 19 | Asset Depletion — Rich on Paper, Denied | Talking Head | Scripted | 2026-07-07 | Schedule a call | [open](2026-07-07-asset-depletion.md) |
