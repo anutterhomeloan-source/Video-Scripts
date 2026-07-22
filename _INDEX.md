@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 30 | Best Friend, Not Just Your Lender (Carousel) | Carousel | Scripted | 2026-07-22 | None | [open](2026-07-22-best-friend-lender-carousel.md) |
 | 29 | Don't Hand the Seller Your Ceiling | Talking Head | Scripted | 2026-07-22 | Link in bio | [open](2026-07-22-preapproval-letter-ceiling.md) |
 | 28 | You Don't Have to Sell Before You Buy | Talking Head | Scripted | 2026-07-19 | Schedule a call | [open](2026-07-19-knock-buy-before-sell.md) |
 | 27 | Contingent on My House Selling | Reenactment | Scripted | 2026-07-19 | None | [open](2026-07-19-contingent-sale-falls-through.md) |

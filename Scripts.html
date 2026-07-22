@@ -30,6 +30,7 @@
   .badge { font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; white-space: nowrap; }
   .b-talk { background: #E6F1FB; color: var(--navy2); }
   .b-reenact { background: #FBEAF0; color: #993556; }
+  .b-carousel { background: #E3F6F5; color: #1B7A75; }
   .status { font-size: 12px; font-weight: 600; padding: 4px 11px; border-radius: 999px; white-space: nowrap; cursor: pointer; user-select: none; border: 1px solid transparent; transition: filter .12s, box-shadow .12s; }
   .status:hover { filter: brightness(.96); box-shadow: 0 0 0 2px rgba(0,0,0,.06); }
   .status::after { content: " ⟳"; opacity: .55; font-size: 11px; }
@@ -86,6 +87,7 @@
     <span class="chip active" data-f="all" onclick="setFilter(this)">All</span>
     <span class="chip" data-f="Talking Head" onclick="setFilter(this)">Talking Head</span>
     <span class="chip" data-f="Reenactment" onclick="setFilter(this)">Reenactment</span>
+    <span class="chip" data-f="Carousel" onclick="setFilter(this)">Carousel</span>
     <span class="chip" data-f="Scripted" onclick="setFilter(this)">Scripted</span>
     <span class="chip" data-f="Drafted" onclick="setFilter(this)">Drafted</span>
     <span class="chip" data-f="Posted" onclick="setFilter(this)">Posted</span>
@@ -99,6 +101,31 @@
 
 <script>
 const SCRIPTS = [
+  {
+    n: 30,
+    title: "Best Friend, Not Just Your Lender (Carousel)",
+    type: "Carousel",
+    status: "Scripted",
+    date: "2026-07-22",
+    cta: "None",
+    images: [],
+    captions: [
+      "Things I'd tell you as your best friend, not just your lender."
+    ],
+    body: `
+      <p><em>Format: 5-slide photo carousel, text overlay on Jordan's own photos. No branding line, no CTA — matches the source format this was inspired by.</em></p>
+      <h2>Slide 1 (hook)</h2>
+      <p>THINGS I'D TELL YOU AS YOUR BEST FRIEND, NOT JUST YOUR LENDER.</p>
+      <h2>Slide 2</h2>
+      <p>If a house isn't worth it, I'll tell you before you fall for it. Even if you don't want to hear it.</p>
+      <h2>Slide 3</h2>
+      <p>Your credit score isn't a grade. It's just where we start.</p>
+      <h2>Slide 4</h2>
+      <p>Stop taking mortgage advice from your uncle who bought in 2008. Everything about this has changed since then.</p>
+      <h2>Slide 5</h2>
+      <p>The house you keep scrolling past at midnight? Just ask about it. You're allowed to want it.</p>
+    `
+  },
   {
     n: 29,
     title: "Don't Hand the Seller Your Ceiling",
@@ -1268,7 +1295,7 @@ function render(){
   });
   if(!items.length){ list.innerHTML = '<div class="empty">No scripts match.</div>'; return; }
   list.innerHTML = items.map(s=>{
-    const tcls = s.type==="Talking Head" ? "b-talk":"b-reenact";
+    const tcls = s.type==="Talking Head" ? "b-talk" : (s.type==="Carousel" ? "b-carousel" : "b-reenact");
     const est = effStatus(s);
     const scls = "s-"+est.toLowerCase();
     const assets = (s.images && s.images.length) ? `<div class="assets"><h2>Image assets</h2><div class="asset-grid">${s.images.map(im=>`<div class="asset"><a href="${im.file}" target="_blank"><img src="${im.file}" alt="${im.label}"></a><div class="cap">${im.label}<br><a href="${im.file}" target="_blank">open full size ↗</a></div></div>`).join('')}</div></div>` : '';
