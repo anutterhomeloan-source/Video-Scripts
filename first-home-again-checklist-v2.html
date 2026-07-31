@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{ --bluelt:#85B7EB; --gold:#FFD166; --teal:#1D9E75; }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:110px 90px;
+  }
+  .kicker{font-size:32px;letter-spacing:3px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:22px;text-align:center;}
+  .headline{font-size:70px;line-height:1.12;font-weight:800;text-align:center;margin-bottom:70px;}
+  .headline .hl{color:var(--gold);}
+  .list{width:100%;display:flex;flex-direction:column;gap:30px;}
+  .item{display:flex;align-items:center;gap:34px;border-radius:26px;padding:36px 44px;}
+  .item.revealed{background:rgba(255,255,255,.08);border:2px solid rgba(133,183,235,.4);}
+  .item.upcoming{background:rgba(255,255,255,.03);border:2px dashed rgba(255,255,255,.15);}
+  .ic{width:74px;height:74px;border-radius:50%;flex:none;display:flex;align-items:center;justify-content:center;font-size:40px;font-weight:900;}
+  .revealed .ic{background:var(--teal);color:#fff;}
+  .upcoming .ic{background:rgba(255,255,255,.12);color:rgba(255,255,255,.5);font-size:34px;}
+  .label{font-size:46px;font-weight:700;line-height:1.15;}
+  .revealed .label{color:#fff;opacity:1;}
+  .upcoming .label{color:#fff;opacity:.35;filter:blur(7px);}
+</style>
+</head>
+<body>
+  <div class="kicker">If I bought my first home again...</div>
+  <div class="headline">5 Things I Wouldn't <span class="hl">Skip</span></div>
+  <div class="list">
+    <div class="item revealed"><div class="ic">&#10003;</div><div class="label">Home Inspection</div></div>
+    <div class="item revealed"><div class="ic">&#10003;</div><div class="label">A Realtor Who Fights For You</div></div>
+    <div class="item upcoming"><div class="ic">3</div><div class="label">A Loan Officer Who Explains Things</div></div>
+    <div class="item upcoming"><div class="ic">4</div><div class="label">Cash Reserves After Closing</div></div>
+    <div class="item upcoming"><div class="ic">5</div><div class="label">A Home Warranty</div></div>
+  </div>
+</body>
+</html>
