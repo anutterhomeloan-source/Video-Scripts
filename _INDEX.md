@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 35 | Your Next Move — Step 3: Pre-Approval | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step3-pre-approval.md) |
 | 34 | Your Next Move — Step 2: Set A Budget | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step2-set-a-budget.md) |
 | 33 | Your Next Move — Step 1: Loan Officer | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step1-loan-officer.md) |
 | 32 | 5 Things I Wouldn't Skip (First Home Again) | Talking Head | Scripted | 2026-07-30 | Schedule a call | [open](2026-07-30-first-home-again.md) |
