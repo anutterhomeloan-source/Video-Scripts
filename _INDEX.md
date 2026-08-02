@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 33 | Your Next Move — Step 1: Loan Officer | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step1-loan-officer.md) |
 | 32 | 5 Things I Wouldn't Skip (First Home Again) | Talking Head | Scripted | 2026-07-30 | Schedule a call | [open](2026-07-30-first-home-again.md) |
 | 31 | It's Not You, It's the Number | Reenactment | Scripted | 2026-07-30 | None | [open](2026-07-30-not-you-its-the-number.md) |
 | 30 | Best Friend, Not Just Your Lender (Carousel) | Carousel | Scripted | 2026-07-22 | None | [open](2026-07-22-best-friend-lender-carousel.md) |
