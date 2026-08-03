@@ -106,7 +106,9 @@ The six needs, and how they show up in a mortgage video:
 
 ## Hook Styles
 
-The hook is the highest-leverage line. Default to a strong Problem/Empathy hook, but for Talking Heads — **especially POVs** — offer the **Misconception Flip** hook, which tends to convert better (scroll-stopper + open loop).
+The hook is the highest-leverage line. Default to a strong Problem/Empathy hook, but for Talking Heads — **especially POVs** — offer the **Misconception Flip** or **Validation-First Reframe** hook, both of which tend to convert better than a plain Problem/Empathy open.
+
+**Don't default to one hook style for an entire batch.** Across a "run scripts" batch, mix straight hooks, Flip hooks, and Validation-First Reframe hooks — using the same hook style on every idea makes the batch feel repetitive and doesn't showcase Jordan's range as a creator. Match the hook to the idea: Flip suits a myth/misconception; Validation-First Reframe suits anything where the viewer feels behind, embarrassed, or like they missed their window; straight Problem/Empathy is still the reliable default for everything else.
 
 ### Misconception Flip hook (Talking Head / POV)
 
@@ -126,7 +128,26 @@ Then roll into the normal **Answer → Change → End Result**, and **echo the p
 
 **Example (rates):** "Waiting for rates to drop is the smart, responsible move. …And it's the most expensive misconception in home buying right now. Because every time I watch someone wait for the perfect rate, I watch the house they loved get more expensive. I'm not talking about overpaying for something you can't afford — I'm talking about the home that was right there, now costing $30,000 more."
 
-When generating ideas ("run scripts") or writing a POV script, offer the Misconception Flip hook as an option. Override: **"flip hook"** = use it; **"straight hook"** = use the standard Problem/Empathy hook.
+When generating ideas ("run scripts") or writing a POV script, offer the Misconception Flip hook as an option. Override: **"flip hook"** = use it; **"straight hook"** = use the standard Problem/Empathy hook; **"reframe hook"** = use Validation-First Reframe (see below).
+
+### Validation-First Reframe hook (Talking Head / POV, best for Growth angles)
+
+Sourced from breaking down a viral creator's video (1.3M views) that made a specific audience feel *smart* about a thing they normally feel behind on — rather than shaming them for missing out, the way most "you're behind" content does. Best fit for videos where the viewer feels behind, embarrassed, or like they missed their window (older first-time buyers, people who didn't buy during a boom, buyers who feel priced out). A 5-move opener:
+
+1. **Competitive threat / naming the gap** — Name the thing the viewer feels behind on, or the group that seems to be beating them at it. Makes the problem concrete without yet assigning blame. (e.g. "Everyone who bought in 2021 got the low rate — and you feel like you missed it.")
+2. **Shame removal** — Immediately reframe the gap as not their fault. Nobody taught them, the rules changed, the timing wasn't in their control. This has to land right after the threat, not later.
+3. **Validation before the wound** — Affirm the viewer's competence or status *before* naming what they should do differently. Tell them what they've already been doing right (saving, waiting, being careful) so the coming advice doesn't feel like criticism.
+4. **Proof point** — One concrete, specific number or outcome, not a vague claim. A real client result beats a generalization.
+5. **Objection kill + soft CTA** — Preempt the "yeah but that's not me" excuse in one line, then close with a low-pressure, "follow along" style CTA rather than a hard push.
+
+Then roll into the normal **Answer → Change → End Result**.
+
+**Rules:**
+- Talking Heads only (POVs are the best fit; works on Growth-angle news too). Not for reenactments/skits.
+- The core trick is reframing the "disadvantage" itself as the advantage — don't just validate and move on, actually flip what being "behind" means.
+- Branding line still comes right after the hook, same as always.
+
+**Example (older first-time buyers):** "Everyone who bought young feels like they got the head start. And if you're still renting at 35, that's not because you did something wrong — nobody handed you a manual for when to buy. You've been building your credit, watching your savings, being careful this whole time. That's not behind. That's exactly why my clients who wait longer close stronger — I had one who waited two extra years and walked in with a bigger down payment and a better rate than the people who rushed. You don't need perfect timing. You need your real number."
 
 ---
 
