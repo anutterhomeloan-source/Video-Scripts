@@ -9,6 +9,8 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 40 | Your 640 Isn't a Rejection, It's a Head Start | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-credit-score-640.md) |
+| 39 | You're Not Behind, You're Being Careful | Talking Head | Scripted | 2026-08-02 | Link in bio | [open](2026-08-02-not-behind-being-careful.md) |
 | 38 | Your Next Move — Step 6: Make An Offer | Talking Head (Series) | Scripted | 2026-08-02 | None | [open](2026-08-01-your-next-move-step6-make-an-offer.md) |
 | 37 | Your Next Move — Step 5: House Hunting | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step5-house-hunting.md) |
 | 36 | Your Next Move — Step 4: Realtor | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step4-realtor.md) |
