@@ -9,6 +9,10 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 44 | New Car, New Problem | Reenactment | Scripted | 2026-08-02 | None | [open](2026-08-02-new-car-new-problem.md) |
+| 43 | Your Insurance Quote Could Kill Your Approval | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-insurance-quote-approval.md) |
+| 42 | Is This 2008 Again? | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-2008-again.md) |
+| 41 | FHA Got a Bad Rep. It Got Me Three Homes. | Talking Head | Scripted | 2026-08-02 | Link in bio | [open](2026-08-02-fha-three-homes.md) |
 | 40 | Your 640 Isn't a Rejection, It's a Head Start | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-credit-score-640.md) |
 | 39 | You're Not Behind, You're Being Careful | Talking Head | Scripted | 2026-08-02 | Link in bio | [open](2026-08-02-not-behind-being-careful.md) |
 | 38 | Your Next Move — Step 6: Make An Offer | Talking Head (Series) | Scripted | 2026-08-02 | None | [open](2026-08-01-your-next-move-step6-make-an-offer.md) |
