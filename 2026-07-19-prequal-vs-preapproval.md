@@ -1,7 +1,7 @@
 # Pre-Qualified Is Not Pre-Approved
 
 - **Type:** Talking Head (PSA)
-- **Status:** Scripted
+- **Status:** Drafted
 - **Date approved:** 2026-07-19
 - **CTA:** Link in bio
 - **Image asset:** prequal-checklist-card.png (Option C — checklist: Income verified / Credit pulled / Assets checked)

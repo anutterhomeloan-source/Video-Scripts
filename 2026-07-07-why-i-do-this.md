@@ -1,7 +1,7 @@
 # Why I Take the Files Nobody Wanted
 
 - **Type:** Talking Head (Personal)
-- **Status:** Scripted
+- **Status:** Drafted
 - **Date approved:** 2026-07-07
 - **CTA:** Link in bio
 - **Image asset:** why-i-do-this-card.png (Option C — "The clients nobody wanted taught me everything.")

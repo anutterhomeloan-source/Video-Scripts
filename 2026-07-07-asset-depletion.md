@@ -1,7 +1,7 @@
 # Asset Depletion — Rich on Paper, Denied by the Bank
 
 - **Type:** Talking Head (POV)
-- **Status:** Scripted
+- **Status:** Drafted
 - **Date approved:** 2026-07-07
 - **CTA:** Schedule a call
 - **Image asset:** asset-depletion-card.png (Option C — "Asset-rich, income-light? You're not stuck.")

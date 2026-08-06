@@ -1,7 +1,7 @@
 # Don't Close Your Oldest Credit Card
 
 - **Type:** Talking Head (POV)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-06-29
 - **CTA:** Schedule a call
 - **Image asset:** close-card-score-drop.png (Option A — before/after score drop card)

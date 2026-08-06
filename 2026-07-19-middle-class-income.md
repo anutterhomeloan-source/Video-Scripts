@@ -1,7 +1,7 @@
 # What "Middle Class" Actually Means Where You Live
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Drafted
 - **Date approved:** 2026-07-19
 - **CTA:** None
 - **Image asset:** middle-class-income-card.png (Option A — headline overlay + source citation)

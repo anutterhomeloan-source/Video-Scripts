@@ -1,7 +1,7 @@
 # You Don't Have to Sell Before You Buy
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Drafted
 - **Date approved:** 2026-07-19
 - **CTA:** Schedule a call
 - **Image asset:** knock-buy-before-sell-card.png (Option B — before/after comparison)
