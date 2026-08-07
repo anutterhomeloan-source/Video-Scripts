@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 45 | If Lenders Spoke Their Minds | Skit | Scripted | 2026-08-06 | None | [open](2026-08-06-lenders-speak-their-minds.md) |
 | 44 | New Car, New Problem | Reenactment | Scripted | 2026-08-02 | None | [open](2026-08-02-new-car-new-problem.md) |
 | 43 | Your Insurance Quote Could Kill Your Approval | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-insurance-quote-approval.md) |
 | 42 | Is This 2008 Again? | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-2008-again.md) |
