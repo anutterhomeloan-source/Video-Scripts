@@ -59,6 +59,18 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
 - Same rules as Reenactment for branding and CTA
 - **Same 60–90 second length rule as Reenactment** (per part)
 
+### Yap (Rapid-Fire Lead Magnet)
+- Talking Head variant — direct to camera, but skips the slow PEACE build. Rapid, staccato, list-driven: a fast string of specific mistakes/pain points delivered back-to-back, not one story arc.
+- Built around a **lead magnet** (checklist/PDF/short guide) that Jordan designs as a 1-page graphic — the video is the trailer for it, not the full answer.
+- **Must include branding line**, same placement rule as standard Talking Head.
+- **Must end with IMAGE OPTION block**, same as standard Talking Head.
+- **Always pairs with the "Comment [keyword] → DM lead magnet" CTA** (see Call to Action Options) — that's the whole point of the format.
+- **Workflow:**
+  1. **Pick the pain point** — pull from what's already proven to convert (see high-performing-videos memory / Audience Psychology needs) rather than picking cold. The "responsible-sounding move that backfires" pattern is Jordan's strongest lane for this format.
+  2. **Design the lead magnet** — a fast, concrete checklist that resolves the pain point (e.g., "7 things not to do between preapproval and closing"). Can reuse/consolidate pain points already covered across the library rather than inventing new ones.
+  3. **Write the yap** — hook, branding, then 4–6 rapid-fire pain points (one line each, specific and concrete — a number, a consequence, a "why"), then the comment-to-DM offer.
+- **Tone note:** still no cursing, still teleprompter-friendly short lines — "rapid" means short punchy sentences back to back, not a dense paragraph read fast.
+
 ---
 
 ## PEACE Framework
@@ -177,7 +189,9 @@ News-type Talking Heads MUST be built on a **real, live-sourced article** — ne
 
 1. **Fill out link in bio to get pre-approved** — best for informational/educational content
 2. **Schedule a call** — best for complex scenarios or when viewer needs personalized guidance
+   - Preferred line: *"If you don't know where to start — start with me. Schedule a call, link's in my bio, and let's get you into a home the right way."* Especially good as a closer when the viewer feels lost/overwhelmed (pairs well with Growth or Validation-First Reframe angles).
 3. **Leave a comment** — best for engagement, questions, or starting a conversation
+4. **Comment [keyword] → DM lead magnet** — best for the Yap format (see "Video Types"). Viewer comments a specific word, a DM automation delivers a checklist/PDF lead magnet. Requires a DM automation tool (ManyChat, IG's native comment automation, etc.) actually configured before the video posts — flag this to Jordan if it's not confirmed set up, since the CTA has nothing to deliver without it.
 
 ---
 
