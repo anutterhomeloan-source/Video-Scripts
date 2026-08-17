@@ -9,6 +9,11 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 50 | The Job Change Nobody Mentioned | Reenactment | Scripted | 2026-08-17 | None | [open](2026-08-17-job-change-commission.md) |
+| 49 | Congress Just Introduced a Bill Because Rates Are Still Stuck at 6.6% | Talking Head | Scripted | 2026-08-17 | Schedule a call | [open](2026-08-17-rate-bill-today.md) |
+| 48 | You Don't Need $116,780 | Talking Head | Scripted | 2026-08-17 | Link in bio | [open](2026-08-17-income-needed-116k.md) |
+| 47 | Self-Employed Doesn't Mean Unqualifiable | Talking Head | Scripted | 2026-08-17 | Link in bio | [open](2026-08-17-self-employed-qualify.md) |
+| 46 | Fixed Rate Doesn't Mean Fixed Payment | Talking Head | Scripted | 2026-08-17 | Schedule a call | [open](2026-08-17-escrow-fixed-payment.md) |
 | 45 | If Lenders Spoke Their Minds | Skit | Scripted | 2026-08-06 | None | [open](2026-08-06-lenders-speak-their-minds.md) |
 | 44 | New Car, New Problem | Reenactment | Scripted | 2026-08-02 | None | [open](2026-08-02-new-car-new-problem.md) |
 | 43 | Your Insurance Quote Could Kill Your Approval | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-insurance-quote-approval.md) |
