@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 51 | The Don't-Touch List | Yap | Scripted | 2026-08-17 | Comment "CLOSE" (ManyChat) | [open](2026-08-17-dont-touch-list.md) |
 | 50 | The Job Change Nobody Mentioned | Reenactment | Scripted | 2026-08-17 | None | [open](2026-08-17-job-change-commission.md) |
 | 49 | Congress Just Introduced a Bill Because Rates Are Still Stuck at 6.6% | Talking Head | Scripted | 2026-08-17 | Schedule a call | [open](2026-08-17-rate-bill-today.md) |
 | 48 | You Don't Need $116,780 | Talking Head | Scripted | 2026-08-17 | Link in bio | [open](2026-08-17-income-needed-116k.md) |
