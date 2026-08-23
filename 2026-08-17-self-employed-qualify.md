@@ -1,7 +1,7 @@
 # Self-Employed Doesn't Mean Unqualifiable
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-17
 - **CTA:** Link in bio
 - **Image asset:** None

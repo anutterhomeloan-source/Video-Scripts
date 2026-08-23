@@ -1,7 +1,7 @@
 # The Don't-Touch List
 
 - **Type:** Yap (Rapid-Fire Lead Magnet)
-- **Status:** Scripted
+- **Status:** Drafted
 - **Date approved:** 2026-08-17
 - **CTA:** Comment "CLOSE" → DM lead magnet (ManyChat)
 - **Image asset (on-screen):** None — straight to camera, no cutaway visual
