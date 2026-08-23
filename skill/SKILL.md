@@ -20,7 +20,7 @@ Generate 13 script ideas (not full scripts yet):
   - **Video type** (Talking Head or Reenactment)
   - **Hook line** (1 sentence)
   - **PEACE beats** (1 bullet each: Problem, Empathy, Answer, Change, End Result)
-  - **Best CTA** (link in bio / schedule a call / leave a comment) + suggested CTA line
+  - **Best CTA** (link in bio / schedule a call / leave a comment / discussion question / save this) + suggested CTA line
   - **1–2 VISUAL moments** (Talking Head only)
   - **Video Caption** (1 sentence)
 - Branding line for Talking Head ideas only. Never for Reenactment/Skit.
@@ -40,8 +40,9 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
 - Giving examples and storytelling — something that happened to Jordan or a borrower
 - Shows the outcome and what was learned
 - More direct, narrative-driven
-- **Must include branding line:** "If you don't know who I am, my name is Jordan Nutter and I help mortgages make sense."
+- **Must include an intro/credibility line** — defaults to the branding line: "If you don't know who I am, my name is Jordan Nutter and I help mortgages make sense."
   - Intro can be slightly rephrased but must hit: name + what she does + the exact tagline "mortgages make sense"
+  - **Swap-in option:** when a topic-relevant credibility line genuinely fits — a specific stat, background, or expertise that ties directly to *this* video's angle, not just "who Jordan is" in general — use that instead of the generic tagline (e.g. "I've closed dozens of self-employed loans this year, so I know exactly where the pitfalls are" on a self-employed script). Same job — who she is, why to trust her — but it doubles as content instead of feeling pasted in. Don't force it; default to the standard branding line when nothing topic-specific fits.
 - **Must end with IMAGE OPTION block** (see Visuals section)
 - **Must include a CTA**
 
@@ -62,7 +63,7 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
 ### Yap (Rapid-Fire Lead Magnet)
 - Talking Head variant — direct to camera, but skips the slow PEACE build. Rapid, staccato, list-driven: a fast string of specific mistakes/pain points delivered back-to-back, not one story arc.
 - Built around a **lead magnet** (checklist/PDF/short guide) that Jordan designs as a 1-page graphic — the video is the trailer for it, not the full answer.
-- **Must include branding line**, same placement rule as standard Talking Head.
+- **Must include an intro/credibility line**, same placement rule (and swap-in option) as standard Talking Head.
 - **Must end with IMAGE OPTION block**, same as standard Talking Head.
 - **Always pairs with the "Comment [keyword] → DM lead magnet" CTA** (see Call to Action Options) — that's the whole point of the format.
 - **Workflow:**
@@ -181,6 +182,22 @@ News-type Talking Heads MUST be built on a **real, live-sourced article** — ne
 
 ---
 
+## Reach & Shareability Techniques
+
+Sourced from breaking down a competitor's (Shivani Peterson, @shivpeter) high-performing news/opinion content — videos of hers getting heavy shares/reposts. Use these on news or opinion Talking Heads where the goal is reach and shares over immediate lead capture, paired with the **Discussion Question** or **Save This** CTAs below instead of a conversion CTA.
+
+- **The insider pivot:** after stating the headline/news, explicitly promise to go beyond it — "before you get excited, here's what the headlines aren't covering" / "here's what nobody's telling you." Reframes the video from repeating news to correcting it — instant authority, reason to keep watching.
+- **Vivid/funny analogy for jargon:** instead of a plain definition, reach for a visceral, quotable image — e.g. "the HOA is getting a full financial colonoscopy" instead of "the HOA gets a more thorough review." Memorable enough to get repeated in comments or work as a text overlay on its own.
+- **Name and rebut a popular narrative:** directly reference what people are already saying (in her comments, in the culture) and take the other side — "People rage about boomers ruining everything. But maybe it was the housing market." Strong Significance move: guarantees some viewers align and others argue, and both drive comments.
+- **A real, stated opinion, not a hedge:** answer your own rhetorical question plainly ("Should you bet your housing plan on this bill? Probably not, but it's worth watching.") rather than staying neutral. Same instinct as the Significance gap-work above — just carried through to the middle/close, not only the hook.
+- **Forward-loop closer (optional):** instead of wrapping clean, tease what's coming next ("come January, it's getting even worse...") — keeps people anticipating a follow-up and gives Jordan a built-in excuse for a Part 2.
+- **Insight-stacking:** for opinion/news Talking Heads with multiple related points, signpost them explicitly ("First... Next... Also...") instead of forcing one story arc. Same instinct as the Yap format's rapid list, applied to a slower, opinion-driven piece with 2-3 distinct takeaways instead of one.
+- **Quotable maxim closer:** end on a short, principle-based one-liner that ties the whole video together (e.g. "Scared money never wins. Information and strategy does.") instead of a plain summary — more shareable, more likely to get repeated in comments.
+
+Stacks well with the Misconception Flip hook — both trade a neutral "just explaining" tone for a real stance.
+
+---
+
 ## Call to Action Options
 
 **Reenactment + Skit:** No CTA unless Jordan asks.
@@ -192,6 +209,11 @@ News-type Talking Heads MUST be built on a **real, live-sourced article** — ne
    - Preferred line: *"If you don't know where to start — start with me. Schedule a call, link's in my bio, and let's get you into a home the right way."* Especially good as a closer when the viewer feels lost/overwhelmed (pairs well with Growth or Validation-First Reframe angles).
 3. **Leave a comment** — best for engagement, questions, or starting a conversation
 4. **Comment [keyword] → DM lead magnet** — best for the Yap format (see "Video Types"). Viewer comments a specific word, a DM automation delivers a checklist/PDF lead magnet. Requires a DM automation tool (ManyChat, IG's native comment automation, etc.) actually configured before the video posts — flag this to Jordan if it's not confirmed set up, since the CTA has nothing to deliver without it.
+5. **Discussion question** — best for news/opinion content where the goal is reach and shares over immediate lead capture. Close on a genuine question back to the viewer, framed as Jordan's own curiosity ("I want to know from your point of view...") rather than generic engagement bait — give a reason the answer matters to her (e.g. "this tells me a lot about what's going on in the market"). See "Reach & Shareability Techniques."
+6. **Save this** — best for reference/warning content: a rule that just changed, a status update, something the viewer will need to remember later rather than act on right now. Line pattern: "Save this in case [scenario] happens to you."
+7. **Follow (algorithm-literate)** — best for growth/reach content with no single natural fact to save or discuss. Names the platform mechanic as the pitch itself: "Follow me, because the algorithm won't guarantee you see me again otherwise."
+
+**Note:** Discussion Question, Save This, and Follow trade a hard CTA for shareability — reach for them on news/opinion pieces where reposts matter more than a direct lead; keep the first four for anything meant to convert into a call or a bio-link click.
 
 ---
 
