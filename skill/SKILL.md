@@ -71,6 +71,11 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
   2. **Design the lead magnet** — a fast, concrete checklist that resolves the pain point (e.g., "7 things not to do between preapproval and closing"). Can reuse/consolidate pain points already covered across the library rather than inventing new ones.
   3. **Write the yap** — hook, branding, then 4–6 rapid-fire pain points (one line each, specific and concrete — a number, a consequence, a "why"), then the comment-to-DM offer.
 - **Tone note:** still no cursing, still teleprompter-friendly short lines — "rapid" means short punchy sentences back to back, not a dense paragraph read fast.
+- **Pop-up cues (default for this format):** add a `POP-UP:` line after each rapid-fire beat, flagging an in-edit moment — this is what gives fast, list-driven talking-head content that produced, punchy feel instead of a flat read. Two flavors:
+  - **Reaction meme/GIF** — a relatable reaction (shock, side-eye, cringe) dropped in at the punchline of a beat. Write it as a searchable description, not a specific file: `POP-UP: Reaction GIF — stunned/"wait what" reaction, on "their score drops 40 points"`.
+  - **Text call-out** — a short bold word or phrase stamped on screen echoing what's just been said, for emphasis: `POP-UP: Text call-out — "FRAUD FLAG" stamped on screen, on "that's not a gift, that's a fraud flag"`.
+  - These are editing director-notes, not custom-built graphics like the IMAGE OPTION card — Jordan (or her editor) sources the actual GIF/text-stamp at edit time in CapCut/InShot. One pop-up per rapid-fire beat is the default rhythm; skip a beat if it's already visually self-evident or would over-clutter two beats in a row.
+  - Note the source: this is modeled on Jordan's read of creators like Jessi Jean's "yap" style content — reaction GIFs and on-word text call-outs punctuating fast list-style delivery. Not sourced from a specific verified video (Claude can't watch video content), so treat the cues as a strong starting direction and adjust based on what actually lands once posted.
 
 ---
 
