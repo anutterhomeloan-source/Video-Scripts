@@ -27,21 +27,31 @@ You pay off your credit card to look responsible right before closing.
 
 Your score drops 40 points. Now you don't qualify for the rate you were promised.
 
+POP-UP: Text call-out — "-40 POINTS" stamped on screen, on "Your score drops 40 points."
+
 You buy furniture for the house you haven't even closed on yet.
 
 Your debt-to-income blows past the cap.
+
+POP-UP: Reaction GIF — record-scratch/"oh no" reaction, on "Your debt-to-income blows past the cap."
 
 You get offered a better-paying job and you take it.
 
 No history on the new pay. No loan.
 
+POP-UP: Text call-out — "NO LOAN" stamped on screen, on "No history on the new pay. No loan."
+
 Your uncle sends you money for the down payment.
 
 Turns out you promised to pay him back. That's not a gift. That's a fraud flag.
 
+POP-UP: Reaction GIF — shocked/side-eye reaction, on "That's not a gift. That's a fraud flag."
+
 You open a store credit card for ten percent off the couch.
 
 Hard inquiry. Score drops. Denied.
+
+POP-UP: Text call-out — "DENIED" stamped on screen, on "Hard inquiry. Score drops. Denied."
 
 None of these people were trying to blow up their own mortgage.
 

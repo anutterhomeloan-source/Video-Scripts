@@ -15,12 +15,19 @@
 Every headline this month is telling you affordability is either finally improving, or getting worse.
 They're both right. And that's exactly the problem.
 
+POP-UP: Reaction GIF — confused/head-tilt reaction, on "They're both right. And that's exactly the problem."
+
 ## Branding
 If you don't know who I am, my name is Jordan Nutter, and I help make mortgages make sense.
 
 ## Problem
 One headline says 2026 is the start of a "new era" of affordability.
+
+POP-UP: Text call-out — "NEW ERA" stamped on screen, on "a 'new era' of affordability."
+
 Another says affordability just slid for the fifth month in a row.
+
+POP-UP: Text call-out — "5TH MONTH STRAIGHT" stamped on screen, on "slid for the fifth month in a row."
 
 ## Empathy
 No wonder it feels impossible to know what's actually true right now.
@@ -41,6 +48,8 @@ Ask what it's actually comparing — this month to last month, or this year to l
 
 ## Quotable close
 The market isn't lying to you either way. It's just never telling you the whole sentence.
+
+POP-UP: Text call-out — "THE WHOLE SENTENCE" stamped on screen, on "never telling you the whole sentence." (mic-drop emphasis on the closing line)
 
 ## End Result
 You start making decisions off your real numbers, not whichever half of the story showed up in your feed.
