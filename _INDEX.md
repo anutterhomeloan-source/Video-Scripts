@@ -9,6 +9,12 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 57 | The Handshake Mortgage | Reenactment | Scripted | 2026-08-24 | None | [open](2026-08-24-handshake-mortgage.md) |
+| 56 | Affordability Is Improving. It Also Just Got Worse for the 5th Month Straight. | Talking Head (News) | Scripted | 2026-08-24 | Discussion question | [open](2026-08-24-affordability-tension.md) |
+| 55 | That Property Tax Ballot Measure? A Judge Just Said No. | Talking Head (News) | Scripted | 2026-08-24 | Save this | [open](2026-08-24-fl-property-tax-ruling.md) |
+| 54 | That Klarna Order Could Quietly Kill Your Approval | Talking Head | Scripted | 2026-08-24 | Save this | [open](2026-08-24-klarna-dti.md) |
+| 53 | Asking for a Lower Price Isn't Always the Win | Talking Head | Scripted | 2026-08-24 | Schedule a call | [open](2026-08-24-buydown-vs-price-cut.md) |
+| 52 | Can You Really Take Over Their 2.75% Rate? | Talking Head | Scripted | 2026-08-24 | Link in bio | [open](2026-08-24-assumable-mortgage.md) |
 | 51 | The Don't-Touch List | Yap | Drafted | 2026-08-17 | Comment "CLOSE" (ManyChat) | [open](2026-08-17-dont-touch-list.md) |
 | 50 | The Job Change Nobody Mentioned | Reenactment | Scripted | 2026-08-17 | None | [open](2026-08-17-job-change-commission.md) |
 | 49 | Congress Just Introduced a Bill Because Rates Are Still Stuck at 6.6% | Talking Head | Scripted | 2026-08-17 | Schedule a call | [open](2026-08-17-rate-bill-today.md) |
