@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 58 | The Detour | Reenactment | Scripted | 2026-08-25 | None | [open](2026-08-25-the-detour.md) |
 | 57 | The Handshake Mortgage | Reenactment | Scripted | 2026-08-24 | None | [open](2026-08-24-handshake-mortgage.md) |
 | 56 | Affordability Is Improving. It Also Just Got Worse for the 5th Month Straight. | Talking Head (News) | Scripted | 2026-08-24 | Discussion question | [open](2026-08-24-affordability-tension.md) |
 | 55 | That Property Tax Ballot Measure? A Judge Just Said No. | Talking Head (News) | Scripted | 2026-08-24 | Save this | [open](2026-08-24-fl-property-tax-ruling.md) |
