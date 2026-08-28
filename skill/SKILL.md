@@ -79,6 +79,19 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
 
 ---
 
+## Idea Generation Framework (Problem → Solution → Angles)
+
+Use this when generating or expanding video ideas, especially for "run scripts." Borrowed from Caleb Ralston's content framework.
+
+1. **Painful Problem** — the most costly problem (time, money, reputation) Jordan's ideal client regularly faces, that she's solved before (overpaying because they didn't shop rates, panicking mid-contract, a myth that tanks their offer).
+2. **Unique Solution** — Jordan's own way of solving it. Doesn't need to be exclusive information — the value is her specific angle, story, or experience, not gatekept knowledge.
+3. **Idea** — Problem + Solution = one core idea.
+4. **Angles** — one Idea branches into multiple pieces of content (Talking Head, Reenactment, PSA, POV, Yap, news tie-in). Before hunting for a brand-new topic, check whether an existing high-performing problem (rate-shopping / too-good-to-be-true reframes, panic reenactments) can be re-angled instead.
+
+When running "run scripts," build ideas through this chain rather than freewheeling topics — it keeps every idea rooted in a real, costly problem instead of a generic subject, and gives a natural way to multiply one strong problem into several angles/videos.
+
+---
+
 ## PEACE Framework
 
 Use in every script unless Jordan says otherwise. Shape every script around:
@@ -247,8 +260,8 @@ IMAGE OPTION (choose 1):
 
 Include 1–3 caption options at the end of every script in chat:
 
-- Short and punchy (1–2 lines)
-- First line = hook (Problem or End Result style), then quick payoff
+- First line = hook (Problem or End Result style).
+- **Then 2–4 more sentences of real value** — don't stop at the punchy one-liner. Per Gary V's take: most people "mail it in" on captions (three words and done), and writing several thoughtful, valuable sentences is what drives outsized growth. Use the extra lines for a detail, mini-example, or context that isn't already in the video, so the caption gives value even to someone who doesn't watch.
 - No heavy jargon — use "mortgage English"
 - At least one option with a light CTA
 - **Multi-part reenactments/skits (hard rule): write separate caption options for EACH part, not one shared set for the whole series.** Jordan posts each part as its own video, so each part needs its own caption(s). Prefix each with its part number — `"Part 1 — ..."` / `"Part 2 — ..."` — so it's obvious which caption belongs to which video.
