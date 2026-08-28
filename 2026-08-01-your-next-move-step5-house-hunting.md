@@ -12,6 +12,10 @@
 
 ## Script
 
+Loan officer, budget, paperwork, a realtor who's actually on your side — that's four steps before you've toured a single house.
+
+Here's why that order matters.
+
 An accepted offer isn't a done deal.
 
 It's just the moment you find out if the numbers actually work.
@@ -38,12 +42,12 @@ By the time you're touring houses, you should already know your loan officer, yo
 
 So here's step five — go look at houses. Fall in love with one. But do it with your numbers already locked, not the other way around.
 
-See you for step six — where I tell you what actually happens the moment you decide to make an offer.
+Step six's next — the moment the seller says yes, and what you might be giving away in the fine print without realizing it.
 
 ---
 
 ## CAPTIONS
-- Caption (approved): Step 5 of 9 — Your Next Move. An accepted offer isn't a done deal. It's just the moment you find out if the numbers work. 👇
+- Caption (approved): Step 5 of 9 — Your Next Move. An accepted offer isn't a done deal. It's just the moment you find out if the numbers work. House hunting is step five in this series, not step one — on purpose. The hardest phone calls happen after someone's already celebrated and told their family, only to find out the number doesn't work; that's a different kind of hard than having the conversation before they ever toured a house. Save this before you start touring — get your numbers locked first.
 
 Other options considered:
 - She got the house. Then found out she didn't qualify for it. Step 5 of a series every buyer needs to see before they start touring.

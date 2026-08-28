@@ -46,12 +46,12 @@ It's finding the loan officer who actually answers your questions. Who picks up.
 
 Because you won't know if they're reliable... until you need them to be.
 
-See you for step two — where I tell you why the number a lender approves you for might not be the number you should actually spend.
+That's step one of nine. Step two's right after you find them — the number they approve you for, and why it's probably not the number you should spend.
 
 ---
 
 ## CAPTIONS
-- Caption (approved): Step 1 of 9 — Your Next Move. You can't tell who's reliable until something goes wrong — and by then, you're scrambling. 👇
+- Caption (approved): Step 1 of 9 — Your Next Move. You can't tell who's reliable until something goes wrong — and by then, you're scrambling. This kicks off a 9-part series on everything nobody explains before you're under contract, starting with the relationship that decides how the rest of it goes. The lender in this story didn't do anything illegal — they just went quiet at the worst possible time, and it almost took three closings down with it. Save this series if buying is anywhere on your radar this year — steps 2 through 9 build on this one.
 
 Other options considered:
 - 10 days before closing, my phone rang. Here's why this is step one — before the house, before the realtor.

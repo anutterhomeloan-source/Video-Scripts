@@ -12,6 +12,10 @@
 
 ## Script
 
+You found your loan officer. Good.
+
+Now comes the part where most people trip before they even start touring houses.
+
 Getting approved for more...
 
 doesn't mean you should spend more.
@@ -46,12 +50,12 @@ Hitting it isn't the goal. Being comfortable is.
 
 So step two isn't "get approved for as much as possible." It's sitting down and getting honest about the payment you actually want to live with — before you fall in love with a number some other lender handed you.
 
-See you for step three — where I tell you what that approval letter actually means, and why most people get it wrong.
+Step three's what that approval letter actually means on paper — and why most buyers get it wrong.
 
 ---
 
 ## CAPTIONS
-- Caption (approved): Step 2 of 9 — Your Next Move. Getting approved for more doesn't mean you should spend more. That gap is where buyers get into trouble. 👇
+- Caption (approved): Step 2 of 9 — Your Next Move. Getting approved for more doesn't mean you should spend more. That gap is where buyers get into trouble. The number on your approval letter isn't a target to hit — it's just the most a computer thinks you can survive paying every month for 30 years. Comfortable and qualified aren't the same thing, and the buyers who ask "what payment do I actually want" before house hunting are the ones who don't feel stuck later. Save this before you start comparing lenders by whoever approves you for the biggest number.
 
 Other options considered:
 - "I already talked to another lender, they approved me for more." Here's why that's not always a win.

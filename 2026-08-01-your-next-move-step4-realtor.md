@@ -12,6 +12,10 @@
 
 ## Script
 
+By now you've got a loan officer, a real budget, and paperwork that actually holds up.
+
+Step four is about the person walking the rest of this with you.
+
 Your agent and I are supposed to be on the same team.
 
 Working toward the exact same thing — getting you to the closing table.
@@ -42,12 +46,12 @@ That's step four. Your realtor isn't just the person who unlocks doors and write
 
 If they're not — that's not a small thing. That's a red flag.
 
-See you for step five — where I tell you why most buyers start house hunting completely backwards.
+Step five's next — why most buyers start house hunting in exactly the wrong order.
 
 ---
 
 ## CAPTIONS
-- Caption (approved): Relocation packages sound great... until the "preferred agent" stops answering. Step 4 of a series every buyer needs.
+- Caption (approved): Step 4 of 9 — Your Next Move. Your realtor and your loan officer are supposed to be on the same team. Not every agent got that memo. Relocation packages and "preferred lender" deals aren't automatically a red flag — but watch what happens the moment you go with someone else instead. In this story, one missing document almost cost a closing, not because underwriting was slow, but because the person supposed to be fighting for the buyer had gone quiet. Save this if a builder, employer, or agent is steering you toward "their" lender.
 
 Other options considered:
 - Step 4 of 9 — Your Next Move. Your realtor and your loan officer are supposed to be on the same team. Not everyone's agent got that memo. 👇

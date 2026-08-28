@@ -12,6 +12,10 @@
 
 ## Script
 
+You've got your loan officer. You know your real budget.
+
+Step three is where a lot of good offers quietly get passed over — and it's not about price.
+
 Sometimes you don't lose a house to a better offer.
 
 You lose it to better paperwork.
@@ -38,12 +42,12 @@ So here's step three — before you let your realtor submit a single offer, ask 
 
 Because in a competitive market, sellers know the difference. Even if you don't yet.
 
-See you for step four — where I tell you what actually makes a realtor worth having in your corner.
+Step four's next — what actually makes a realtor worth having in your corner, not just someone who opens doors.
 
 ---
 
 ## CAPTIONS
-- Caption (approved): Step 3 of 9 — Your Next Move. Sometimes you don't lose a house to a better offer. You lose it to better paperwork. 👇
+- Caption (approved): Step 3 of 9 — Your Next Move. Sometimes you don't lose a house to a better offer. You lose it to better paperwork. Pre-qualified and pre-approved sound like the same thing — they're not. One's a guess based on what you told someone; the other means an underwriter actually verified your income, pulled your credit, and looked at your bank statements. In a competitive offer pile, listing agents know the difference even when buyers don't. Save this question for before your realtor submits anything: "is this verified, or estimated?"
 
 Other options considered:
 - Ask your lender this exact question before you write an offer: "Is this verified, or is this estimated?"

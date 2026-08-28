@@ -12,6 +12,10 @@
 
 ## Script
 
+You found the house, the numbers work, the offer's in.
+
+Step six is the part almost nobody warns you about — what happens the second the seller says yes.
+
 Once the seller says yes...
 
 there's no turning back.
@@ -38,12 +42,12 @@ So step six isn't just "write the offer." It's understanding every contingency i
 
 Ask before you waive anything — what exactly am I giving up, and what happens to my earnest money if I need out?
 
-See you for step seven — where I tell you why the number on your approval letter isn't the number you should ever hand the seller.
+That's six down, three to go. Step seven's next — the number on your approval letter, and why it should never be the number you hand a seller.
 
 ---
 
 ## CAPTIONS
-- Caption (approved): Step 6 of 9 — Your Next Move. Once the seller says yes, there's no turning back — unless you built in a way out. 👇
+- Caption (approved): Step 6 of 9 — Your Next Move. Once the seller says yes, there's no turning back — unless you built in a way out. A contingency isn't paperwork red tape, it's your exit ramp: waive the inspection contingency, and if the roof or foundation turns out bad, you're either buying it anyway or walking away and losing your earnest money. Buyers waive these to look competitive without always clocking what they're giving up. Save this question for before you waive anything: "what happens to my earnest money if I need out?"
 
 Other options considered:
 - Waiving contingencies can make your offer look stronger. It can also cost you your entire earnest money deposit. Step 6 of Your Next Move.
