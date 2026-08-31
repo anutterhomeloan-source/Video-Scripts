@@ -9,6 +9,12 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 64 | Student Loan Defaults Are Locking Buyers Out for Years | Talking Head (News) | Scripted | 2026-08-31 | Follow | [open](2026-08-31-student-loan-default-wave.md) |
+| 63 | Removing Your Ex From the Mortgage Isn't Automatic | Talking Head | Scripted | 2026-08-31 | Schedule a call | [open](2026-08-31-divorce-decree-mortgage.md) |
+| 62 | Fixed Rate Doesn't Mean What You Think It Means | Talking Head | Scripted | 2026-08-31 | Save this | [open](2026-08-31-arm-adjustment-date.md) |
+| 61 | You Don't Need 20% Down | Talking Head | Scripted | 2026-08-31 | Link in bio | [open](2026-08-31-3-percent-down-strong-offer.md) |
+| 60 | The Mortgage Mistake I Made Buying My Own House | Talking Head | Scripted | 2026-08-31 | Link in bio | [open](2026-08-31-mortgage-mistake-closing-costs.md) |
+| 59 | The Autopay Trap | Reenactment | Scripted | 2026-08-31 | None | [open](2026-08-31-the-autopay-trap.md) |
 | 58 | The Detour | Reenactment | Scripted | 2026-08-25 | None | [open](2026-08-25-the-detour.md) |
 | 57 | The Handshake Mortgage | Reenactment | Scripted | 2026-08-24 | None | [open](2026-08-24-handshake-mortgage.md) |
 | 56 | Affordability Is Improving. It Also Just Got Worse for the 5th Month Straight. | Talking Head (News) | Scripted | 2026-08-24 | Discussion question | [open](2026-08-24-affordability-tension.md) |
