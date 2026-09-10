@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 65 | Patiently Waiting for the Self-Employed Borrowers | B-Roll / Carousel | Scripted | 2026-09-10 | Comment "CHECKLIST" (ManyChat) | [open](2026-09-10-self-employed-bank-no.md) |
 | 64 | Student Loan Defaults Are Locking Buyers Out for Years | Talking Head (News) | Scripted | 2026-08-31 | Follow | [open](2026-08-31-student-loan-default-wave.md) |
 | 63 | Removing Your Ex From the Mortgage Isn't Automatic | Talking Head | Scripted | 2026-08-31 | Schedule a call | [open](2026-08-31-divorce-decree-mortgage.md) |
 | 62 | Fixed Rate Doesn't Mean What You Think It Means | Talking Head | Scripted | 2026-08-31 | Save this | [open](2026-08-31-arm-adjustment-date.md) |
