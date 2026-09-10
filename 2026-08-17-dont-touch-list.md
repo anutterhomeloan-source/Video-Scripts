@@ -5,7 +5,7 @@
 - **Date approved:** 2026-08-17
 - **CTA:** Comment "CLOSE" → DM lead magnet (ManyChat)
 - **Image asset (on-screen):** None — straight to camera, no cutaway visual
-- **Lead magnet asset (for ManyChat, not shown in video):** dont-touch-list-card.png — "The Don't-Touch List" 7-item checklist. Upload this into the ManyChat flow as the file/image sent on the "CLOSE" trigger.
+- **Lead magnet asset:** dont-touch-list-card.png — "The Don't-Touch List" 7-item checklist (not shown on-screen in the video). Upload this into the ManyChat flow as the file/image sent on the "CLOSE" trigger.
 - **Need:** Certainty (stacks the proven "responsible move backfires" pattern across 5 examples)
 
 *Format note: first script in the new "Yap" type — rapid-fire list, not a slow PEACE build. See video-scripts skill for the format rules.*

@@ -5,7 +5,7 @@
 - **Date approved:** 2026-09-10
 - **CTA:** Comment "CHECKLIST" → DM lead magnet (ManyChat) — fallback: Schedule a call
 - **Image asset (on-screen):** None — text overlay over b-roll footage
-- **Lead magnet asset (for ManyChat, not shown in video):** self-employed-checklist-card.png — "The Self-Employed Approval Checklist" 6-item checklist. Upload this into the ManyChat flow as the file sent on the "CHECKLIST" trigger.
+- **Lead magnet asset:** self-employed-checklist-card.png — "The Self-Employed Approval Checklist" 6-item checklist (not shown on-screen in the video). Upload this into the ManyChat flow as the file sent on the "CHECKLIST" trigger.
 - **Need:** Significance (clear stance) + Contribution
 
 *Format note: first script in the new "B-Roll / Carousel" type — no talking head, on-screen text carries the beats over b-roll footage. See video-scripts skill for the format rules. If ManyChat/IG comment automation isn't live yet when this is ready to post, swap the CTA line for the schedule-a-call fallback below.*
