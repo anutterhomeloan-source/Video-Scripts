@@ -26,7 +26,9 @@ Generate 13 script ideas (not full scripts yet):
 - Branding line for Talking Head ideas only. Never for Reenactment/Skit.
 - **Need spread (don't skip):** the 13 must not all be cautionary "avoid-this-mistake" angles. Deliberately include **at least one aspirational/Growth idea** (a client win / "you can do this" / "here's your path in"), **at least one strong-opinion take**, and where natural a **personal/Jordan-story angle**. Tag each idea with the main need it hits so the spread is visible. (See "Audience Psychology — The 6 Needs".)
 
-**Overrides:** "talking head only" / "reenactment only" / "5 ideas" / "15 ideas" / "CTA = comment" / "topic: ___"
+**Overrides:** "talking head only" / "reenactment only" / "b-roll only" / "5 ideas" / "15 ideas" / "CTA = comment" / "topic: ___"
+
+B-Roll/Carousel ideas are not part of the default 13-idea mix — pitch them when Jordan asks for "b-roll," "carousel," or says she wants a lower-lift option, or mix a couple in when she says so.
 
 ### "script it: #__"
 
@@ -76,6 +78,19 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
   - **Text call-out** — a short bold word or phrase stamped on screen echoing what's just been said, for emphasis: `POP-UP: Text call-out — "FRAUD FLAG" stamped on screen, on "that's not a gift, that's a fraud flag"`.
   - These are editing director-notes, not custom-built graphics like the IMAGE OPTION card — Jordan (or her editor) sources the actual GIF/text-stamp at edit time in CapCut/InShot. One pop-up per rapid-fire beat is the default rhythm; skip a beat if it's already visually self-evident or would over-clutter two beats in a row.
   - Note the source: this is modeled on Jordan's read of creators like Jessi Jean's "yap" style content — reaction GIFs and on-word text call-outs punctuating fast list-style delivery. Not sourced from a specific verified video (Claude can't watch video content), so treat the cues as a strong starting direction and adjust based on what actually lands once posted.
+
+### B-Roll / Carousel
+- No talking head required. Built from a **text-overlay hook** + supporting **b-roll footage** (video) or **carousel slides** (static images/cards) that carry the beats instead of Jordan narrating to camera. Voiceover is optional, not required.
+- Purpose: lower-lift format Jordan can produce without filming a full talking segment — good for keeping volume up between Talking Head/Reenactment shoots, and for topics that are more "show" than "tell."
+- **Two formats, same hook/beat backbone — pick one when scripting:**
+  - **B-Roll video:** hook text appears over the opening shot, then a short sequence of clips (Jordan at her desk, a document/calculator/phone screen, driving to a closing, an office moment, etc.) each carrying one beat of on-screen text. VO can be layered in if Jordan wants to narrate, but the text overlay must carry the video on its own if silent.
+  - **Carousel:** hook is slide 1 (the thumbnail everyone sees first — it has to work standalone). Each following slide lands one PEACE beat as a short text card. Last slide = CTA.
+- **Structure to write:**
+  - `HOOK (on-screen text):` — the exact first line/slide, per the Hook Bank below
+  - 2–4 `B-ROLL:` or `SLIDE:` lines, each with (a) the on-screen text for that beat and (b) a shot/visual description — follow PEACE loosely (Problem/Empathy → Answer/Change → End Result) but don't force a beat that doesn't fit the visual
+  - `CTA (final slide/text):` — written as on-screen text, not spoken. Same CTA menu as Talking Head applies (see Call to Action Options) — "save this" and "comment" tend to fit this format especially well since there's no spoken close.
+- **Branding:** no spoken branding line (nothing is spoken by default). Keep light identity instead — a small lower-third/name card near the start or end (name + "mortgages made simple"-style tagline as text), not a full recitation.
+- **Tone:** same no-jargon, benefits-first mortgage English as everything else — just delivered as short text cards instead of sentences. Keep each on-screen line to roughly 6–10 words so it reads at a glance.
 
 ---
 
@@ -179,6 +194,37 @@ Then roll into the normal **Answer → Change → End Result**.
 - Branding line still comes right after the hook, same as always.
 
 **Example (older first-time buyers):** "Everyone who bought young feels like they got the head start. And if you're still renting at 35, that's not because you did something wrong — nobody handed you a manual for when to buy. You've been building your credit, watching your savings, being careful this whole time. That's not behind. That's exactly why my clients who wait longer close stronger — I had one who waited two extra years and walked in with a bigger down payment and a better rate than the people who rushed. You don't need perfect timing. You need your real number."
+
+### B-Roll/Carousel Hook Bank
+
+Five hook-line archetypes (source: Shannon McKinstrie's breakdown of hooks that grew accounts fast without talking-head or carousel-explainer content). Use these as the `HOOK (on-screen text):` line for the B-Roll/Carousel format above. Mortgage-adapted starters below each — treat these as a starting menu, not a fixed script; swap in whatever detail is freshest.
+
+1. **"Not to be dramatic, but—"** — state something dramatic as flat fact, then the footage has to literally *be* that thing (no metaphor). The visual is the proof.
+   - "Not to be dramatic, but this one document decided whether my client's rate went up or down." *(b-roll: holding up a pay stub/credit report)*
+   - "Not to be dramatic, but this text from title almost cost my client their closing date." *(b-roll: phone screen, a stressed glance at it)*
+
+2. **"That I just—"** — in-the-moment, lived-in feel, like you're catching it as it happens. Works as one continuous "discovery" shot or a quick multi-clip montage.
+   - "That I just watched save my client $14,000 over the life of their loan." *(b-roll: pointing to a number on a screen/calculator)*
+   - "That I just found in a contract before it cost my client their earnest money." *(b-roll: flipping through a paper contract, circling a line)*
+
+3. **POV (Action POV)** — name the action and let the footage show what happens because of it.
+   - "POV: you just found out you don't need 20% down." *(b-roll: reaction, then walking into a house)*
+   - "POV: you paid off a credit card the week before your rate lock — and it worked in your favor." *(b-roll: phone banking app, then a thumbs-up/relief beat)*
+
+4. **"I wish more people knew—"** — fan-favorite; the win is being *specific*, not general.
+   - "I wish more people knew you can negotiate who pays closing costs." 
+   - "I wish more people knew a 20-point credit score swing can change your rate." 
+   - "I wish more people knew pre-approved and pre-qualified are not the same thing."
+
+5. **"Patiently waiting for all the [life event] to find my account"** — names a specific life event and what that audience now needs/struggles with that Jordan's content solves. The specificity is what makes it work — not "homebuyers," but the exact moment they're in.
+   - "Patiently waiting for all the newly divorced homeowners to find my account." 
+   - "Patiently waiting for all the first-time buyers who just got pre-approved and have no idea what happens next to find my account." 
+   - "Patiently waiting for all the self-employed borrowers who got told 'no' by a big bank to find my account."
+
+**Rules:**
+- B-Roll/Carousel only — these are text-overlay hooks built for silent/low-VO content, not spoken lines for Talking Head.
+- Same no-cursing, clean-but-can-be-provocative rule as the other hook styles.
+- When generating ideas ("run scripts") or asked for b-roll/carousel content specifically, offer 2–3 of these archetypes rather than defaulting to the same one every time — same variety rule as the spoken hook styles above.
 
 ---
 
