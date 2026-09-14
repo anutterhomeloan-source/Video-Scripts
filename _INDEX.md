@@ -9,6 +9,14 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 73 | Fannie Mae Just Killed the Lease Requirement for Landlords-to-Be | Talking Head (News) | Scripted | 2026-09-14 | Schedule a call | [open](2026-09-14-fannie-mae-departing-residence.md) |
+| 72 | The Mortgage They Forgot About | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-mortgage-they-forgot-about.md) |
+| 71 | Nobody Will Sign It | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-nobody-will-sign-it.md) |
+| 70 | The Closed File | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-the-closed-file.md) |
+| 69 | Rates Just Crossed 7% Again | Talking Head (News) | Scripted | 2026-09-14 | Schedule a call | [open](2026-09-14-rates-cross-7-percent.md) |
+| 68 | Credit Repair Companies Are Selling You Time You Already Have | Talking Head | Scripted | 2026-09-14 | Discussion question | [open](2026-09-14-credit-repair-companies.md) |
+| 67 | Waiving the Inspection Doesn't Make You a Stronger Buyer | Talking Head | Scripted | 2026-09-14 | Save this | [open](2026-09-14-waiving-inspection.md) |
+| 66 | The First Client I Almost Lost | Talking Head | Scripted | 2026-09-14 | Leave a comment | [open](2026-09-14-first-client-almost-lost.md) |
 | 65 | Patiently Waiting for the Self-Employed Borrowers | B-Roll / Carousel | Scripted | 2026-09-10 | Comment "CHECKLIST" (ManyChat) | [open](2026-09-10-self-employed-bank-no.md) |
 | 64 | Student Loan Defaults Are Locking Buyers Out for Years | Talking Head (News) | Scripted | 2026-08-31 | Follow | [open](2026-08-31-student-loan-default-wave.md) |
 | 63 | Removing Your Ex From the Mortgage Isn't Automatic | Talking Head | Scripted | 2026-08-31 | Schedule a call | [open](2026-08-31-divorce-decree-mortgage.md) |
