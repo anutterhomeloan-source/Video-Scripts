@@ -13,9 +13,9 @@ Scan this table when you're ready to film, then open the script you want.
 | 72 | The Mortgage They Forgot About | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-mortgage-they-forgot-about.md) |
 | 71 | Nobody Will Sign It | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-nobody-will-sign-it.md) |
 | 70 | The Closed File | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-the-closed-file.md) |
-| 69 | Rates Just Crossed 7% Again | Talking Head (News) | Scripted | 2026-09-14 | Schedule a call | [open](2026-09-14-rates-cross-7-percent.md) |
+| 69 | Rates Just Crossed 7% Again | Talking Head (News) | Posted | 2026-09-14 | Schedule a call | [open](2026-09-14-rates-cross-7-percent.md) |
 | 68 | Credit Repair Companies Are Selling You Time You Already Have | Talking Head | Scripted | 2026-09-14 | Discussion question | [open](2026-09-14-credit-repair-companies.md) |
-| 67 | Waiving the Inspection Doesn't Make You a Stronger Buyer | Talking Head | Scripted | 2026-09-14 | Save this | [open](2026-09-14-waiving-inspection.md) |
+| 67 | Waiving the Inspection Doesn't Make You a Stronger Buyer | Talking Head | Posted | 2026-09-14 | Save this | [open](2026-09-14-waiving-inspection.md) |
 | 66 | The First Client I Almost Lost | Talking Head | Scripted | 2026-09-14 | Leave a comment | [open](2026-09-14-first-client-almost-lost.md) |
 | 65 | Patiently Waiting for the Self-Employed Borrowers | B-Roll / Carousel | Scripted | 2026-09-10 | Comment "CHECKLIST" (ManyChat) | [open](2026-09-10-self-employed-bank-no.md) |
 | 64 | Student Loan Defaults Are Locking Buyers Out for Years | Talking Head (News) | Scripted | 2026-08-31 | Follow | [open](2026-08-31-student-loan-default-wave.md) |
@@ -26,11 +26,11 @@ Scan this table when you're ready to film, then open the script you want.
 | 59 | The Autopay Trap | Reenactment | Scripted | 2026-08-31 | None | [open](2026-08-31-the-autopay-trap.md) |
 | 58 | The Detour | Reenactment | Scripted | 2026-08-25 | None | [open](2026-08-25-the-detour.md) |
 | 57 | The Handshake Mortgage | Reenactment | Scripted | 2026-08-24 | None | [open](2026-08-24-handshake-mortgage.md) |
-| 56 | Affordability Is Improving. It Also Just Got Worse for the 5th Month Straight. | Talking Head (News) | Scripted | 2026-08-24 | Discussion question | [open](2026-08-24-affordability-tension.md) |
+| 56 | Affordability Is Improving. It Also Just Got Worse for the 5th Month Straight. | Talking Head (News) | Posted | 2026-08-24 | Discussion question | [open](2026-08-24-affordability-tension.md) |
 | 55 | That Property Tax Ballot Measure? A Judge Just Said No. | Talking Head (News) | Scripted | 2026-08-24 | Save this | [open](2026-08-24-fl-property-tax-ruling.md) |
-| 54 | That Klarna Order Could Quietly Kill Your Approval | Talking Head | Scripted | 2026-08-24 | Save this | [open](2026-08-24-klarna-dti.md) |
-| 53 | Asking for a Lower Price Isn't Always the Win | Talking Head | Scripted | 2026-08-24 | Schedule a call | [open](2026-08-24-buydown-vs-price-cut.md) |
-| 52 | Can You Really Take Over Their 2.75% Rate? | Talking Head | Scripted | 2026-08-24 | Link in bio | [open](2026-08-24-assumable-mortgage.md) |
+| 54 | That Klarna Order Could Quietly Kill Your Approval | Talking Head | Posted | 2026-08-24 | Save this | [open](2026-08-24-klarna-dti.md) |
+| 53 | Asking for a Lower Price Isn't Always the Win | Talking Head | Posted | 2026-08-24 | Schedule a call | [open](2026-08-24-buydown-vs-price-cut.md) |
+| 52 | Can You Really Take Over Their 2.75% Rate? | Talking Head | Posted | 2026-08-24 | Link in bio | [open](2026-08-24-assumable-mortgage.md) |
 | 51 | The Don't-Touch List | Yap | Drafted | 2026-08-17 | Comment "CLOSE" (ManyChat) | [open](2026-08-17-dont-touch-list.md) |
 | 50 | The Job Change Nobody Mentioned | Reenactment | Scripted | 2026-08-17 | None | [open](2026-08-17-job-change-commission.md) |
 | 49 | Congress Just Introduced a Bill Because Rates Are Still Stuck at 6.6% | Talking Head | Scripted | 2026-08-17 | Schedule a call | [open](2026-08-17-rate-bill-today.md) |
@@ -40,31 +40,31 @@ Scan this table when you're ready to film, then open the script you want.
 | 45 | If Lenders Spoke Their Minds | Skit | Scripted | 2026-08-06 | None | [open](2026-08-06-lenders-speak-their-minds.md) |
 | 44 | New Car, New Problem | Reenactment | Scripted | 2026-08-02 | None | [open](2026-08-02-new-car-new-problem.md) |
 | 43 | Your Insurance Quote Could Kill Your Approval | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-insurance-quote-approval.md) |
-| 42 | Is This 2008 Again? | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-2008-again.md) |
-| 41 | FHA Got a Bad Rep. It Got Me Three Homes. | Talking Head | Scripted | 2026-08-02 | Link in bio | [open](2026-08-02-fha-three-homes.md) |
+| 42 | Is This 2008 Again? | Talking Head | Posted | 2026-08-02 | Schedule a call | [open](2026-08-02-2008-again.md) |
+| 41 | FHA Got a Bad Rep. It Got Me Three Homes. | Talking Head | Posted | 2026-08-02 | Link in bio | [open](2026-08-02-fha-three-homes.md) |
 | 40 | Your 640 Isn't a Rejection, It's a Head Start | Talking Head | Scripted | 2026-08-02 | Schedule a call | [open](2026-08-02-credit-score-640.md) |
-| 39 | You're Not Behind, You're Being Careful | Talking Head | Scripted | 2026-08-02 | Link in bio | [open](2026-08-02-not-behind-being-careful.md) |
+| 39 | You're Not Behind, You're Being Careful | Talking Head | Posted | 2026-08-02 | Link in bio | [open](2026-08-02-not-behind-being-careful.md) |
 | 38 | Your Next Move — Step 6: Make An Offer | Talking Head (Series) | Scripted | 2026-08-02 | None | [open](2026-08-01-your-next-move-step6-make-an-offer.md) |
 | 37 | Your Next Move — Step 5: House Hunting | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step5-house-hunting.md) |
 | 36 | Your Next Move — Step 4: Realtor | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step4-realtor.md) |
 | 35 | Your Next Move — Step 3: Pre-Approval | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step3-pre-approval.md) |
 | 34 | Your Next Move — Step 2: Set A Budget | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step2-set-a-budget.md) |
-| 33 | Your Next Move — Step 1: Loan Officer | Talking Head (Series) | Scripted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step1-loan-officer.md) |
+| 33 | Your Next Move — Step 1: Loan Officer | Talking Head (Series) | Posted | 2026-08-01 | None | [open](2026-08-01-your-next-move-step1-loan-officer.md) |
 | 32 | 5 Things I Wouldn't Skip (First Home Again) | Talking Head | Scripted | 2026-07-30 | Schedule a call | [open](2026-07-30-first-home-again.md) |
 | 31 | It's Not You, It's the Number | Reenactment | Scripted | 2026-07-30 | None | [open](2026-07-30-not-you-its-the-number.md) |
 | 30 | Best Friend, Not Just Your Lender (Carousel) | Carousel | Scripted | 2026-07-22 | None | [open](2026-07-22-best-friend-lender-carousel.md) |
 | 29 | Don't Hand the Seller Your Ceiling | Talking Head | Scripted | 2026-07-22 | Link in bio | [open](2026-07-22-preapproval-letter-ceiling.md) |
 | 28 | You Don't Have to Sell Before You Buy | Talking Head | Drafted | 2026-07-19 | Schedule a call | [open](2026-07-19-knock-buy-before-sell.md) |
-| 27 | Contingent on My House Selling | Reenactment | Drafted | 2026-07-19 | None | [open](2026-07-19-contingent-sale-falls-through.md) |
-| 26 | The Cash-Out Refi Debt Spiral | Reenactment | Drafted | 2026-07-19 | None | [open](2026-07-19-cash-out-refi-spiral.md) |
+| 27 | Contingent on My House Selling | Reenactment | Posted | 2026-07-19 | None | [open](2026-07-19-contingent-sale-falls-through.md) |
+| 26 | The Cash-Out Refi Debt Spiral | Reenactment | Posted | 2026-07-19 | None | [open](2026-07-19-cash-out-refi-spiral.md) |
 | 25 | What "Middle Class" Actually Means Where You Live | Talking Head | Drafted | 2026-07-19 | None | [open](2026-07-19-middle-class-income.md) |
 | 24 | Diddy's Buyer Could've Paid Cash. They Took a Mortgage Instead. | Talking Head | Scripted | 2026-07-19 | Schedule a call | [open](2026-07-19-diddy-mortgage.md) |
 | 23 | Your Property Taxes Are Hiding in Your Mortgage Payment | Talking Head | Scripted | 2026-07-19 | None | [open](2026-07-19-fl-property-tax-2026.md) |
-| 22 | Pre-Qualified Is Not Pre-Approved | Talking Head | Drafted | 2026-07-19 | Link in bio | [open](2026-07-19-prequal-vs-preapproval.md) |
-| 21 | Why I Take the Files Nobody Wanted | Talking Head | Drafted | 2026-07-07 | Link in bio | [open](2026-07-07-why-i-do-this.md) |
-| 20 | No Loan Is Too Small | Talking Head | Scripted | 2026-07-07 | Schedule a call | [open](2026-07-07-no-loan-too-small.md) |
-| 19 | Asset Depletion — Rich on Paper, Denied | Talking Head | Drafted | 2026-07-07 | Schedule a call | [open](2026-07-07-asset-depletion.md) |
-| 18 | DSCR — Buy a Rental Without Showing Income | Talking Head | Scripted | 2026-07-07 | Schedule a call | [open](2026-07-07-dscr-investor.md) |
+| 22 | Pre-Qualified Is Not Pre-Approved | Talking Head | Posted | 2026-07-19 | Link in bio | [open](2026-07-19-prequal-vs-preapproval.md) |
+| 21 | Why I Take the Files Nobody Wanted | Talking Head | Posted | 2026-07-07 | Link in bio | [open](2026-07-07-why-i-do-this.md) |
+| 20 | No Loan Is Too Small | Talking Head | Posted | 2026-07-07 | Schedule a call | [open](2026-07-07-no-loan-too-small.md) |
+| 19 | Asset Depletion — Rich on Paper, Denied | Talking Head | Posted | 2026-07-07 | Schedule a call | [open](2026-07-07-asset-depletion.md) |
+| 18 | DSCR — Buy a Rental Without Showing Income | Talking Head | Posted | 2026-07-07 | Schedule a call | [open](2026-07-07-dscr-investor.md) |
 | 17 | Approved for More ≠ Afford More | Reenactment | Scripted | 2026-07-07 | None | [open](2026-07-07-approved-for-more.md) |
 | 16 | The Credit Dispute "Boost" | Reenactment | Scripted | 2026-07-07 | None | [open](2026-07-07-credit-dispute-boost.md) |
 | 15 | The Average First-Time Buyer Is Now 40 | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-first-time-buyer-40.md) |

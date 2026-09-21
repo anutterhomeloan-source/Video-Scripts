@@ -2,7 +2,7 @@
 
 - **Series:** Your Next Move (Arc A — Before You're Under Contract), Step 1 of 9
 - **Type:** Talking Head (Series — confessional/narrative style, no branding line, no CTA)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-01
 - **CTA:** None (series steps 1–8 are CTA-free by design; a soft CTA lands on Step 9, the series finale)
 - **Image asset:** your-next-move-step1.png (board graphic, Step 1 "Loan Officer" highlighted)

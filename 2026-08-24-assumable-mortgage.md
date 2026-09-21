@@ -1,7 +1,7 @@
 # Can You Really Take Over Their 2.75% Rate?
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-24
 - **CTA:** Link in bio
 - **Image asset:** None

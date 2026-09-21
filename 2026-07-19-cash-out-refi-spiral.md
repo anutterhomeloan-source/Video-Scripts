@@ -1,7 +1,7 @@
 # The Cash-Out Refi Debt Spiral
 
 - **Type:** Reenactment (2 parts)
-- **Status:** Drafted
+- **Status:** Posted
 - **Date approved:** 2026-07-19
 - **CTA:** None
 - **Image asset:** None

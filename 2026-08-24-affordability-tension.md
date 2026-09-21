@@ -1,7 +1,7 @@
 # Affordability Is Improving. It Also Just Got Worse for the 5th Month Straight.
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-24
 - **CTA:** Discussion question
 - **Image asset:** affordability-tension-card.png

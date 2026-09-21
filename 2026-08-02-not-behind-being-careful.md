@@ -1,7 +1,7 @@
 # You're Not Behind, You're Being Careful
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-02
 - **CTA:** Link in bio
 - **Image asset:** not-behind-being-careful-card.png (Option A — "You're not behind. You're being careful.")

@@ -1,7 +1,7 @@
 # FHA Got a Bad Rep. It Got Me Three Homes.
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-02
 - **CTA:** Link in bio
 - **Image asset:** fha-three-homes-card.png (Option C — "FHA isn't a compromise. It's a door.")

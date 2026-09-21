@@ -1,7 +1,7 @@
 # Asking for a Lower Price Isn't Always the Win
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-24
 - **CTA:** Schedule a call
 - **Image asset:** buydown-comparison-card.png

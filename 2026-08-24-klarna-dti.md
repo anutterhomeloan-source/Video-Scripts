@@ -1,7 +1,7 @@
 # That Klarna Order Could Quietly Kill Your Approval
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-08-24
 - **CTA:** Save this
 - **Image asset:** klarna-dti-card.png

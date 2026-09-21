@@ -1,7 +1,7 @@
 # Waiving the Inspection Doesn't Make You a Stronger Buyer
 
 **Type:** Talking Head
-**Status:** Scripted
+**Status:** Posted
 **Date approved:** 2026-09-14
 **CTA:** Save this
 **Image asset:** None

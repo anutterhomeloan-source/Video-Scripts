@@ -1,7 +1,7 @@
 # Rates Just Crossed 7% Again
 
 **Type:** Talking Head (News)
-**Status:** Scripted
+**Status:** Posted
 **Date approved:** 2026-09-14
 **CTA:** Schedule a call
 **Image asset:** None

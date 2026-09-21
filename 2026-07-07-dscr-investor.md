@@ -1,7 +1,7 @@
 # DSCR — Buy a Rental Without Showing Your Income
 
 - **Type:** Talking Head (POV)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-07-07
 - **CTA:** Schedule a call
 - **Image asset:** dscr-rent-covers-card.png (Option A — "DSCR = does the rent cover the payment?")

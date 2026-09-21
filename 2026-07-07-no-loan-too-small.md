@@ -1,7 +1,7 @@
 # No Loan Is Too Small
 
 - **Type:** Talking Head (Stance)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-07-07
 - **CTA:** Schedule a call
 - **Image asset:** no-loan-too-small-card.png (Option C — "A big lender's 'no' isn't the end of your story.")
