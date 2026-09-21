@@ -26,6 +26,10 @@ Generate 13 script ideas (not full scripts yet):
 - Branding line for Talking Head ideas only. Never for Reenactment/Skit.
 - **Need spread (don't skip):** the 13 must not all be cautionary "avoid-this-mistake" angles. Deliberately include **at least one aspirational/Growth idea** (a client win / "you can do this" / "here's your path in"), **at least one strong-opinion take**, and where natural a **personal/Jordan-story angle**. Tag each idea with the main need it hits so the spread is visible. (See "Audience Psychology — The 6 Needs".)
 
+- **Reframe rule (from the Shivani Peterson breakdown):** at least 3 of the 9 Talking Heads (news or POV) must follow the **Stance-First Formula** (see that section): a scary-headline reframe with a stated stance. Every Talking Head idea includes a one-line **STANCE** (PSAs may keep it short).
+- **Freshness:** news ideas should come from the last ~72 hours. If a story is older than a few days, say so and offer a refresh or a swap.
+- **Reenactments:** default to 2 parts. Part 1 must work as a standalone post and end on a cliffhanger (see Reenactment rules).
+
 **Overrides:** "talking head only" / "reenactment only" / "b-roll only" / "5 ideas" / "15 ideas" / "CTA = comment" / "topic: ___"
 
 B-Roll/Carousel ideas are not part of the default 13-idea mix — pitch them when Jordan asks for "b-roll," "carousel," or says she wants a lower-lift option, or mix a couple in when she says so.
@@ -33,6 +37,8 @@ B-Roll/Carousel ideas are not part of the default 13-idea mix — pitch them whe
 ### "script it: #__"
 
 When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA confirmation), then write the full script in chat for approval. Among those questions, always check for: **(a) a personal/Jordan angle** — does she have her *own* story, experience, or mistake to anchor it, not just a client's (Connection); and **(b) a stance** — does she want a clear opinion/take baked in (Significance). Don't force either, but ask so it's on the table.
+
+**If Jordan says she's slammed or "your call":** don't stall. Propose a bracketed default for every open question, apply them, and flag anything you couldn't verify. Jordan has asked Claude to draft the stance lines itself — include one in every news/POV script and let her veto it in a line.
 
 ---
 
@@ -56,6 +62,9 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
 - **Do NOT include CTA** unless Jordan asks
 - Script is written as dialogue
 - **LENGTH (hard rule): every reenactment part MUST run a minimum of 60 seconds and a maximum of 90 seconds.** Write each part long enough to land in that window (roughly 150–230 words of dialogue per part, plus pauses). Do not deliver a part estimated under 60 seconds. This applies per part in a multi-part series.
+- **Count, don't estimate:** count the dialogue words in each part before presenting it. Each part must be at least 150 words (a part under that runs under 60 seconds). Report the real counts.
+- **Series shape (Jordan's IG data: Part 1s average about 20K views, Part 2s about 12K):** Part 1 must work as a standalone post and end on an unresolved cliffhanger. Part 2 opens with a one-line recap so it also stands alone. Don't save the best moment for Part 2.
+- **Captions carry the conversation:** reenactments have no spoken CTA, so end each part's caption with a one-line discussion prompt ("Would you have caught this?"). Jordan's reenactments average only a few comments.
 
 ### Skit
 - Multi-character script involving mortgage world (buyers, agents, title company, appraiser, etc.)
@@ -242,7 +251,37 @@ News-type Talking Heads MUST be built on a **real, live-sourced article** — ne
 
 **The non-negotiable: always tie the national story back to a mortgage lesson.** The headline is the scroll-stopper; the value (and the reason it's *her* video) is the mortgage angle — e.g. property taxes → what's hiding in your monthly escrow; billionaire mortgage → why financing is a tool, not a burden; middle-class income → what that actually qualifies you to buy. The Misconception Flip hook works especially well on news.
 
+**When numbers disagree across sources** (daily mortgage rates often do), cite one named source (Freddie Mac's weekly survey is the safe default) and tell Jordan to re-pull it on film day. Don't state a rate without a named source.
+
 **In the pitch, every news idea must show:** the real story (1–2 lines), the **source(s) with live links**, the mortgage tie-in, the hook, PEACE beats, CTA, and a visual.
+
+---
+
+## Stance-First Formula (News & POV Talking Heads)
+
+Sourced from a breakdown of Shivani Peterson (@shivpeter, about 57K followers) in September 2026: 6 of her last 30 reels hit 68K–287K views against a baseline of about 12K, and almost all six share one shape. Jordan's own Instagram data (last 50 reels) shows why it matters: her educational talking heads average about 4K views and get near-zero comments, while her reenactments average about 16K. Use this formula for **news and POV Talking Heads**. Reenactments keep their own rules.
+
+**The shape, in order:**
+1. **Scary-headline reframe hook.** Name the panic the audience already feels and flip it, with a specific number or claim in the first 3 seconds. ("Everyone's scared the Fed will hike. Mortgage rates actually eased after." / "The seller across from you may be more nervous than you.")
+2. **The mechanism people have wrong.** Explain one thing the audience misunderstands (mortgage rates follow the 10-year Treasury, not the Fed; a percent jump off a record-low base isn't a crash).
+3. **Receipts.** 2–3 hard numbers, dates, or denominators, with the source on screen.
+4. **Agency.** Turn the fear into something the viewer can do (ask about a float-down, negotiate a seller credit, run both scenarios).
+5. **STANCE beat (required on news and POV).** One plain "Here's my take" line that commits, not a hedge. Claude drafts it and Jordan can veto it in a line. PSAs may keep it short.
+6. **Quotable closer, then a discussion or save CTA** (see Call to Action Options).
+
+**Why it works (observed):** her breakouts turn a scary story into leverage ("you can't have cheap money and leverage at the same time"). That stacks Certainty (it explains it) + Variety (counterintuitive) + Significance (a stance) + Contribution.
+
+**What flopped, for her and for Jordan:** plain program education with no tension (3% down, income-type lists), a stat-only hook with no news angle, therapy/mindset detours, and niche program mechanics. Keep those for bottom-of-funnel lead videos, and pair them with a tension hook.
+
+**Topic rule:** for reach, prefer the fear the audience already has (rates, the Fed, "crash," price cuts, cancellations) over program mechanics.
+
+**Timeliness:** she reacts the same morning to the Fed, CPI, and jobs reports. News scripts need a film-day note and should be filmed within about a day of sourcing.
+
+**Comments are the lever:** Jordan's likes-per-view are close to hers, but comments aren't (Jordan gets 0–5; Shivani gets 15–50 at baseline and hundreds on breakouts). Close news/POV videos with a real question, or ask viewers for their own experience. Keep link-in-bio and schedule-a-call closers for lead-gen videos.
+
+**Compliance guardrail:** Jordan is a licensed loan officer. Frame rate talk as "what to watch," never a forecast or guarantee (no "rates will come down in six months"). Verify any lender-policy claim against NFM before it goes in a script.
+
+**What we deliberately do not copy:** profanity (Jordan doesn't curse), Shivani's 2-plus-minute runtimes (Jordan's talking heads already run 60–100 seconds), and dense paragraphs that don't read well off a teleprompter.
 
 ---
 
@@ -277,6 +316,8 @@ Stacks well with the Misconception Flip hook — both trade a neutral "just expl
 6. **Save this** — best for reference/warning content: a rule that just changed, a status update, something the viewer will need to remember later rather than act on right now. Line pattern: "Save this in case [scenario] happens to you."
 7. **Follow (algorithm-literate)** — best for growth/reach content with no single natural fact to save or discuss. Names the platform mechanic as the pitch itself: "Follow me, because the algorithm won't guarantee you see me again otherwise."
 
+**Default for news and POV Talking Heads:** Discussion Question or Save This, unless the video is meant to generate a lead (then use Schedule a call or Link in bio). Jordan's comment counts are low across the board, and a conversion CTA on every video is part of why.
+
 **Note:** Discussion Question, Save This, and Follow trade a hard CTA for shareability — reach for them on news/opinion pieces where reposts matter more than a direct lead; keep the first four for anything meant to convert into a call or a bio-link click.
 
 ---
@@ -310,7 +351,7 @@ Include 1–3 caption options at the end of every script in chat:
 - **Then 2–4 more sentences of real value** — don't stop at the punchy one-liner. Per Gary V's take: most people "mail it in" on captions (three words and done), and writing several thoughtful, valuable sentences is what drives outsized growth. Use the extra lines for a detail, mini-example, or context that isn't already in the video, so the caption gives value even to someone who doesn't watch.
 - No heavy jargon — use "mortgage English"
 - At least one option with a light CTA
-- **Multi-part reenactments/skits (hard rule): write separate caption options for EACH part, not one shared set for the whole series.** Jordan posts each part as its own video, so each part needs its own caption(s). Prefix each with its part number — `"Part 1 — ..."` / `"Part 2 — ..."` — so it's obvious which caption belongs to which video.
+- **Multi-part reenactments/skits (hard rule): write separate caption options for EACH part, not one shared set for the whole series.** Jordan posts each part as its own video, so each part needs its own caption(s). Prefix each with its part number — `"Part 1 — ..."` / `"Part 2 — ..."` — so it's obvious which caption belongs to which video. End each part's caption with a one-line discussion prompt (see Reenactment rules).
 
 **Format:**
 ```
@@ -428,3 +469,21 @@ Key voice markers: interrupted dialogue, escalating panic, realistic mortgage-wo
 
 **Deal Goes Sideways (Reenactment)** — strong engagement
 - Why: relatable panic scenario, dramatic but realistic, educational payoff embedded in the story
+
+**Instagram data, last 50 reels (pulled 2026-09-21 via TokScript):** median about 5.3K views, average about 9K.
+- **Reenactments:** Part 1s reached 18–24K (rent-to-own scam, buyer-backed-out, unsigned disclosure, credit card refi); the "found a guy online" rate reenactment reached 38K. Part 2s reached about 10–14K. The best scripted reenactment was only 47 seconds.
+- **Educational talking heads:** 2–6K, with near-zero comments. News talking heads with no stance (rates 7%, affordability, 2008) landed 3–6.5K.
+- **Other outliers:** two short comedic/personality bits reached 43K and 32K, and a personal talking head with a stance on the rental market reached 15K.
+- **How to apply:** lead batches with reenactments and stance-first news/POV; see "Stance-First Formula."
+
+---
+
+## Competitor & Performance Research (TokScript)
+
+Jordan connected the TokScript MCP for research. Use it to study creators and to check her own results.
+
+1. Pull a profile's reels with the Instagram reels tool (30 at a time). Views come from this listing.
+2. Send a mix of top and weak reels (about 20) to `submit_transcript_job`. Never call the single-transcript tools in a loop.
+3. Poll the job, export the results as JSON, and read the transcripts locally. Compare hooks, length, structure, and CTAs against the views.
+4. The Instagram provider sometimes rate-limits and returns empty data. Wait 2–3 minutes and retry, and don't conclude the profile is empty.
+5. To sync statuses, match recent reel captions to script files and mark those scripts Posted in the `.md`, `_INDEX.md`, and `Scripts.html`.
