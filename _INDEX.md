@@ -9,6 +9,18 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 85 | The $1,500 Grant | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-1500-grant-scam.md) |
+| 84 | Mom Sells It to Me for $1 | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-mom-sells-house.md) |
+| 83 | The Seller Wants to Stay 90 Days | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-seller-stays-90-days.md) |
+| 82 | The Lock Runs Out Friday | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-lock-runs-out.md) |
+| 81 | Never Wire Your Down Payment Off an Email | Talking Head | Scripted | 2026-09-21 | Save this | [open](2026-09-21-wire-fraud-psa.md) |
+| 80 | Why Your Phone Blows Up After You Apply | Talking Head | Scripted | 2026-09-21 | Save this | [open](2026-09-21-trigger-leads.md) |
+| 79 | The Loan I Talked a Client Out Of | Talking Head | Scripted | 2026-09-21 | Leave a comment | [open](2026-09-21-loan-talked-out-of.md) |
+| 78 | Bankruptcy Isn't a Life Sentence | Talking Head | Scripted | 2026-09-21 | Schedule a call | [open](2026-09-21-bankruptcy-not-life-sentence.md) |
+| 77 | Cheap Money and Leverage Don't Come Together | Talking Head | Scripted | 2026-09-21 | Discussion question | [open](2026-09-21-cheap-money-leverage.md) |
+| 76 | One in Seven Home Deals Just Fell Apart | Talking Head (News) | Scripted | 2026-09-21 | Save this | [open](2026-09-21-deal-cancellations.md) |
+| 75 | A New Credit Score Just Opened Up for Mortgages | Talking Head (News) | Scripted | 2026-09-21 | Schedule a call | [open](2026-09-21-vantagescore-4-open.md) |
+| 74 | The Fed Raised Rates. Mortgage Rates Went Up First, Then Eased. | Talking Head (News) | Scripted | 2026-09-21 | Discussion question | [open](2026-09-21-fed-hike-mortgage-rates.md) |
 | 73 | Fannie Mae Just Killed the Lease Requirement for Landlords-to-Be | Talking Head (News) | Scripted | 2026-09-14 | Schedule a call | [open](2026-09-14-fannie-mae-departing-residence.md) |
 | 72 | The Mortgage They Forgot About | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-mortgage-they-forgot-about.md) |
 | 71 | Nobody Will Sign It | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-nobody-will-sign-it.md) |
