@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 86 | Half of Buyers Are Getting Paid by the Seller | Talking Head | Scripted | 2026-09-28 | Discussion question | [open](2026-09-28-seller-concessions.md) |
 | 85 | The $1,500 Grant | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-1500-grant-scam.md) |
 | 84 | Mom Sells It to Me for $1 | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-mom-sells-house.md) |
 | 83 | The Seller Wants to Stay 90 Days | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-seller-stays-90-days.md) |
