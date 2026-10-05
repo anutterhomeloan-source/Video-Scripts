@@ -9,6 +9,12 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 92 | The Storm Hold | Reenactment | Scripted | 2026-10-05 | None | [open](2026-10-05-the-storm-hold.md) |
+| 91 | Pre-Approved This Summer? Your Letter Might Be Lying to You Now | Talking Head (PSA) | Scripted | 2026-10-05 | Link in bio | [open](2026-10-05-preapproval-letter-rates-moved.md) |
+| 90 | Rates Jumped in One Week. Here's What a Rate Lock Actually Protects. | Talking Head (PSA) | Scripted | 2026-10-05 | Save this | [open](2026-10-05-rate-lock-what-it-protects.md) |
+| 89 | A 30-Year Mortgage Isn't a 30-Year Commitment | Talking Head (POV) | Scripted | 2026-10-05 | Leave a comment | [open](2026-10-05-30-year-not-30-year-commitment.md) |
+| 88 | Biggest Rate Jump in 4 Years. Then the Jobs Report Did Something Weird. | Talking Head (News) | Scripted | 2026-10-05 | Discussion question | [open](2026-10-05-rate-jump-jobs-report.md) |
+| 87 | Fulton County Wants to Raise Your Property Taxes. The Hearing Is Wednesday. | Talking Head (News) | Scripted | 2026-10-05 | Save this | [open](2026-10-05-fulton-property-tax-hearing.md) |
 | 86 | Half of Buyers Are Getting Paid by the Seller | Talking Head | Scripted | 2026-09-28 | Discussion question | [open](2026-09-28-seller-concessions.md) |
 | 85 | The $1,500 Grant | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-1500-grant-scam.md) |
 | 84 | Mom Sells It to Me for $1 | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-mom-sells-house.md) |

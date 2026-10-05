@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<style>
+  :root{ --bluelt:#85B7EB; --gold:#FFD166; --red:#E24B4A; }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html,body{width:1080px;height:1920px;}
+  body{
+    font-family:'Segoe UI',Arial,sans-serif;
+    background:linear-gradient(160deg,#042C53 0%,#0C447C 55%,#10243f 100%);
+    color:#fff; display:flex; flex-direction:column;
+    align-items:center; justify-content:center; padding:110px 90px;
+  }
+  .kicker{font-size:34px;letter-spacing:3px;text-transform:uppercase;color:var(--bluelt);font-weight:700;margin-bottom:30px;text-align:center;}
+  .card{width:100%;background:#fff;color:#10243f;border-radius:30px;padding:64px 58px;box-shadow:0 30px 70px rgba(0,0,0,.45);}
+  .badge{display:inline-block;background:var(--red);color:#fff;font-size:28px;font-weight:800;letter-spacing:2px;text-transform:uppercase;padding:12px 26px;border-radius:10px;margin-bottom:40px;}
+  .row{display:flex;align-items:baseline;justify-content:space-between;padding:26px 0;border-bottom:2px solid #e3e8ef;}
+  .row.r3{border-bottom:none;}
+  .rate{font-size:96px;font-weight:900;}
+  .lbl{font-size:32px;font-weight:600;color:#5a6b80;text-align:right;line-height:1.3;}
+  .r1 .rate{color:#5a6b80;}
+  .r2 .rate{color:#0C447C;}
+  .r3 .rate{color:var(--red);}
+  .arrow{font-size:48px;color:#a0adbd;text-align:center;line-height:1;}
+  .src{margin-top:30px;font-size:28px;color:#5a6b80;font-weight:600;border-top:2px solid #e3e8ef;padding-top:24px;}
+  .tie{margin-top:80px;font-size:56px;line-height:1.18;font-weight:800;text-align:center;}
+  .tie .hl{color:var(--gold);}
+</style>
+</head>
+<body>
+  <div class="kicker">Biggest weekly jump in 4 years</div>
+  <div class="card">
+    <div class="badge">30-year fixed</div>
+    <div class="row r1"><div class="rate">7.03%</div><div class="lbl">Week before<br>Freddie Mac</div></div>
+    <div class="arrow">&darr;</div>
+    <div class="row r2"><div class="rate">7.28%</div><div class="lbl">Thu, Oct 1<br>Freddie Mac</div></div>
+    <div class="arrow">&darr;</div>
+    <div class="row r3"><div class="rate">7.57%</div><div class="lbl">Fri, Oct 2<br>Mortgage News Daily</div></div>
+    <div class="src">Freddie Mac weekly survey &middot; Mortgage News Daily daily index</div>
+  </div>
+  <div class="tie">Plan around a <span class="hl">payment,</span><br>not one week.</div>
+</body>
+</html>
