@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 97 | Day 31 | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-day-31.md) |
 | 96 | Just Tell Us the Rate | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-just-tell-us-the-rate.md) |
 | 95 | Your Mortgage Payment Probably Isn't Going Where You Think | Talking Head (PSA) | Scripted | 2026-10-12 | Save this | [open](2026-10-12-payment-not-going-where-you-think.md) |
 | 94 | You're Not Scared of the Rate | Talking Head (POV) | Scripted | 2026-10-12 | Schedule a call | [open](2026-10-12-not-scared-of-the-rate.md) |
