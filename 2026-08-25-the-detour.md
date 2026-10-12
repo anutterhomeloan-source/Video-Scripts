@@ -1,7 +1,7 @@
 # The Detour
 
 - **Type:** Reenactment
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-08-25
 - **CTA:** None
 - **Image asset:** None

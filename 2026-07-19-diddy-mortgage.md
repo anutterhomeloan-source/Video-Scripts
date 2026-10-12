@@ -1,7 +1,7 @@
 # Diddy's Buyer Could've Paid Cash. They Took a Mortgage Instead.
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-07-19
 - **CTA:** Schedule a call
 - **Image asset:** diddy-mortgage-card.png (Option A — headline overlay + source citation)

@@ -1,7 +1,7 @@
 # One in Seven Home Deals Just Fell Apart
 
 **Type:** Talking Head (News)
-**Status:** Scripted
+**Status:** Didn't use
 **Date approved:** 2026-09-21
 **CTA:** Save this
 **Image asset:** None

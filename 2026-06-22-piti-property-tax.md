@@ -1,7 +1,7 @@
 # Half Your Payment Isn't the Loan
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-06-22
 - **CTA:** Schedule a call
 - **Image asset:** property-tax-headline-card.png (Option A — headline + source overlay)

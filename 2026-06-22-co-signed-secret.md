@@ -1,7 +1,7 @@
 # Co-Signed Secret
 
 - **Type:** Reenactment (2 parts)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-06-22
 - **CTA:** None
 - **Image asset:** None

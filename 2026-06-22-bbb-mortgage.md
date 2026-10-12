@@ -1,7 +1,7 @@
 # Bed Bath & Beyond Is Selling Mortgages Now
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-06-22
 - **CTA:** Leave a comment
 - **Image asset:** Two options built for film-time pick — bbb-mortgage-headline-card.png (Option A), bbb-mortgage-cart-card.png (Option B)

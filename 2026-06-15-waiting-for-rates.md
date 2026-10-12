@@ -1,7 +1,7 @@
 # Waiting For Rates To Drop
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-06-15
 - **CTA:** Schedule a call
 - **Image asset:** waiting-rates-card.png (1080×1920)

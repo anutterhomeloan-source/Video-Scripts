@@ -1,7 +1,7 @@
 # Your Property Taxes Are Hiding in Your Mortgage Payment
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-07-19
 - **CTA:** None
 - **Image asset:** fl-property-tax-2026-card.png (Option A — headline overlay + source citation)

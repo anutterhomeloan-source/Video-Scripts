@@ -1,7 +1,7 @@
 # Biggest Rate Jump in 4 Years. Then the Jobs Report Did Something Weird.
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-10-05
 - **CTA:** Discussion question
 - **Image asset:** rate-jump-card.png (Option A: rate chart 7.03% → 7.28% → 7.57%)

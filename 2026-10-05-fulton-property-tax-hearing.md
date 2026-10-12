@@ -1,7 +1,7 @@
 # Fulton County Wants to Raise Your Property Taxes. The Hearing Is Wednesday.
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-10-05
 - **CTA:** Save this
 - **Image asset:** fulton-hearing-card.png (Option A: hearing date card (Wed. Oct 7, 10 AM))

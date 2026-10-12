@@ -1,7 +1,7 @@
 # Congress Just Introduced a Bill Because Rates Are Still Stuck at 6.6%
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-08-17
 - **CTA:** Schedule a call
 - **Image asset:** rate-bill-card.png (Option A — Fortune rate headline: 30-yr 6.632% / 15-yr 5.780%)

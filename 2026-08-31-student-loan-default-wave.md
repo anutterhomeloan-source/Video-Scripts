@@ -1,7 +1,7 @@
 # Student Loan Defaults Are Locking Buyers Out for Years
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-08-31
 - **CTA:** Follow
 - **Image asset:** student-loan-default-stat-card.png

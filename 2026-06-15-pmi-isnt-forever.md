@@ -1,7 +1,7 @@
 # PMI Isn't Forever
 
 - **Type:** Talking Head
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-06-15
 - **CTA:** Link in bio to get a real pre-approval
 - **Image asset:** pmi-timeline-card.png (1080×1920)

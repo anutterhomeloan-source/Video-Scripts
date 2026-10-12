@@ -1,7 +1,7 @@
 # That Property Tax Ballot Measure? A Judge Just Said No.
 
 - **Type:** Talking Head (News)
-- **Status:** Scripted
+- **Status:** Didn't use
 - **Date approved:** 2026-08-24
 - **CTA:** Save this
 - **Image asset:** fl-property-tax-ruling-card.png

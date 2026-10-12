@@ -18,8 +18,8 @@ Scan this table when you're ready to film, then open the script you want.
 | 91 | Pre-Approved This Summer? Your Letter Might Be Lying to You Now | Talking Head (PSA) | Scripted | 2026-10-05 | Link in bio | [open](2026-10-05-preapproval-letter-rates-moved.md) |
 | 90 | Rates Jumped in One Week. Here's What a Rate Lock Actually Protects. | Talking Head (PSA) | Scripted | 2026-10-05 | Save this | [open](2026-10-05-rate-lock-what-it-protects.md) |
 | 89 | A 30-Year Mortgage Isn't a 30-Year Commitment | Talking Head (POV) | Scripted | 2026-10-05 | Leave a comment | [open](2026-10-05-30-year-not-30-year-commitment.md) |
-| 88 | Biggest Rate Jump in 4 Years. Then the Jobs Report Did Something Weird. | Talking Head (News) | Scripted | 2026-10-05 | Discussion question | [open](2026-10-05-rate-jump-jobs-report.md) |
-| 87 | Fulton County Wants to Raise Your Property Taxes. The Hearing Is Wednesday. | Talking Head (News) | Scripted | 2026-10-05 | Save this | [open](2026-10-05-fulton-property-tax-hearing.md) |
+| 88 | Biggest Rate Jump in 4 Years. Then the Jobs Report Did Something Weird. | Talking Head (News) | Didn't use | 2026-10-05 | Discussion question | [open](2026-10-05-rate-jump-jobs-report.md) |
+| 87 | Fulton County Wants to Raise Your Property Taxes. The Hearing Is Wednesday. | Talking Head (News) | Didn't use | 2026-10-05 | Save this | [open](2026-10-05-fulton-property-tax-hearing.md) |
 | 86 | Half of Buyers Are Getting Paid by the Seller | Talking Head | Scripted | 2026-09-28 | Discussion question | [open](2026-09-28-seller-concessions.md) |
 | 85 | The $1,500 Grant | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-1500-grant-scam.md) |
 | 84 | Mom Sells It to Me for $1 | Reenactment | Scripted | 2026-09-21 | None | [open](2026-09-21-mom-sells-house.md) |
@@ -30,9 +30,9 @@ Scan this table when you're ready to film, then open the script you want.
 | 79 | The Loan I Talked a Client Out Of | Talking Head | Scripted | 2026-09-21 | Leave a comment | [open](2026-09-21-loan-talked-out-of.md) |
 | 78 | Bankruptcy Isn't a Life Sentence | Talking Head | Scripted | 2026-09-21 | Schedule a call | [open](2026-09-21-bankruptcy-not-life-sentence.md) |
 | 77 | Cheap Money and Leverage Don't Come Together | Talking Head | Scripted | 2026-09-21 | Discussion question | [open](2026-09-21-cheap-money-leverage.md) |
-| 76 | One in Seven Home Deals Just Fell Apart | Talking Head (News) | Scripted | 2026-09-21 | Save this | [open](2026-09-21-deal-cancellations.md) |
+| 76 | One in Seven Home Deals Just Fell Apart | Talking Head (News) | Didn't use | 2026-09-21 | Save this | [open](2026-09-21-deal-cancellations.md) |
 | 75 | A New Credit Score Just Opened Up for Mortgages | Talking Head (News) | Scripted | 2026-09-21 | Schedule a call | [open](2026-09-21-vantagescore-4-open.md) |
-| 74 | The Fed Raised Rates. Mortgage Rates Went Up First, Then Eased. | Talking Head (News) | Scripted | 2026-09-21 | Discussion question | [open](2026-09-21-fed-hike-mortgage-rates.md) |
+| 74 | The Fed Raised Rates. Mortgage Rates Went Up First, Then Eased. | Talking Head (News) | Didn't use | 2026-09-21 | Discussion question | [open](2026-09-21-fed-hike-mortgage-rates.md) |
 | 73 | Fannie Mae Just Killed the Lease Requirement for Landlords-to-Be | Talking Head (News) | Scripted | 2026-09-14 | Schedule a call | [open](2026-09-14-fannie-mae-departing-residence.md) |
 | 72 | The Mortgage They Forgot About | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-mortgage-they-forgot-about.md) |
 | 71 | Nobody Will Sign It | Reenactment | Scripted | 2026-09-14 | None | [open](2026-09-14-nobody-will-sign-it.md) |
@@ -42,22 +42,22 @@ Scan this table when you're ready to film, then open the script you want.
 | 67 | Waiving the Inspection Doesn't Make You a Stronger Buyer | Talking Head | Posted | 2026-09-14 | Save this | [open](2026-09-14-waiving-inspection.md) |
 | 66 | The First Client I Almost Lost | Talking Head | Scripted | 2026-09-14 | Leave a comment | [open](2026-09-14-first-client-almost-lost.md) |
 | 65 | Patiently Waiting for the Self-Employed Borrowers | B-Roll / Carousel | Scripted | 2026-09-10 | Comment "CHECKLIST" (ManyChat) | [open](2026-09-10-self-employed-bank-no.md) |
-| 64 | Student Loan Defaults Are Locking Buyers Out for Years | Talking Head (News) | Scripted | 2026-08-31 | Follow | [open](2026-08-31-student-loan-default-wave.md) |
+| 64 | Student Loan Defaults Are Locking Buyers Out for Years | Talking Head (News) | Didn't use | 2026-08-31 | Follow | [open](2026-08-31-student-loan-default-wave.md) |
 | 63 | Removing Your Ex From the Mortgage Isn't Automatic | Talking Head | Scripted | 2026-08-31 | Schedule a call | [open](2026-08-31-divorce-decree-mortgage.md) |
 | 62 | Fixed Rate Doesn't Mean What You Think It Means | Talking Head | Scripted | 2026-08-31 | Save this | [open](2026-08-31-arm-adjustment-date.md) |
 | 61 | You Don't Need 20% Down | Talking Head | Scripted | 2026-08-31 | Link in bio | [open](2026-08-31-3-percent-down-strong-offer.md) |
 | 60 | The Mortgage Mistake I Made Buying My Own House | Talking Head | Scripted | 2026-08-31 | Link in bio | [open](2026-08-31-mortgage-mistake-closing-costs.md) |
 | 59 | The Autopay Trap | Reenactment | Scripted | 2026-08-31 | None | [open](2026-08-31-the-autopay-trap.md) |
-| 58 | The Detour | Reenactment | Scripted | 2026-08-25 | None | [open](2026-08-25-the-detour.md) |
+| 58 | The Detour | Reenactment | Didn't use | 2026-08-25 | None | [open](2026-08-25-the-detour.md) |
 | 57 | The Handshake Mortgage | Reenactment | Scripted | 2026-08-24 | None | [open](2026-08-24-handshake-mortgage.md) |
 | 56 | Affordability Is Improving. It Also Just Got Worse for the 5th Month Straight. | Talking Head (News) | Posted | 2026-08-24 | Discussion question | [open](2026-08-24-affordability-tension.md) |
-| 55 | That Property Tax Ballot Measure? A Judge Just Said No. | Talking Head (News) | Scripted | 2026-08-24 | Save this | [open](2026-08-24-fl-property-tax-ruling.md) |
+| 55 | That Property Tax Ballot Measure? A Judge Just Said No. | Talking Head (News) | Didn't use | 2026-08-24 | Save this | [open](2026-08-24-fl-property-tax-ruling.md) |
 | 54 | That Klarna Order Could Quietly Kill Your Approval | Talking Head | Posted | 2026-08-24 | Save this | [open](2026-08-24-klarna-dti.md) |
 | 53 | Asking for a Lower Price Isn't Always the Win | Talking Head | Posted | 2026-08-24 | Schedule a call | [open](2026-08-24-buydown-vs-price-cut.md) |
 | 52 | Can You Really Take Over Their 2.75% Rate? | Talking Head | Posted | 2026-08-24 | Link in bio | [open](2026-08-24-assumable-mortgage.md) |
 | 51 | The Don't-Touch List | Yap | Drafted | 2026-08-17 | Comment "CLOSE" (ManyChat) | [open](2026-08-17-dont-touch-list.md) |
 | 50 | The Job Change Nobody Mentioned | Reenactment | Scripted | 2026-08-17 | None | [open](2026-08-17-job-change-commission.md) |
-| 49 | Congress Just Introduced a Bill Because Rates Are Still Stuck at 6.6% | Talking Head | Scripted | 2026-08-17 | Schedule a call | [open](2026-08-17-rate-bill-today.md) |
+| 49 | Congress Just Introduced a Bill Because Rates Are Still Stuck at 6.6% | Talking Head | Didn't use | 2026-08-17 | Schedule a call | [open](2026-08-17-rate-bill-today.md) |
 | 48 | You Don't Need $116,780 | Talking Head | Scripted | 2026-08-17 | Link in bio | [open](2026-08-17-income-needed-116k.md) |
 | 47 | Self-Employed Doesn't Mean Unqualifiable | Talking Head | Posted | 2026-08-17 | Link in bio | [open](2026-08-17-self-employed-qualify.md) |
 | 46 | Fixed Rate Doesn't Mean Fixed Payment | Talking Head | Scripted | 2026-08-17 | Schedule a call | [open](2026-08-17-escrow-fixed-payment.md) |
@@ -82,8 +82,8 @@ Scan this table when you're ready to film, then open the script you want.
 | 27 | Contingent on My House Selling | Reenactment | Posted | 2026-07-19 | None | [open](2026-07-19-contingent-sale-falls-through.md) |
 | 26 | The Cash-Out Refi Debt Spiral | Reenactment | Posted | 2026-07-19 | None | [open](2026-07-19-cash-out-refi-spiral.md) |
 | 25 | What "Middle Class" Actually Means Where You Live | Talking Head | Drafted | 2026-07-19 | None | [open](2026-07-19-middle-class-income.md) |
-| 24 | Diddy's Buyer Could've Paid Cash. They Took a Mortgage Instead. | Talking Head | Scripted | 2026-07-19 | Schedule a call | [open](2026-07-19-diddy-mortgage.md) |
-| 23 | Your Property Taxes Are Hiding in Your Mortgage Payment | Talking Head | Scripted | 2026-07-19 | None | [open](2026-07-19-fl-property-tax-2026.md) |
+| 24 | Diddy's Buyer Could've Paid Cash. They Took a Mortgage Instead. | Talking Head | Didn't use | 2026-07-19 | Schedule a call | [open](2026-07-19-diddy-mortgage.md) |
+| 23 | Your Property Taxes Are Hiding in Your Mortgage Payment | Talking Head | Didn't use | 2026-07-19 | None | [open](2026-07-19-fl-property-tax-2026.md) |
 | 22 | Pre-Qualified Is Not Pre-Approved | Talking Head | Posted | 2026-07-19 | Link in bio | [open](2026-07-19-prequal-vs-preapproval.md) |
 | 21 | Why I Take the Files Nobody Wanted | Talking Head | Posted | 2026-07-07 | Link in bio | [open](2026-07-07-why-i-do-this.md) |
 | 20 | No Loan Is Too Small | Talking Head | Posted | 2026-07-07 | Schedule a call | [open](2026-07-07-no-loan-too-small.md) |
@@ -95,15 +95,15 @@ Scan this table when you're ready to film, then open the script you want.
 | 14 | You Can't Borrow Your Down Payment | Talking Head | Scripted | 2026-06-29 | Link in bio | [open](2026-06-29-borrow-down-payment.md) |
 | 13 | Don't Close Your Oldest Credit Card | Talking Head | Posted | 2026-06-29 | Schedule a call | [open](2026-06-29-dont-close-oldest-card.md) |
 | 12 | Rent-to-Own Scam | Reenactment | Posted | 2026-06-29 | None | [open](2026-06-29-rent-to-own-scam.md) |
-| 11 | Bed Bath & Beyond Is Selling Mortgages Now | Talking Head | Scripted | 2026-06-22 | Leave a comment | [open](2026-06-22-bbb-mortgage.md) |
+| 11 | Bed Bath & Beyond Is Selling Mortgages Now | Talking Head | Didn't use | 2026-06-22 | Leave a comment | [open](2026-06-22-bbb-mortgage.md) |
 | 10 | 20% Down to Skip PMI | Reenactment | Posted | 2026-06-22 | None | [open](2026-06-22-pmi-20-percent-down.md) |
-| 9 | Half Your Payment Isn't the Loan | Talking Head | Scripted | 2026-06-22 | Schedule a call | [open](2026-06-22-piti-property-tax.md) |
+| 9 | Half Your Payment Isn't the Loan | Talking Head | Didn't use | 2026-06-22 | Schedule a call | [open](2026-06-22-piti-property-tax.md) |
 | 8 | A Raise Cost Her the Down Payment Help | Talking Head | Scripted | 2026-06-22 | Schedule a call | [open](2026-06-22-raise-dpa-income-limit.md) |
 | 7 | Earnest Money Isn't a Fee | Talking Head | Scripted | 2026-06-22 | Link in bio | [open](2026-06-22-earnest-money.md) |
-| 6 | Co-Signed Secret | Reenactment | Scripted | 2026-06-22 | None | [open](2026-06-22-co-signed-secret.md) |
+| 6 | Co-Signed Secret | Reenactment | Didn't use | 2026-06-22 | None | [open](2026-06-22-co-signed-secret.md) |
 | 5 | I Found A Better Rate Online | Reenactment | Posted | 2026-06-15 | None | [open](2026-06-15-better-rate-online.md) |
-| 4 | PMI Isn't Forever | Talking Head | Scripted | 2026-06-15 | Link in bio | [open](2026-06-15-pmi-isnt-forever.md) |
-| 3 | Waiting For Rates To Drop | Talking Head | Scripted | 2026-06-15 | Schedule a call | [open](2026-06-15-waiting-for-rates.md) |
+| 4 | PMI Isn't Forever | Talking Head | Didn't use | 2026-06-15 | Link in bio | [open](2026-06-15-pmi-isnt-forever.md) |
+| 3 | Waiting For Rates To Drop | Talking Head | Didn't use | 2026-06-15 | Schedule a call | [open](2026-06-15-waiting-for-rates.md) |
 | 2 | Zillow Says My Rate Should Be 5.5% | Talking Head | Posted | 2026-06-15 | Link in bio | [open](2026-06-15-zillow-rate.md) |
 | 1 | Low Appraisal — What To Do | Talking Head | Scripted | 2026-06-10 | Schedule a call | [open](2026-06-10-low-appraisal.md) |
 

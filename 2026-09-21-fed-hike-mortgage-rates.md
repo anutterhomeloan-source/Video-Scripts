@@ -1,7 +1,7 @@
 # The Fed Raised Rates. Mortgage Rates Went Up First, Then Eased.
 
 **Type:** Talking Head (News)
-**Status:** Scripted
+**Status:** Didn't use
 **Date approved:** 2026-09-21
 **CTA:** Discussion question
 **Image asset:** None
