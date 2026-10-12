@@ -3,9 +3,9 @@
 Your filming library. Every approved script lives here as its own file.
 Scan this table when you're ready to film, then open the script you want.
 
-**Status key:** `Scripted` = written & approved, ready to film · `Drafted` = filmed & edited, in app drafts · `Posted` = published
+**Status key:** `Scripted` = written & approved, ready to film · `Drafted` = filmed & edited, in app drafts · `Posted` = published · `Didn't use` = decided not to film (kept for reference, hidden on the dashboard unless you filter for it)
 
-*Tip: on `Scripts.html` you can tap a script's status badge to advance it (Scripted → Drafted → Posted) — it saves on your filming PC. Hit "Copy status updates" and paste it back to me to sync these files.*
+*Tip: on `Scripts.html` you can tap a script's status badge to advance it (Scripted → Drafted → Posted) — it saves on your filming PC. Not going with one? Open it and hit **🗂 Didn't use** (restore anytime). Hit "Copy status updates" and paste it back to me to sync these files.*
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|

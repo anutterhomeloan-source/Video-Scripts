@@ -29,6 +29,7 @@ Generate 13 script ideas (not full scripts yet):
 - **Reframe rule (from the Shivani Peterson breakdown):** at least 3 of the 9 Talking Heads (news or POV) must follow the **Stance-First Formula** (see that section): a scary-headline reframe with a stated stance. Every Talking Head idea includes a one-line **STANCE** (PSAs may keep it short).
 - **Freshness:** news ideas should come from the last ~72 hours. If a story is older than a few days, say so and offer a refresh or a swap.
 - **Reenactments:** default to 2 parts. Part 1 must work as a standalone post and end on a cliffhanger (see Reenactment rules).
+- **Playbook angles:** before pitching, read `C:\Users\jnutter\Downloads\notion export\playbook\content-angles.md` (ideas distilled from Jordan's mastermind calls and coaches, e.g. Phil Jones's "put the elephant in the room" / honest "who should NOT buy" series). Work in 1–3 angles still marked `idea` where they fit the mix, tag them with their source, and update their status to `scripted`/`posted` once Jordan uses them.
 
 **Overrides:** "talking head only" / "reenactment only" / "b-roll only" / "5 ideas" / "15 ideas" / "CTA = comment" / "topic: ___"
 
@@ -420,9 +421,11 @@ This is Jordan's filming library — she films from this PC, scanning the index,
    - The full script with PEACE sections, VISUAL lines, IMAGE OPTION block, and CAPTIONS
 2. **Add a row to `_INDEX.md`** at the top of the table: `# | Title | Type | Status | Date Approved | CTA | [open](filename.md)`. Increment the number.
 
-**Status values:** `Scripted` (written & approved, ready to film) → `Drafted` (filmed & edited, sitting in TikTok/IG drafts) → `Posted` (published). When Jordan says a script is drafted or posted, update its status in the file's metadata block, the `_INDEX.md` row, AND the `Scripts.html` `status` field. (Legacy `Filmed` = treat as `Drafted`.)
+**Status values:** `Scripted` (written & approved, ready to film) → `Drafted` (filmed & edited, sitting in TikTok/IG drafts) → `Posted` (published). When Jordan says a script is drafted or posted, update its status in the file's metadata block, the `_INDEX.md` row, AND the `Scripts.html` `status` field. (Legacy `Filmed` = treat as `Drafted`.) A fourth status, **`Didn't use`**, means Jordan decided not to film it: keep the file, just mark it.
 
 **Dashboard status workflow (self-serve):** On `Scripts.html`, each status badge is **clickable** — Jordan taps it to advance `Scripted → Drafted → Posted` (loops back around). Changes save in her browser via `localStorage` (key `jn_script_status_v1`) on the filming PC, so they persist without git. The filter chips include All / Talking Head / Reenactment / Scripted / Drafted / Posted. A **"⤓ Copy status updates"** button copies a one-line summary of any badge changes that differ from the saved files — when Jordan pastes that summary back, sync the affected `.md` metadata + `_INDEX.md` rows + `Scripts.html` `status` fields to match, then push. (After syncing, the page's defaults catch up and those items drop out of the summary automatically.)
+
+**"Didn't use" shelf:** each expanded script has a **🗂 Didn't use** button (becomes **↩ Restore**). Shelved scripts are hidden from every view except the **🗂 Didn't use** filter chip (which shows a count), and they show up in "Copy status updates" as `→ Didn't use`. When synced, set `Didn't use` as the status in the `.md`, `_INDEX.md`, and `Scripts.html`. Never delete those files. Treat `Didn't use` topics as fair game to re-angle later, and for reenactments still count their mechanics as used.
 
 **List ordering:** the list auto-sorts by status — `Scripted` and `Drafted` items stay at the top, `Posted` items sink to the bottom — so Jordan doesn't have to scroll past everything she's already posted to find what's next to film. Within each status group, newest (`n`) stays first. This re-sorts live the moment a badge is tapped, since `render()` re-runs on every status change. Preserve this sort in `render()` if the dashboard is regenerated.
 

@@ -38,6 +38,14 @@
   .s-drafted { background: #E6F1FB; color: var(--navy2); }
   .s-filmed { background: #E1F5EE; color: var(--teal); }
   .s-posted { background: #EAF3DE; color: #3B6D11; }
+  .s-unused { background: #EEF0F3; color: var(--muted); }
+  .card.unused { opacity: .62; }
+  .card.unused:hover, .card.unused.open { opacity: 1; }
+  .card.unused .title { text-decoration: line-through; text-decoration-color: rgba(0,0,0,.25); }
+  .copybtn.shelve { background: #fff; color: var(--muted); border: 1px solid var(--line); margin-left: 8px; }
+  .copybtn.shelve:hover { background: var(--bg); color: var(--ink); }
+  .chip.unused-chip { color: var(--muted); }
+  .chip.unused-chip.active { background: var(--muted); border-color: var(--muted); color: #fff; }
   .statussync { padding: 7px 14px; border: 1px solid var(--navy); background: #fff; color: var(--navy); border-radius: 999px; font-size: 13px; font-weight: 600; cursor: pointer; }
   .statussync:hover { background: var(--bg); }
   .statussync.copied { background: var(--teal); color: #fff; border-color: var(--teal); }
@@ -91,9 +99,10 @@
     <span class="chip" data-f="Scripted" onclick="setFilter(this)">Scripted</span>
     <span class="chip" data-f="Drafted" onclick="setFilter(this)">Drafted</span>
     <span class="chip" data-f="Posted" onclick="setFilter(this)">Posted</span>
+    <span class="chip unused-chip" data-f="Didn't use" onclick="setFilter(this)">🗂 Didn't use <span id="unusedCount"></span></span>
     <button class="statussync" onclick="copyStatusUpdates(event)" title="Copy a summary of status changes to paste back for syncing">⤓ Copy status updates</button>
   </div>
-  <div class="sub" style="margin:-8px 0 14px;font-size:13px;">Tap a status badge to advance it: <b>Scripted → Drafted → Posted</b>. Saves on this PC automatically.</div>
+  <div class="sub" style="margin:-8px 0 14px;font-size:13px;">Tap a status badge to advance it: <b>Scripted → Drafted → Posted</b>. Not going with one? Open it and hit <b>🗂 Didn't use</b> to move it out of the way (restore anytime). Saves on this PC automatically.</div>
 
   <div id="list"></div>
   <footer>Filming from this PC · scripts live in Documents\Video Scripts</footer>
@@ -3867,14 +3876,28 @@ const STATUS_KEY = 'jn_script_status_v1';
 const STAGES = ['Scripted','Drafted','Posted'];
 function loadStatus(){ try { return JSON.parse(localStorage.getItem(STATUS_KEY)) || {}; } catch(e){ return {}; } }
 function saveStatus(o){ try { localStorage.setItem(STATUS_KEY, JSON.stringify(o)); } catch(e){} }
-function normStage(st){ if(st==='Filmed') return 'Drafted'; return STAGES.includes(st) ? st : 'Scripted'; }
+const UNUSED = "Didn't use";
+function normStage(st){ if(st==='Filmed') return 'Drafted'; if(st===UNUSED) return UNUSED; return STAGES.includes(st) ? st : 'Scripted'; }
 function effStatus(s){ const o = loadStatus(); return normStage(o[s.n] || s.status); }
 function cycleStatus(e, n){
   e.stopPropagation();
   const o = loadStatus();
   const s = SCRIPTS.find(x=>x.n===n);
-  const next = STAGES[(STAGES.indexOf(effStatus(s)) + 1) % STAGES.length];
+  const cur = effStatus(s);
+  const next = cur === UNUSED ? 'Scripted' : STAGES[(STAGES.indexOf(cur) + 1) % STAGES.length];
   o[n] = next; saveStatus(o); render();
+}
+function toggleUnused(e, n){
+  e.stopPropagation();
+  const o = loadStatus();
+  const s = SCRIPTS.find(x=>x.n===n);
+  if(effStatus(s) === UNUSED){
+    const base = normStage(s.status);
+    o[n] = base === UNUSED ? 'Scripted' : base;
+  } else {
+    o[n] = UNUSED;
+  }
+  saveStatus(o); render();
 }
 function copyStatusUpdates(e){
   const out = [];
@@ -3890,9 +3913,14 @@ function setFilter(el){ document.querySelectorAll('.chip').forEach(c=>c.classLis
 function render(){
   const q = document.getElementById('search').value.toLowerCase();
   const list = document.getElementById('list');
-  const STAGE_ORDER = { 'Scripted': 0, 'Drafted': 1, 'Posted': 2 };
+  const STAGE_ORDER = { 'Scripted': 0, 'Drafted': 1, 'Posted': 2, [UNUSED]: 3 };
+  const unusedN = SCRIPTS.filter(s=>effStatus(s)===UNUSED).length;
+  document.getElementById('unusedCount').textContent = unusedN ? `(${unusedN})` : '';
   const items = SCRIPTS.filter(s=>{
-    if(filter!=="all" && s.type!==filter && effStatus(s)!==filter) return false;
+    const eff = effStatus(s);
+    // "Didn't use" scripts stay out of every view except their own filter
+    if(eff===UNUSED && filter!==UNUSED) return false;
+    if(filter!=="all" && s.type!==filter && eff!==filter) return false;
     if(q && !(s.title+s.body+s.cta).toLowerCase().includes(q)) return false;
     return true;
   }).sort((a,b)=>{
@@ -3904,10 +3932,11 @@ function render(){
   list.innerHTML = items.map(s=>{
     const tcls = s.type==="Talking Head" ? "b-talk" : (s.type==="Carousel" ? "b-carousel" : "b-reenact");
     const est = effStatus(s);
-    const scls = "s-"+est.toLowerCase();
+    const isUnused = est === UNUSED;
+    const scls = isUnused ? "s-unused" : "s-"+est.toLowerCase();
     const assets = (s.images && s.images.length) ? `<div class="assets"><h2>Image assets</h2><div class="asset-grid">${s.images.map(im=>`<div class="asset"><a href="${im.file}" target="_blank"><img src="${im.file}" alt="${im.label}"></a><div class="cap">${im.label}<br><a href="${im.file}" target="_blank">open full size ↗</a></div></div>`).join('')}</div></div>` : '';
     const caps = (s.captions && s.captions.length) ? `<div class="caps"><h2>Captions</h2>${s.captions.map((c,i)=>`<div class="cap-row"><span class="cap-txt">${c}</span><button class="minicopy" onclick="copyCaption(event,${s.n},${i})">📋 Copy</button></div>`).join('')}</div>` : '';
-    return `<div class="card" id="card-${s.n}">
+    return `<div class="card${isUnused ? ' unused' : ''}" id="card-${s.n}">
       <div class="row" onclick="document.getElementById('card-${s.n}').classList.toggle('open')">
         <div class="num">${s.n}</div>
         <div class="meta">
@@ -3915,10 +3944,10 @@ function render(){
           <div class="submeta">${s.date} · CTA: ${s.cta}</div>
         </div>
         <span class="badge ${tcls}">${s.type}</span>
-        <span class="status ${scls}" title="Tap to advance: Scripted → Drafted → Posted" onclick="cycleStatus(event, ${s.n})">${est}</span>
+        <span class="status ${scls}" title="${isUnused ? 'Tap to restore to Scripted' : 'Tap to advance: Scripted → Drafted → Posted'}" onclick="cycleStatus(event, ${s.n})">${est}</span>
         <span class="chev">▸</span>
       </div>
-      <div class="body"><button class="copybtn" onclick="copyScript(event, ${s.n})">📋 Copy for teleprompter</button><button class="copybtn alt" onclick="copyTitle(event, ${s.n})">📋 Copy title</button>${s.body}${caps}${assets}</div>
+      <div class="body"><button class="copybtn" onclick="copyScript(event, ${s.n})">📋 Copy for teleprompter</button><button class="copybtn alt" onclick="copyTitle(event, ${s.n})">📋 Copy title</button><button class="copybtn shelve" onclick="toggleUnused(event, ${s.n})">${isUnused ? '↩ Restore' : "🗂 Didn't use"}</button>${s.body}${caps}${assets}</div>
     </div>`;
   }).join('');
 }
