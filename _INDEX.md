@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 99 | One Share vs. the House They Grow Up In | Talking Head (News) | Scripted | 2026-10-19 | Discussion question | [open](2026-10-19-musk-spacex-share-vs-home.md) |
 | 98 | It's Not the Rate. It's the Lifestyle. | Talking Head (POV) | Scripted | 2026-10-19 | Discussion question | [open](2026-10-19-not-the-rate-its-the-lifestyle.md) |
 | 97 | Day 31 | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-day-31.md) |
 | 96 | Just Tell Us the Rate | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-just-tell-us-the-rate.md) |
