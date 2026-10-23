@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 100 | Don't Buy a House Right Now If… (Part 2) | Talking Head (PSA) | Scripted | 2026-10-23 | Comment "not me" | [open](2026-10-23-dont-buy-right-now-if-part-2.md) |
 | 99 | One Share vs. the House They Grow Up In | Talking Head (News) | Scripted | 2026-10-19 | Discussion question | [open](2026-10-19-musk-spacex-share-vs-home.md) |
 | 98 | It's Not the Rate. It's the Lifestyle. | Talking Head (POV) | Posted | 2026-10-19 | Discussion question | [open](2026-10-19-not-the-rate-its-the-lifestyle.md) |
 | 97 | Day 31 | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-day-31.md) |
