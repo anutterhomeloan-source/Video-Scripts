@@ -10,12 +10,12 @@ Scan this table when you're ready to film, then open the script you want.
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
 | 99 | One Share vs. the House They Grow Up In | Talking Head (News) | Scripted | 2026-10-19 | Discussion question | [open](2026-10-19-musk-spacex-share-vs-home.md) |
-| 98 | It's Not the Rate. It's the Lifestyle. | Talking Head (POV) | Scripted | 2026-10-19 | Discussion question | [open](2026-10-19-not-the-rate-its-the-lifestyle.md) |
+| 98 | It's Not the Rate. It's the Lifestyle. | Talking Head (POV) | Posted | 2026-10-19 | Discussion question | [open](2026-10-19-not-the-rate-its-the-lifestyle.md) |
 | 97 | Day 31 | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-day-31.md) |
 | 96 | Just Tell Us the Rate | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-just-tell-us-the-rate.md) |
 | 95 | Your Mortgage Payment Probably Isn't Going Where You Think | Talking Head (PSA) | Scripted | 2026-10-12 | Save this | [open](2026-10-12-payment-not-going-where-you-think.md) |
 | 94 | You're Not Scared of the Rate | Talking Head (POV) | Scripted | 2026-10-12 | Schedule a call | [open](2026-10-12-not-scared-of-the-rate.md) |
-| 93 | Don't Buy a House Right Now If… | Talking Head (PSA) | Scripted | 2026-10-12 | Comment "not me" | [open](2026-10-12-dont-buy-right-now-if.md) |
+| 93 | Don't Buy a House Right Now If… | Talking Head (PSA) | Posted | 2026-10-12 | Comment "not me" | [open](2026-10-12-dont-buy-right-now-if.md) |
 | 92 | The Storm Hold | Reenactment | Scripted | 2026-10-05 | None | [open](2026-10-05-the-storm-hold.md) |
 | 91 | Pre-Approved This Summer? Your Letter Might Be Lying to You Now | Talking Head (PSA) | Scripted | 2026-10-05 | Link in bio | [open](2026-10-05-preapproval-letter-rates-moved.md) |
 | 90 | Rates Jumped in One Week. Here's What a Rate Lock Actually Protects. | Talking Head (PSA) | Scripted | 2026-10-05 | Save this | [open](2026-10-05-rate-lock-what-it-protects.md) |

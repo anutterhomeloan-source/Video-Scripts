@@ -473,6 +473,10 @@ Key voice markers: interrupted dialogue, escalating panic, realistic mortgage-wo
 **Deal Goes Sideways (Reenactment)** — strong engagement
 - Why: relatable panic scenario, dramatic but realistic, educational payoff embedded in the story
 
+**Breakouts, Oct 2026 (her biggest ever):** #98 "It's Not the Rate. It's the Lifestyle." (Stance-first POV, 175K+ TikTok / 60K+ IG) and #93 "Don't Buy a House Right Now If…" (PSA, second best).
+- Why: a loan officer saying the unexpected thing ("don't buy," "it's not the rate"); a "that's me" moment the viewer measures themselves against (a scenario or checklist); one quotable thesis; a 2-second comment prompt ("rate or budget?", comment "not me"); #98 spoke to every low-rate homeowner, not just buyers.
+- **How to apply in "run scripts":** at least 3 ideas follow the "lender says the unexpected thing" pattern; every talking head has a "that's me" beat; at least 2 ideas speak to current homeowners; include spin-offs/Part 2s of recent winners in the batch. Repurpose plan lives in `playbook/2026-10-23-viral-repurpose.md`.
+
 **Instagram data, last 50 reels (pulled 2026-09-21 via TokScript):** median about 5.3K views, average about 9K.
 - **Reenactments:** Part 1s reached 18–24K (rent-to-own scam, buyer-backed-out, unsigned disclosure, credit card refi); the "found a guy online" rate reenactment reached 38K. Part 2s reached about 10–14K. The best scripted reenactment was only 47 seconds.
 - **Educational talking heads:** 2–6K, with near-zero comments. News talking heads with no stance (rates 7%, affordability, 2008) landed 3–6.5K.

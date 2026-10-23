@@ -1,7 +1,7 @@
 # It's Not the Rate. It's the Lifestyle.
 
 - **Type:** Talking Head (POV, Stance-First)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-10-19
 - **CTA:** Discussion question
 - **Image asset:** None (Jordan's call, use article screenshots instead)

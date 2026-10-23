@@ -1,7 +1,7 @@
 # Don't Buy a House Right Now If…
 
 - **Type:** Talking Head (PSA)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-10-12
 - **CTA:** Comment "not me"
 - **Image asset:** None yet (pick an option below)
