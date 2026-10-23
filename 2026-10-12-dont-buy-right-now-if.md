@@ -4,7 +4,7 @@
 - **Status:** Posted
 - **Date approved:** 2026-10-12
 - **CTA:** Comment "not me"
-- **Image asset:** None yet (pick an option below)
+- **Image asset:** 12-slide carousel, dont-buy-9-reasons-carousel-01.png to -12.png (source: notion export/carousels/dont-buy-9-reasons/slide.html)
 - **Need:** Significance (stance) + Contribution + Certainty
 - **Source:** Phil Jones, Neel Dhingra mastermind 2026-09-29 (playbook/sources/2026-09-29-phil-jones-mastermind.md)
 
