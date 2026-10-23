@@ -4,7 +4,7 @@
 - **Status:** Posted
 - **Date approved:** 2026-10-19
 - **CTA:** Discussion question
-- **Image asset:** None (Jordan's call, use article screenshots instead)
+- **Image asset:** 10-slide carousel, not-the-rate-lifestyle-carousel-01.png to -10.png (source: notion export/carousels/not-the-rate-lifestyle/slide.html)
 - **Need:** Variety + Significance (stance) + Contribution
 - **Source:** Research brief, notion export/research/2026-10-19-lifestyle-lock-in.md
 
