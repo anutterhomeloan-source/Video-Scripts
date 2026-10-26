@@ -9,6 +9,13 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 107 | Leaving Money on the Table | Reenactment | Scripted | 2026-10-26 | None | [open](2026-10-26-leaving-money-on-the-table.md) |
+| 106 | The Move-Up | Reenactment | Scripted | 2026-10-26 | None | [open](2026-10-26-the-move-up.md) |
+| 105 | In Case Nobody Ever Explained This to You: Your Payment Went Up, But Your Rate Didn't | Talking Head (PSA) | Scripted | 2026-10-26 | Save this | [open](2026-10-26-payment-went-up-rate-didnt.md) |
+| 104 | The Bank's Number Is Not Your Budget | Talking Head (POV) | Scripted | 2026-10-26 | Save this | [open](2026-10-26-bank-number-not-your-budget.md) |
+| 103 | Nobody's Buying Houses. That's Your Leverage. | Talking Head (News) | Scripted | 2026-10-26 | Discussion question | [open](2026-10-26-nobodys-buying-your-leverage.md) |
+| 102 | You SHOULD Buy a House Right Now If… | Talking Head (PSA) | Scripted | 2026-10-26 | Comment "that's me" | [open](2026-10-26-you-should-buy-right-now-if.md) |
+| 101 | The White House Wants to Cancel Your PMI. Don't Wait for It. | Talking Head (News) | Scripted | 2026-10-26 | Discussion question (still paying PMI? yes or no) | [open](2026-10-26-pmi-executive-order.md) |
 | 100 | Don't Buy a House Right Now If… (Part 2) | Talking Head (PSA) | Scripted | 2026-10-23 | Comment "not me" | [open](2026-10-23-dont-buy-right-now-if-part-2.md) |
 | 99 | One Share vs. the House They Grow Up In | Talking Head (News) | Scripted | 2026-10-19 | Discussion question | [open](2026-10-19-musk-spacex-share-vs-home.md) |
 | 98 | It's Not the Rate. It's the Lifestyle. | Talking Head (POV) | Posted | 2026-10-19 | Discussion question | [open](2026-10-19-not-the-rate-its-the-lifestyle.md) |
