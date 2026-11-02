@@ -9,6 +9,11 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 112 | It's a Gift (Technically) | Reenactment | Scripted | 2026-11-02 | None | [open](2026-11-02-its-a-gift-technically.md) |
+| 111 | Don't Buy a House Right Now If… You're Counting on a Refinance | Talking Head (PSA) | Scripted | 2026-11-02 | Comment "not me" | [open](2026-11-02-dont-buy-counting-on-refinance.md) |
+| 110 | Behind the Sale: The Buyer Who Almost Gave Up | Talking Head (POV) | Scripted | 2026-11-02 | Schedule a call | [open](2026-11-02-behind-the-sale-almost-gave-up.md) |
+| 109 | I'm a Loan Officer, and Some of You Should Rent One More Year | Talking Head (POV) | Scripted | 2026-11-02 | Comment "this year" / "next year" | [open](2026-11-02-rent-one-more-year.md) |
+| 108 | Florida's Voting to Cut Property Taxes. Are You Claiming Yours? | Talking Head (News) | Scripted | 2026-11-02 | Discussion question (did anyone tell you to file? yes or no) | [open](2026-11-02-homestead-exemption-claim-yours.md) |
 | 107 | Leaving Money on the Table | Reenactment | Scripted | 2026-10-26 | None | [open](2026-10-26-leaving-money-on-the-table.md) |
 | 106 | The Move-Up | Reenactment | Scripted | 2026-10-26 | None | [open](2026-10-26-the-move-up.md) |
 | 105 | In Case Nobody Ever Explained This to You: Your Payment Went Up, But Your Rate Didn't | Talking Head (PSA) | Scripted | 2026-10-26 | Save this | [open](2026-10-26-payment-went-up-rate-didnt.md) |
