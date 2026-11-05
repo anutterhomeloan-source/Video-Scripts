@@ -377,6 +377,19 @@ Caption 3:
 
 **Branding line spoken naturally:** "I help **make** mortgages make sense" (the extra "make" flows better in speech)
 
+### How Jordan actually re-words scripts on camera (from transcripts vs. scripts, 2026-11-04)
+
+Compared 8 posted reels (#93, #100, #105, #111, #112, Day 31 Pt 2, etc.) to the approved scripts. Write closer to this from the start:
+
+- **Lines become flowing sentences, not stacked fragments.** "First." on its own line → she says "First, you're close to retirement…". "So. Don't buy…" → "So don't buy…". "No trips. No dinners out. Nothing left over." → "There's no trips, there's no dinners out, there is nothing left over." Keep lines short, but write each one as a complete spoken sentence that runs into the next.
+- **She opens beats with a connector.** "So here's my take," "So here's the thing," "So let's say," "And by the way, if you don't know who I am…" "I mean, let's be honest…" Write these in, especially before the stance line and the branding line.
+- **She softens and adds a little specificity.** "you can appeal it" → "you can look at appealing that"; "Those come out in the spring, so watch for it" → "those generally come out in the springtime, so keep an eye out for that"; "who should wait" → "who should actually be waiting right now"; "five years" → "the next five years." Use "actually," "probably," "generally," "like" the way she does.
+- **She drops tagline-y one-liners.** Cut the series sign-off ("That's the straight answer you wish your lender gave") and throwaway fragments like "Every year." and "Everybody's credit is better than his." If a line only sounds good on paper, leave it out.
+- **She prefers "link in my bio" for talking-head CTAs.** On #111 the script said comment "not me"; she said "we should probably talk. The link is in my bio." Ask which CTA she wants, or offer both.
+- **Reenactments: Jordan's own lines get longer and warmer.** She explains things more ("I'll just get your information, your parents' information, and then we'll put the amount in there"), adds "obviously" and "super easy," and is polite with older characters ("Hi, sir. My name's Jordan. I'm the loan officer helping out today." / "Yes, sir."). Reactions get hesitant: "Um, excuse me, I'm sorry?" / "Is that gonna be a problem?" / "I need everyone to just… just hear me for one second." Write her lines with that softer, conversational tone instead of clipped punchlines.
+- **She picks her own names and numbers.** #112 Tasha → Megan, $20,000 → $12,000, "Right, Tash?" → "didn't we, kiddo?" Grandpa "Earl" became just "Grandpa." Treat names, amounts and nicknames as placeholders, and keep captions in sync with whatever she films (ask before posting).
+- **Cleanest delivery so far:** #100 and #93, the list format. Her edits there were tiny, so that structure already fits how she talks.
+
 ---
 
 ## Workflow
