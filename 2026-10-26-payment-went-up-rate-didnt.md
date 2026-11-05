@@ -1,7 +1,7 @@
 # In Case Nobody Ever Explained This to You: Your Payment Went Up, But Your Rate Didn't
 
 - **Type:** Talking Head (PSA)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-10-26
 - **CTA:** Save this
 - **Image asset:** None (generated cards on hold; use text call-outs / article screenshots)

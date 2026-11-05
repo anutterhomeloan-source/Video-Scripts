@@ -1,7 +1,7 @@
 # Don't Buy a House Right Now If… (Part 2)
 
 - **Type:** Talking Head (PSA)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-10-23
 - **CTA:** Comment "not me"
 - **Image asset:** None (Jordan's call, text call-outs only)

@@ -9,22 +9,22 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
-| 112 | It's a Gift (Technically) | Reenactment | Scripted | 2026-11-02 | None | [open](2026-11-02-its-a-gift-technically.md) |
-| 111 | Don't Buy a House Right Now If… You're Counting on a Refinance | Talking Head (PSA) | Scripted | 2026-11-02 | Comment "not me" | [open](2026-11-02-dont-buy-counting-on-refinance.md) |
+| 112 | It's a Gift (Technically) | Reenactment | Posted | 2026-11-02 | None | [open](2026-11-02-its-a-gift-technically.md) |
+| 111 | Don't Buy a House Right Now If… You're Counting on a Refinance | Talking Head (PSA) | Posted | 2026-11-02 | Comment "not me" | [open](2026-11-02-dont-buy-counting-on-refinance.md) |
 | 110 | Behind the Sale: The Buyer Who Almost Gave Up | Talking Head (POV) | Scripted | 2026-11-02 | Schedule a call | [open](2026-11-02-behind-the-sale-almost-gave-up.md) |
 | 109 | I'm a Loan Officer, and Some of You Should Rent One More Year | Talking Head (POV) | Scripted | 2026-11-02 | Comment "this year" / "next year" | [open](2026-11-02-rent-one-more-year.md) |
 | 108 | Florida's Voting to Cut Property Taxes. Are You Claiming Yours? | Talking Head (News) | Scripted | 2026-11-02 | Discussion question (did anyone tell you to file? yes or no) | [open](2026-11-02-homestead-exemption-claim-yours.md) |
 | 107 | Leaving Money on the Table | Reenactment | Scripted | 2026-10-26 | None | [open](2026-10-26-leaving-money-on-the-table.md) |
 | 106 | The Move-Up | Reenactment | Scripted | 2026-10-26 | None | [open](2026-10-26-the-move-up.md) |
-| 105 | In Case Nobody Ever Explained This to You: Your Payment Went Up, But Your Rate Didn't | Talking Head (PSA) | Scripted | 2026-10-26 | Save this | [open](2026-10-26-payment-went-up-rate-didnt.md) |
+| 105 | In Case Nobody Ever Explained This to You: Your Payment Went Up, But Your Rate Didn't | Talking Head (PSA) | Posted | 2026-10-26 | Save this | [open](2026-10-26-payment-went-up-rate-didnt.md) |
 | 104 | The Bank's Number Is Not Your Budget | Talking Head (POV) | Scripted | 2026-10-26 | Save this | [open](2026-10-26-bank-number-not-your-budget.md) |
 | 103 | Nobody's Buying Houses. That's Your Leverage. | Talking Head (News) | Scripted | 2026-10-26 | Discussion question | [open](2026-10-26-nobodys-buying-your-leverage.md) |
 | 102 | You SHOULD Buy a House Right Now If… | Talking Head (PSA) | Scripted | 2026-10-26 | Comment "that's me" | [open](2026-10-26-you-should-buy-right-now-if.md) |
 | 101 | The White House Wants to Cancel Your PMI. Don't Wait for It. | Talking Head (News) | Scripted | 2026-10-26 | Discussion question (still paying PMI? yes or no) | [open](2026-10-26-pmi-executive-order.md) |
-| 100 | Don't Buy a House Right Now If… (Part 2) | Talking Head (PSA) | Scripted | 2026-10-23 | Comment "not me" | [open](2026-10-23-dont-buy-right-now-if-part-2.md) |
+| 100 | Don't Buy a House Right Now If… (Part 2) | Talking Head (PSA) | Posted | 2026-10-23 | Comment "not me" | [open](2026-10-23-dont-buy-right-now-if-part-2.md) |
 | 99 | One Share vs. the House They Grow Up In | Talking Head (News) | Scripted | 2026-10-19 | Discussion question | [open](2026-10-19-musk-spacex-share-vs-home.md) |
 | 98 | It's Not the Rate. It's the Lifestyle. | Talking Head (POV) | Posted | 2026-10-19 | Discussion question | [open](2026-10-19-not-the-rate-its-the-lifestyle.md) |
-| 97 | Day 31 | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-day-31.md) |
+| 97 | Day 31 | Reenactment | Posted | 2026-10-12 | None | [open](2026-10-12-day-31.md) |
 | 96 | Just Tell Us the Rate | Reenactment | Scripted | 2026-10-12 | None | [open](2026-10-12-just-tell-us-the-rate.md) |
 | 95 | Your Mortgage Payment Probably Isn't Going Where You Think | Talking Head (PSA) | Scripted | 2026-10-12 | Save this | [open](2026-10-12-payment-not-going-where-you-think.md) |
 | 94 | You're Not Scared of the Rate | Talking Head (POV) | Scripted | 2026-10-12 | Schedule a call | [open](2026-10-12-not-scared-of-the-rate.md) |

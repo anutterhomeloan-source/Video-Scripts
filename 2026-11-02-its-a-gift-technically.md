@@ -1,7 +1,7 @@
 # It's a Gift (Technically)
 
 - **Type:** Reenactment
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-11-02
 - **CTA:** None
 - **Image asset:** None (generated cards on hold; use text call-outs / article screenshots)

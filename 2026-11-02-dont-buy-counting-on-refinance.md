@@ -1,7 +1,7 @@
 # Don't Buy a House Right Now If… You're Counting on a Refinance
 
 - **Type:** Talking Head (PSA)
-- **Status:** Scripted
+- **Status:** Posted
 - **Date approved:** 2026-11-02
 - **CTA:** Comment "not me"
 - **Image asset:** None (generated cards on hold; use text call-outs / article screenshots)
