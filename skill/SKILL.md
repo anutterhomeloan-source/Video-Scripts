@@ -54,6 +54,7 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
   - **Swap-in option:** when a topic-relevant credibility line genuinely fits — a specific stat, background, or expertise that ties directly to *this* video's angle, not just "who Jordan is" in general — use that instead of the generic tagline (e.g. "I've closed dozens of self-employed loans this year, so I know exactly where the pitfalls are" on a self-employed script). Same job — who she is, why to trust her — but it doubles as content instead of feeling pasted in. Don't force it; default to the standard branding line when nothing topic-specific fits.
 - **Must end with IMAGE OPTION block** (see Visuals section)
 - **Must include a CTA**
+- **Length for Facebook:** Facebook won't accept videos over 90 seconds, and Jordan earns money there. Keep talking heads to **about 230 spoken words or fewer** (90 seconds at her pace, with room for the words she adds on camera). If a script needs more, say so and offer a trimmed Facebook cut. Report the spoken word count with every talking head script.
 
 ### Reenactment
 - Jordan plays two characters: herself (loan officer) and a borrower
@@ -62,8 +63,8 @@ When Jordan picks an idea number, ask 5–10 clarifying questions (including CTA
 - **Do NOT add branding line** unless Jordan asks
 - **Do NOT include CTA** unless Jordan asks
 - Script is written as dialogue
-- **LENGTH (hard rule): every reenactment part MUST run a minimum of 60 seconds and a maximum of 90 seconds.** Write each part long enough to land in that window (roughly 150–230 words of dialogue per part, plus pauses). Do not deliver a part estimated under 60 seconds. This applies per part in a multi-part series.
-- **Count, don't estimate:** count the dialogue words in each part before presenting it. Each part must be at least 150 words (a part under that runs under 60 seconds). Report the real counts.
+- **LENGTH (hard rule): every reenactment part MUST run a minimum of 60 seconds and a maximum of 90 seconds.** The 90-second ceiling isn't a style choice. **Facebook won't accept videos over 90 seconds, and Jordan earns money from Facebook,** so a part that runs long can't be posted there. Write each part long enough to land in that window (roughly 150–210 words of dialogue per part, plus pauses). Do not deliver a part estimated under 60 seconds or over 90. This applies per part in a multi-part series.
+- **Count, don't estimate:** count the dialogue words in each part before presenting it. Each part must be at least 150 words (a part under that runs under 60 seconds) and **no more than about 210**, because Jordan adds words on camera (her own lines get longer and warmer, see "How Jordan actually re-words scripts on camera"). Report the real counts.
 - **Series shape (Jordan's IG data: Part 1s average about 20K views, Part 2s about 12K):** Part 1 must work as a standalone post and end on an unresolved cliffhanger. Part 2 opens with a one-line recap so it also stands alone. Don't save the best moment for Part 2.
 - **Captions carry the conversation:** reenactments have no spoken CTA, so end each part's caption with a one-line discussion prompt ("Would you have caught this?"). Jordan's reenactments average only a few comments.
 
@@ -282,7 +283,7 @@ Sourced from a breakdown of Shivani Peterson (@shivpeter, about 57K followers) i
 
 **Compliance guardrail:** Jordan is a licensed loan officer. Frame rate talk as "what to watch," never a forecast or guarantee (no "rates will come down in six months"). Verify any lender-policy claim against NFM before it goes in a script.
 
-**What we deliberately do not copy:** profanity (Jordan doesn't curse), Shivani's 2-plus-minute runtimes (Jordan's talking heads already run 60–100 seconds), and dense paragraphs that don't read well off a teleprompter.
+**What we deliberately do not copy:** profanity (Jordan doesn't curse), Shivani's 2-plus-minute runtimes (Jordan's talking heads run 60–90 seconds, capped at 90 for Facebook), and dense paragraphs that don't read well off a teleprompter.
 
 ---
 
