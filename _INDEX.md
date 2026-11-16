@@ -9,6 +9,7 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 113 | Jordan, You're in Mortgages, Right? | Reenactment | Scripted | 2026-11-15 | None | [open](2026-11-15-youre-in-mortgages-right.md) |
 | 112 | It's a Gift (Technically) | Reenactment | Posted | 2026-11-02 | None | [open](2026-11-02-its-a-gift-technically.md) |
 | 111 | Don't Buy a House Right Now If… You're Counting on a Refinance | Talking Head (PSA) | Posted | 2026-11-02 | Comment "not me" | [open](2026-11-02-dont-buy-counting-on-refinance.md) |
 | 110 | Behind the Sale: The Buyer Who Almost Gave Up | Talking Head (POV) | Scripted | 2026-11-02 | Schedule a call | [open](2026-11-02-behind-the-sale-almost-gave-up.md) |
