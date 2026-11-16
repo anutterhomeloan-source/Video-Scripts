@@ -3,6 +3,7 @@
 - **Series:** Your Next Move (Arc A — Before You're Under Contract), Step 5 of 9
 - **Type:** Talking Head (Series — confessional/narrative style, no branding line, no CTA)
 - **Status:** Scripted
+- **Revised:** 2026-11-15 (smoothed into Jordan's on-camera style: flowing sentences, connectors; Step 3 underwriter claim softened; Step 6 adds the Georgia due diligence line)
 - **Date approved:** 2026-08-01
 - **CTA:** None (series steps 1–8 are CTA-free by design; a soft CTA lands on Step 9, the series finale)
 - **Image asset:** your-next-move-step5.png (board graphic, Step 5 "House Hunting" highlighted)
@@ -12,37 +13,35 @@
 
 ## Script
 
-Loan officer, budget, paperwork, a realtor who's actually on your side — that's four steps before you've toured a single house.
+So loan officer, budget, paperwork, and a realtor who's actually on your side. That's four steps before you've toured a single house.
 
-Here's why that order matters.
+And here's why that order matters.
 
-An accepted offer isn't a done deal.
-
-It's just the moment you find out if the numbers actually work.
+Because an accepted offer isn't a done deal. It's just the moment you find out if the numbers actually work.
 
 This is step five of nine in Your Next Move.
 
 VISUAL: Your Next Move board graphic, Step 5 (House Hunting) highlighted — your-next-move-step5.png
 
-I get this call more than you'd think.
+And I get this call more than you'd think.
 
-Someone finds a house. Falls for it. Their agent writes up an offer. The sellers say yes.
+Somebody finds a house, falls in love with it, their agent writes up an offer, and the sellers say yes.
 
-And only then — after the offer's accepted — do they call me to actually get pre-approved.
+And only then, after the offer's been accepted, do they call me to actually get pre-approved.
 
-Sometimes the numbers come back higher than they wanted. Sometimes they don't qualify for that price at all.
+And sometimes the payment comes back higher than they wanted. Sometimes they don't qualify for that price at all.
 
-And now I'm not just running numbers. I'm the person who has to tell someone, after they've already celebrated, after they've already told their family, that the house they thought was theirs... might not be.
+And now I'm not just running numbers. I'm the person who has to tell someone, after they've already celebrated and already told their family, that the house they thought was theirs might not be.
 
-That conversation is so much harder after an offer's been accepted than before you ever walked through the door.
+And that conversation is so much harder after an offer's been accepted than it is before you ever walk through the door.
 
-Because house hunting isn't step one. It's step five. On purpose.
+That's why house hunting isn't step one. It's step five, on purpose.
 
-By the time you're touring houses, you should already know your loan officer, your real budget, and your actual pre-approval number — so when you find the one, you can move on it immediately. Not hope the numbers work out after the fact.
+By the time you're touring houses, you should already know your loan officer, your real budget, and your actual pre-approval number, so when you find the one, you can move on it right away instead of hoping the numbers work out after the fact.
 
-So here's step five — go look at houses. Fall in love with one. But do it with your numbers already locked, not the other way around.
+So here's step five. Go look at houses, and fall in love with one. Just do it with your numbers already figured out, not the other way around.
 
-Step six's next — the moment the seller says yes, and what you might be giving away in the fine print without realizing it.
+And step six is next, which is the moment the seller says yes, and what you might be giving away in the fine print without even realizing it.
 
 ---
 

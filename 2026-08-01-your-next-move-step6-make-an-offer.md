@@ -3,6 +3,7 @@
 - **Series:** Your Next Move (Arc A — Before You're Under Contract), Step 6 of 9
 - **Type:** Talking Head (Series — confessional/narrative style, no branding line, no CTA)
 - **Status:** Scripted
+- **Revised:** 2026-11-15 (smoothed into Jordan's on-camera style: flowing sentences, connectors; Step 3 underwriter claim softened; Step 6 adds the Georgia due diligence line)
 - **Date approved:** 2026-08-02
 - **CTA:** None (series steps 1–8 are CTA-free by design; a soft CTA lands on Step 9, the series finale)
 - **Image asset:** your-next-move-step6.png (board graphic, Step 6 "Make An Offer" highlighted)
@@ -12,37 +13,35 @@
 
 ## Script
 
-You found the house, the numbers work, the offer's in.
+So you found the house, the numbers work, and your offer's in.
 
-Step six is the part almost nobody warns you about — what happens the second the seller says yes.
+And step six is the part almost nobody warns you about, which is what happens the second the seller says yes.
 
-Once the seller says yes...
-
-there's no turning back.
-
-Not without risking your earnest money.
+Because once the seller says yes, there's no turning back, at least not without risking your earnest money.
 
 This is step six of nine in Your Next Move.
 
 VISUAL: Your Next Move board graphic, Step 6 (Make An Offer) highlighted — your-next-move-step6.png
 
-I've watched buyers waive contingencies to make their offer look stronger. And depending on the market, sometimes that's actually the right call.
+So I've watched buyers waive contingencies to make their offer look stronger. And depending on the market, sometimes that's actually the right call.
 
 But most of the time, they don't fully understand what they're giving up when they do it.
 
-Here's what a contingency actually is — it's your way out. The inspection contingency means if something's seriously wrong with the house, you can walk. And keep your earnest money.
+So here's what a contingency actually is. It's your way out. The inspection contingency means if something's seriously wrong with the house, you can walk away and keep your earnest money.
 
-Waive it, and that safety net is gone. If the roof's bad, if the foundation's cracked, if anything shows up — you're still buying the house. Or you're walking away and losing every dollar of that earnest money.
+And here in Georgia, that protection usually comes from your due diligence period.
 
-I've seen it happen. A buyer gets so focused on winning the house, they waive protections they didn't even realize they had. Then something comes up in inspection anyway. And now they're stuck choosing between a house with real problems... or losing thousands of dollars to walk away.
+And if you waive it, that safety net is gone. So if the roof's bad, or the foundation's cracked, or anything else shows up, you're either still buying the house, or you're walking away and losing your earnest money.
 
-That's the moment nobody warns you about. Not the offer itself. The fine print inside it.
+And I've seen it happen. A buyer gets so focused on winning the house that they waive protections they didn't even realize they had. Then something comes up in the inspection anyway, and now they're stuck choosing between a house with real problems or losing thousands of dollars to walk away.
 
-So step six isn't just "write the offer." It's understanding every contingency in it, and what you're risking if you take one out.
+That's the part nobody warns you about. It's not the offer itself. It's the fine print inside it.
 
-Ask before you waive anything — what exactly am I giving up, and what happens to my earnest money if I need out?
+So step six isn't just writing the offer. It's understanding every contingency in it, and what you're risking if you take one out.
 
-That's six down, three to go. Step seven's next — the number on your approval letter, and why it should never be the number you hand a seller.
+So before you waive anything, ask your agent, "What exactly am I giving up, and what happens to my earnest money if I need out?"
+
+And step seven is next, which is the number on your pre-approval letter, and why it should never be the number you hand a seller.
 
 ---
 

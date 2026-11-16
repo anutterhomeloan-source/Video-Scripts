@@ -3,6 +3,7 @@
 - **Series:** Your Next Move (Arc A — Before You're Under Contract), Step 3 of 9
 - **Type:** Talking Head (Series — confessional/narrative style, no branding line, no CTA)
 - **Status:** Scripted
+- **Revised:** 2026-11-15 (smoothed into Jordan's on-camera style: flowing sentences, connectors; Step 3 underwriter claim softened; Step 6 adds the Georgia due diligence line)
 - **Date approved:** 2026-08-01
 - **CTA:** None (series steps 1–8 are CTA-free by design; a soft CTA lands on Step 9, the series finale)
 - **Image asset:** your-next-move-step3.png (board graphic, Step 3 "Pre-Approval" highlighted)
@@ -12,37 +13,35 @@
 
 ## Script
 
-You've got your loan officer. You know your real budget.
+So by now you've got your loan officer, and you know your real budget.
 
-Step three is where a lot of good offers quietly get passed over — and it's not about price.
+And step three is where a lot of good offers quietly get passed over, and it actually has nothing to do with price.
 
-Sometimes you don't lose a house to a better offer.
-
-You lose it to better paperwork.
+Because sometimes you don't lose a house to a better offer. You lose it to better paperwork.
 
 This is step three of nine in Your Next Move.
 
 VISUAL: Your Next Move board graphic, Step 3 (Pre-Approval) highlighted — your-next-move-step3.png
 
-I've lost count of how many buyers have come to me after this happened.
+I honestly can't count how many buyers have come to me after this happened to them.
 
-They found a house. Fell in love with it. Their agent wrote up an offer, attached a letter that said "pre-qualified," and sent it in.
+They found a house, they fell in love with it, and their agent wrote up an offer with a letter that said "pre-qualified" and sent it in.
 
-And somewhere in a stack of other offers, a listing agent picks up the phone. Calls the buyer's lender. Asks one question — is this verified, or is this just what they told you?
+And somewhere in a stack of other offers, the listing agent picks up the phone, calls that buyer's lender, and asks one question: "Is this verified, or is this just what they told you?"
 
-And when the answer is "it's just what they told us"... that offer goes to the bottom of the pile. Every time.
+And when the answer is "it's just what they told us," that offer generally goes to the bottom of the pile.
 
-Because a pre-qualification is a guess. Nobody's verified your income. Nobody's pulled your credit and actually looked at it. Nobody's checked your bank statements.
+Because a pre-qualification is basically a guess. Nobody's verified your income, nobody's actually looked at your credit, and nobody's checked your bank statements.
 
-A pre-approval is different. Your income's been verified. Your credit's been pulled. An underwriter's actually looked at your file — not just a loan officer typing numbers into a screen.
+A pre-approval is different. Your income's been verified, your credit's been pulled, and your documents have actually been reviewed, not just typed into a screen.
 
 And most buyers don't even know there's a difference. They just know their offer didn't get picked.
 
-So here's step three — before you let your realtor submit a single offer, ask your lender this exact question. Is this verified, or is this estimated?
+So here's step three. Before your realtor submits a single offer, ask your lender this exact question: "Is this verified, or is this estimated?"
 
-Because in a competitive market, sellers know the difference. Even if you don't yet.
+Because in a competitive market, sellers know the difference, even if you don't yet.
 
-Step four's next — what actually makes a realtor worth having in your corner, not just someone who opens doors.
+And step four is next, which is what actually makes a realtor worth having in your corner, not just somebody who opens doors.
 
 ---
 

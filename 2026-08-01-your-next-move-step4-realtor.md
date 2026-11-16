@@ -3,6 +3,7 @@
 - **Series:** Your Next Move (Arc A — Before You're Under Contract), Step 4 of 9
 - **Type:** Talking Head (Series — confessional/narrative style, no branding line, no CTA)
 - **Status:** Scripted
+- **Revised:** 2026-11-15 (smoothed into Jordan's on-camera style: flowing sentences, connectors; Step 3 underwriter claim softened; Step 6 adds the Georgia due diligence line)
 - **Date approved:** 2026-08-01
 - **CTA:** None (series steps 1–8 are CTA-free by design; a soft CTA lands on Step 9, the series finale)
 - **Image asset:** your-next-move-step4.png (board graphic, Step 4 "Realtor" highlighted)
@@ -12,41 +13,41 @@
 
 ## Script
 
-By now you've got a loan officer, a real budget, and paperwork that actually holds up.
+So by now you've got a loan officer, a real budget, and paperwork that actually holds up.
 
-Step four is about the person walking the rest of this with you.
+And step four is all about the person walking the rest of this with you.
 
-Your agent and I are supposed to be on the same team.
+Because your agent and I are supposed to be on the same team, working toward the exact same thing, which is getting you to the closing table.
 
-Working toward the exact same thing — getting you to the closing table.
-
-Not every agent got that memo.
+And not every agent got that memo.
 
 This is step four of nine in Your Next Move.
 
 VISUAL: Your Next Move board graphic, Step 4 (Realtor) highlighted — your-next-move-step4.png
 
-I had a client relocating for a new job. Her company gave her a relocation package — a nice one. Except there was a catch. To actually get the benefit, she had to use their agent. A specific one, already picked for her.
+So I had a client who was relocating for a new job, and her company gave her a really nice relocation package.
 
-She still came to me for the loan. I'm grateful for that. But the second her agent found out she didn't go with their preferred lender too... things got quiet.
+But there was a catch. To actually get the benefit, she had to use their agent. A specific one, already picked out for her.
 
-We needed one document from that agent. One. The very last thing standing between her and clear to close.
+She still came to me for the loan, and I'm so grateful for that. But the second that agent found out she didn't go with their preferred lender too, things got really quiet.
+
+We needed one document from that agent. Just one. It was the very last thing standing between her and clear to close.
 
 I asked. My team asked. More than once.
 
-Nothing. Days went by. Then more days.
+And nothing. Days went by, and then more days.
 
-Until I finally had to go to my client directly and say — I need you to call your agent. Tell her how important this is. Because without it, we don't close.
+Until I finally had to go to my client directly and say, "I need you to call your agent and tell her how important this is, because without it, we don't close."
 
-She made the call. We got the document. We closed.
+So she made the call, we got the document, and we closed.
 
-But I think about how close that got. Not because the numbers were hard. Not because underwriting was slow. Because the person who was supposed to be fighting for her... wasn't.
+But I still think about how close that got. And it wasn't because the numbers were hard, or because underwriting was slow. It was because the person who was supposed to be fighting for her just wasn't.
 
-That's step four. Your realtor isn't just the person who unlocks doors and writes the offer. They're supposed to be on your team, every step, all the way to the table.
+So that's step four. Your realtor isn't just the person who unlocks doors and writes the offer. They're supposed to be on your team, every step of the way, all the way to the table.
 
-If they're not — that's not a small thing. That's a red flag.
+And if they're not, that's not a small thing. That's a red flag.
 
-Step five's next — why most buyers start house hunting in exactly the wrong order.
+And step five is next, which is why so many buyers start house hunting in exactly the wrong order.
 
 ---
 
