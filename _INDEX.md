@@ -9,6 +9,9 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 122 | Your Next Move — Step 9: Under Contract! | Talking Head (Series) | Scripted | 2026-11-15 | Link in bio (series finale soft CTA) | [open](2026-11-15-your-next-move-step9-under-contract.md) |
+| 121 | Your Next Move — Step 8: Negotiate | Talking Head (Series) | Scripted | 2026-11-15 | None | [open](2026-11-15-your-next-move-step8-negotiate.md) |
+| 120 | Your Next Move — Step 7: The Ceiling | Talking Head (Series) | Scripted | 2026-11-15 | None | [open](2026-11-15-your-next-move-step7-the-ceiling.md) |
 | 119 | Never Skip the Final Walkthrough | Talking Head (PSA) | Scripted | 2026-11-15 | Save this | [open](2026-11-15-final-walkthrough-psa.md) |
 | 118 | The Friendsgiving Plan | Reenactment | Scripted | 2026-11-15 | None | [open](2026-11-15-friendsgiving-plan.md) |
 | 117 | If Your Family Asks When You're Buying a House… | Talking Head (News) | Scripted | 2026-11-15 | Link in bio | [open](2026-11-15-family-asks-when-buying.md) |
