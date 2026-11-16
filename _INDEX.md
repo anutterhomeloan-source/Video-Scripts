@@ -9,6 +9,12 @@ Scan this table when you're ready to film, then open the script you want.
 
 | # | Title | Type | Status | Date Approved | CTA | File |
 |---|-------|------|--------|---------------|-----|------|
+| 119 | Never Skip the Final Walkthrough | Talking Head (PSA) | Scripted | 2026-11-15 | Save this | [open](2026-11-15-final-walkthrough-psa.md) |
+| 118 | The Friendsgiving Plan | Reenactment | Scripted | 2026-11-15 | None | [open](2026-11-15-friendsgiving-plan.md) |
+| 117 | If Your Family Asks When You're Buying a House… | Talking Head (News) | Scripted | 2026-11-15 | Link in bio | [open](2026-11-15-family-asks-when-buying.md) |
+| 116 | The Walkthrough | Reenactment | Scripted | 2026-11-15 | None | [open](2026-11-15-the-walkthrough.md) |
+| 115 | Your Zillow Number Isn't Your Payoff | Talking Head (PSA) | Scripted | 2026-11-15 | Save this | [open](2026-11-15-zillow-isnt-your-payoff.md) |
+| 114 | Rates Fell 4 Weeks Straight. Almost Nobody Noticed. | Talking Head (News) | Scripted | 2026-11-15 | Discussion question (did you notice rates came down? yes or no) | [open](2026-11-15-rates-fell-four-weeks.md) |
 | 113 | Jordan, You're in Mortgages, Right? | Reenactment | Scripted | 2026-11-15 | None | [open](2026-11-15-youre-in-mortgages-right.md) |
 | 112 | It's a Gift (Technically) | Reenactment | Posted | 2026-11-02 | None | [open](2026-11-02-its-a-gift-technically.md) |
 | 111 | Don't Buy a House Right Now If… You're Counting on a Refinance | Talking Head (PSA) | Posted | 2026-11-02 | Comment "not me" | [open](2026-11-02-dont-buy-counting-on-refinance.md) |
